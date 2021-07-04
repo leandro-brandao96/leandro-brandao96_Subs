@@ -1,0 +1,2391 @@
+1
+00:00:52,788 --> 00:00:55,195
+Ouviu isso, Jeremy?
+
+2
+00:00:55,320 --> 00:00:57,749
+Ouvir o quê?
+
+3
+00:00:58,906 --> 00:01:01,632
+A cantinga da floresta.
+
+4
+00:01:09,863 --> 00:01:12,277
+Consigo ouvi-la agora.
+
+5
+00:01:12,481 --> 00:01:17,374
+É cantada por Wolf Girls.
+
+6
+00:01:17,375 --> 00:01:20,334
+Essa estória começa há muitos,
+
+7
+00:01:20,335 --> 00:01:23,702
+muitos anos.
+
+8
+00:01:28,217 --> 00:01:32,638
+<i>Um padre, Nicodemos, decide armar
+um exército de indigentes</i>
+
+9
+00:01:32,639 --> 00:01:35,927
+<i>a fim de salvar
+a Santa Terra de Jerusalém</i>.
+
+10
+00:01:35,928 --> 00:01:39,882
+<i>Ele conseguiu convencer
+um vasto número de camponeses,</i>
+
+11
+00:01:39,883 --> 00:01:44,303
+<i>bem como outros páreas,
+para segui-lo à tumba de Cristo.</i>
+
+12
+00:01:44,304 --> 00:01:47,246
+<i>Rapidamente
+conseguiu 100 seguidores.</i>
+
+13
+00:01:47,247 --> 00:01:52,121
+<i>De onde marcharam pelo país
+até que chegaram a Jerusalém.</i>
+
+14
+00:01:52,122 --> 00:01:56,636
+<i>Contudo, logo a comida faltou.</i>
+
+15
+00:01:56,637 --> 00:02:01,339
+<i>Então, severa e excruciantemente,
+o inverno chegara.</i>
+
+16
+00:02:01,340 --> 00:02:03,346
+<i>Um a um</i>
+
+17
+00:02:03,347 --> 00:02:06,229
+<i>morriam de fome.</i>
+
+18
+00:02:06,230 --> 00:02:10,198
+Pouquíssimos
+adentraram na floresta.
+
+19
+00:02:10,199 --> 00:02:13,401
+Exatamente esta floresta.
+
+20
+00:02:13,402 --> 00:02:17,605
+<i>Enquanto isso, lá,
+lobos gigantes corriam.</i>
+
+21
+00:02:19,322 --> 00:02:22,209
+<i>Mas Nicodemos despreocuva-se.</i>
+
+22
+00:02:22,210 --> 00:02:27,076
+<i>Afirmava que os anjos o visitaram,
+mostrando-o um caminho mais curto</i>
+
+23
+00:02:27,077 --> 00:02:32,030
+<i>para cumprir as ordens de Deus.
+"Avante, povo!".</i>
+
+24
+00:02:35,847 --> 00:02:38,221
+<i>Faminto e desesperado,</i>
+
+25
+00:02:38,222 --> 00:02:40,871
+<i>Nicodemos vê uma garotinha,</i>
+
+26
+00:02:40,872 --> 00:02:45,637
+<i>carne fresca que satisfaria
+aos seus famintos seguidores.</i>
+
+27
+00:02:48,848 --> 00:02:51,418
+<i>Implorava-o que a libertasse.</i>
+
+28
+00:02:51,419 --> 00:02:55,589
+<i>"Cala-te, mulher!
+Você cumprirá a ordem de Deus.</i>
+
+29
+00:02:55,590 --> 00:02:58,965
+Ore por salvação".
+
+30
+00:03:04,273 --> 00:03:07,334
+<i>A bela e pura canção da garotinha</i>
+
+31
+00:03:07,335 --> 00:03:08,871
+<i>acordara a floresta.</i>
+
+32
+00:03:08,872 --> 00:03:12,653
+<i>E a floresta iria protegê-la.</i>
+
+33
+00:03:13,708 --> 00:03:16,665
+<i>A floresta defendia
+o inocente do acusador.</i>
+
+34
+00:03:16,666 --> 00:03:19,875
+<i>Enviava a ela seus mensageiros.</i>
+
+35
+00:03:29,312 --> 00:03:32,811
+<i>Vendo que a garota montara-se
+nas costas de um grande lobo,</i>
+
+36
+00:03:32,812 --> 00:03:36,134
+<i>Nicodemos bradava:
+"Bruxa, você é uma bruxa!</i>
+
+37
+00:03:36,135 --> 00:03:40,306
+Salvara-se por ter parte
+com o demônio Belzebu!".
+
+38
+00:03:41,882 --> 00:03:44,865
+A ele a garota retrucou:
+
+39
+00:03:44,866 --> 00:03:49,241
+"Melhor acompanhar-se
+dos lobos a homens".
+
+40
+00:03:49,242 --> 00:03:52,601
+<i>"Você vai morrer, bruxa!".</i>
+
+41
+00:03:57,371 --> 00:04:00,833
+Ela desapareceu
+eternamente na floresta.
+
+42
+00:04:04,903 --> 00:04:08,924
+Ainda existem lobos, mamãe?
+
+43
+00:04:08,925 --> 00:04:12,957
+Lobos? Não.
+
+44
+00:04:12,958 --> 00:04:15,723
+Não, não existem.
+
+45
+00:04:16,320 --> 00:04:19,703
+Quanto aos homens?
+
+46
+00:04:21,911 --> 00:04:24,770
+Sim, existem.
+
+47
+00:04:33,431 --> 00:04:37,134
+HUNTED
+
+48
+00:04:37,251 --> 00:04:41,062
+DjalmaVM
+
+49
+00:05:03,953 --> 00:05:07,132
+<i>Estipulamos os prazos
+por uma razão, Eve.</i>
+
+50
+00:05:07,133 --> 00:05:09,788
+<i>Não permita que esses putos
+saiam impunes dessa.</i>
+
+51
+00:05:09,789 --> 00:05:14,522
+Eu sei disso. Já falei, mas tiveram
+um problema na entrega.
+
+52
+00:05:14,523 --> 00:05:17,943
+<i>Precisa argumentar com eles
+e pressioná-los quanto a isso.</i>
+
+53
+00:05:17,944 --> 00:05:21,082
+É o que tenho feito.
+Acho-os confiantes.
+
+54
+00:05:21,083 --> 00:05:24,457
+<i>Seja mais árdua com eles.
+Ademais, sobrará para nós.</i>
+
+55
+00:05:24,458 --> 00:05:26,457
+<i>Estaremos ferrados.</i>
+
+56
+00:05:26,458 --> 00:05:30,771
+<i>Se quiser, o Martin resolve tudo.
+Ele está bem aqui.</i>
+
+57
+00:05:30,772 --> 00:05:34,786
+- <i>Chega aí de manhã, se quiser.</i>
+- Não.
+
+58
+00:05:34,787 --> 00:05:37,832
+Obrigado,
+mas eu me viro amanhã.
+
+59
+00:05:37,833 --> 00:05:40,761
+<i>Certifique-se que sim.
+Não gosto de decepções.</i>
+
+60
+00:05:40,762 --> 00:05:42,872
+- <i>Tchau.</i>
+- Tchau.
+
+61
+00:05:56,514 --> 00:05:58,756
+Alô?
+
+62
+00:05:59,273 --> 00:06:03,758
+Não consegui te retornar.
+Tive um péssimo dia.
+
+63
+00:06:03,875 --> 00:06:07,624
+Chega disso de apartamento.
+Eu não sei, eu não sei.
+
+64
+00:06:07,625 --> 00:06:10,318
+Quando voltar falaremos disso.
+Pode ser?
+
+65
+00:06:10,319 --> 00:06:13,287
+Certo. Tchau.
+
+66
+00:06:29,900 --> 00:06:33,255
+<i>Ninguém se atreveu
+a me ordernar nada.</i>
+
+67
+00:06:33,357 --> 00:06:36,583
+<i>É só a primeira vez.</i>
+
+68
+00:06:50,415 --> 00:06:53,734
+<i>Você exerce
+uma estranha força em mim.</i>
+
+69
+00:06:53,735 --> 00:06:57,165
+<i>Sendo amor ou não,
+eu não sei.</i>
+
+70
+00:06:57,837 --> 00:07:00,290
+<i>E sabe que tudo que quero
+é estar contigo.</i>
+
+71
+00:07:00,291 --> 00:07:03,642
+<i>É desse jeito que eu gosto.
+Não é assim contigo?</i>
+
+72
+00:08:13,410 --> 00:08:16,800
+O que posso oferecê-la?
+
+73
+00:08:16,801 --> 00:08:19,996
+Pode ser um mojito?
+
+74
+00:08:34,434 --> 00:08:38,833
+- Prontinho. De nada.
+- Obrigada.
+
+75
+00:08:40,923 --> 00:08:43,907
+Você é minha acompanhante?
+
+76
+00:08:43,908 --> 00:08:47,643
+- Não.
+- Estou brincando.
+
+77
+00:08:48,409 --> 00:08:53,103
+- Posso oferecê-la uma bebida?
+- Estou de boas. Valeu.
+
+78
+00:08:53,104 --> 00:08:57,704
+- Você é russa? Polonesa?
+- Não.
+
+79
+00:08:57,705 --> 00:09:00,205
+Francesa.
+
+80
+00:09:00,206 --> 00:09:03,499
+Você faz aquele lance
+das atrizes franceses?
+
+81
+00:09:03,500 --> 00:09:05,875
+Não.
+
+82
+00:09:07,924 --> 00:09:11,072
+Parece triste.
+
+83
+00:09:11,073 --> 00:09:15,082
+- E se formos lá em casa?
+- Escute, já chega!
+
+84
+00:09:15,083 --> 00:09:19,394
+Tudo bem, tudo bem.
+Só estou conversando.
+
+85
+00:09:19,395 --> 00:09:22,916
+Quem você acha que é?
+Miss Universe?
+
+86
+00:09:22,917 --> 00:09:27,165
+Já é hora de desistir.
+Está incomodando ela.
+
+87
+00:09:27,166 --> 00:09:30,441
+Não estou, não.
+Muito obrigado.
+
+88
+00:09:30,442 --> 00:09:34,363
+Mais duas:
+uma para mim e à minha garota.
+
+89
+00:09:45,728 --> 00:09:50,124
+- Está tudo bem?
+- Sim. Obrigada.
+
+90
+00:09:50,125 --> 00:09:52,834
+- De nada.
+- Que cuzão.
+
+91
+00:09:52,835 --> 00:09:55,791
+Sim, claro. É...
+
+92
+00:09:57,083 --> 00:10:01,824
+- Dois mojitos.
+- Posso oferecê-lo uma bebida?
+
+93
+00:10:01,825 --> 00:10:03,886
+- Por que não?
+- Eram do cuzão.
+
+94
+00:10:03,887 --> 00:10:06,875
+Certo. Valeu.
+
+95
+00:10:09,864 --> 00:10:13,371
+O que você disse a ele?
+
+96
+00:10:13,372 --> 00:10:18,215
+- Que ele trocasse de perfume.
+- Sei, certo.
+
+97
+00:10:20,658 --> 00:10:24,524
+O que faz nesse lugar incrível?
+
+98
+00:10:24,525 --> 00:10:29,334
+Eu vim supervisionar um projeto
+de construção nas redondezas.
+
+99
+00:10:29,335 --> 00:10:31,832
+Precisava me desopilar um pouco,
+
+100
+00:10:31,833 --> 00:10:35,433
+beber algo. Acabei por aqui.
+
+101
+00:10:35,434 --> 00:10:39,183
+- E você?
+- Eu...
+
+102
+00:10:39,184 --> 00:10:42,249
+Veio para dançar?
+Vi-o mais cedo. Manda bem.
+
+103
+00:10:42,250 --> 00:10:46,889
+Não viu foi nada ainda.
+Consigo dar umas piruetas.
+
+104
+00:10:46,890 --> 00:10:51,842
+Não. Vim para ver meu irmão.
+Está ali no fundo.
+
+105
+00:10:51,843 --> 00:10:56,350
+Não está em ótimas condições.
+A namorada dele morreu. Câncer.
+
+106
+00:10:58,069 --> 00:11:01,225
+- Sinto muito.
+- A vida é assim.
+
+107
+00:11:02,845 --> 00:11:06,774
+A próxima rodada é minha,
+se quiser.
+
+108
+00:11:37,458 --> 00:11:40,902
+- Você arrasa nos passos. Sério.
+- Tenha dó.
+
+109
+00:11:40,903 --> 00:11:44,176
+Aquilo que chamo
+de dançar de verdade.
+
+110
+00:12:11,626 --> 00:12:14,525
+Venha.
+
+111
+00:12:31,918 --> 00:12:34,541
+Você está bem?
+
+112
+00:12:38,325 --> 00:12:41,731
+Fiz alguma coisa de errado?
+
+113
+00:12:51,929 --> 00:12:55,624
+O que vocês estão fazendo?
+
+114
+00:12:57,375 --> 00:13:00,415
+Por que demorou tanto?
+
+115
+00:13:00,416 --> 00:13:04,930
+- O que está havendo aqui?
+- Precisávamos sair de lá, não é?
+
+116
+00:13:04,931 --> 00:13:08,290
+Aquele lugar era uma merda.
+Sei de um lugar muito melhor.
+
+117
+00:13:08,291 --> 00:13:12,249
+Mas nunca dissemos isso.
+Aonde iremos?
+
+118
+00:13:12,250 --> 00:13:16,915
+- Acalme-se, mulher. Não surta.
+- Não estou. Tirem-me daqui.
+
+119
+00:13:16,916 --> 00:13:18,946
+Deus.
+
+120
+00:13:18,947 --> 00:13:21,195
+Já está afetando o juízo.
+
+121
+00:13:21,196 --> 00:13:22,891
+Escute aqui.
+
+122
+00:13:22,892 --> 00:13:27,320
+Foi divertido, mas me leve daqui.
+Preciso trabalhar amanhã.
+
+123
+00:13:27,321 --> 00:13:31,859
+Também trabalho amanhã.
+Vamos em casa a uma última bebida.
+
+124
+00:13:31,860 --> 00:13:35,929
+Divertiremo-nos um pouquinho,
+juntos.
+
+125
+00:13:35,930 --> 00:13:40,929
+- Como assim, nós todos?
+- Sabe, nós três.
+
+126
+00:13:40,930 --> 00:13:42,913
+Como é?
+
+127
+00:13:42,914 --> 00:13:45,897
+Com o seu irmão?
+
+128
+00:13:45,898 --> 00:13:48,832
+Não sou irmão dele.
+
+129
+00:13:48,833 --> 00:13:52,684
+Mas que porra é essa?
+Parem o carro! Deixem-me sair!
+
+130
+00:13:52,786 --> 00:13:56,394
+Trava de segurança.
+Desculpa.
+
+131
+00:13:56,395 --> 00:13:58,362
+Parem o carro!
+
+132
+00:13:58,363 --> 00:14:01,932
+Parem a porra do carro,
+agora!
+
+133
+00:14:01,933 --> 00:14:05,767
+Deixaremos você sair.
+Não somos loucos assim.
+
+134
+00:14:05,768 --> 00:14:09,379
+- Pare logo!
+- Sim, vamos parar.
+
+135
+00:14:09,380 --> 00:14:14,130
+Tudo bem. Pare o carro.
+A senhorita descerá aqui.
+
+136
+00:14:25,926 --> 00:14:28,144
+Tchau.
+
+137
+00:15:29,697 --> 00:15:31,925
+Oi.
+
+138
+00:15:31,926 --> 00:15:36,257
+Posso fazer uma ligação?
+Preciso de um táxi.
+
+139
+00:15:36,258 --> 00:15:40,819
+Um táxi?
+Não encontrará a essa hora.
+
+140
+00:15:40,820 --> 00:15:43,257
+- Porra.
+- Se quiser,
+
+141
+00:15:43,366 --> 00:15:48,404
+em 20 minutos fecharei aqui.
+Poderei deixá-la na cidade.
+
+142
+00:15:48,405 --> 00:15:51,779
+Pode ser. Será ótimo.
+Obrigada.
+
+143
+00:15:51,780 --> 00:15:54,646
+Enquanto isso,
+sinta-se à vontade para ver
+
+144
+00:15:54,647 --> 00:15:58,165
+nossa vasta gama de produtos
+para jovens e velhos.
+
+145
+00:15:58,166 --> 00:16:02,290
+Tudo feito
+no grande império chinês.
+
+146
+00:16:02,291 --> 00:16:05,860
+Eles serão os grandes do mundo.
+Sabia?
+
+147
+00:16:05,861 --> 00:16:08,736
+Quando isso acontecer,
+estarei prontíssimo.
+
+148
+00:17:07,387 --> 00:17:11,458
+Olá, garotinha.
+
+149
+00:17:13,348 --> 00:17:18,183
+Sou um amorzinho,
+e adoro putinhas como você.
+
+150
+00:17:18,184 --> 00:17:21,237
+- Deixe-me em paz.
+- Pare com isso, Andy.
+
+151
+00:17:21,238 --> 00:17:25,332
+Falei para ser educado.
+Peço desculpas.
+
+152
+00:17:25,333 --> 00:17:28,082
+Vai calar a boca, putinha?
+Por favor?
+
+153
+00:17:28,083 --> 00:17:31,749
+Falei para não tratar mal
+a senhorita, Andy.
+
+154
+00:17:31,750 --> 00:17:34,332
+Sinto muito.
+Sinto muitíssimo.
+
+155
+00:17:34,333 --> 00:17:38,207
+Preciso ensiná-lo os bons modos.
+Ele é péssimo em bons modos.
+
+156
+00:17:38,208 --> 00:17:42,999
+Há algum problema, senhorita?
+Esse cara está te incomando?
+
+157
+00:17:43,000 --> 00:17:46,207
+Cara, estamos juntos.
+
+158
+00:17:46,208 --> 00:17:48,113
+Conte-o, querida.
+
+159
+00:17:48,114 --> 00:17:50,886
+Não pode me deixar assim
+Está destruindo meu coração.
+
+160
+00:17:50,887 --> 00:17:54,855
+Cara, não é o melhor lugar
+a se resolver tal tipo de problema.
+
+161
+00:17:54,856 --> 00:17:58,856
+Eu a amo. De verdade.
+
+162
+00:18:02,400 --> 00:18:06,329
+Tem razão.
+Estou sendo um idiota.
+
+163
+00:18:06,330 --> 00:18:10,149
+Não pegue tão pesado em si.
+Escute, escute aqui.
+
+164
+00:18:10,150 --> 00:18:12,332
+Confúcio assim disse uma vez:
+
+165
+00:18:12,333 --> 00:18:17,323
+"Nossa maior glória não é cairmos.
+É saber levantarmos a cada queda."
+
+166
+00:18:17,324 --> 00:18:19,249
+Pense nisso.
+
+167
+00:18:19,250 --> 00:18:22,293
+Retire um tempo para fazer
+uma autorreflexão acerca disso.
+
+168
+00:18:22,395 --> 00:18:26,625
+Obrigado, senhor.
+Você é muito gentil.
+
+169
+00:18:27,844 --> 00:18:32,826
+Irei parar de te ligar.
+Darei um tempo. Você pode
+
+170
+00:18:32,827 --> 00:18:36,251
+ligar quando se sentir à vontade.
+
+171
+00:18:39,414 --> 00:18:42,625
+Posso usar o banheiro?
+
+172
+00:18:51,406 --> 00:18:54,428
+Talvez devesse conversar com ele.
+Parece estar sofrendo.
+
+173
+00:18:54,429 --> 00:18:57,250
+Precisamos ir embora.
+
+174
+00:18:58,905 --> 00:19:01,608
+Mas que diabos?
+
+175
+00:19:40,575 --> 00:19:43,410
+Tudo certo?
+
+176
+00:19:43,411 --> 00:19:46,142
+Desculpa. Eu demorei muito?
+
+177
+00:19:54,356 --> 00:19:57,355
+Quer ficar com o Andyzinho?
+
+178
+00:19:57,356 --> 00:19:59,666
+Não?
+
+179
+00:20:02,450 --> 00:20:05,333
+Está com fome?
+
+180
+00:20:05,911 --> 00:20:08,653
+Amo esses aqui.
+
+181
+00:20:13,416 --> 00:20:16,458
+<i>Bastante dinheiro. Olhe só.</i>
+
+182
+00:20:18,500 --> 00:20:20,717
+<i>Vodka.</i>
+
+183
+00:20:20,718 --> 00:20:23,624
+Vamos logo.
+A noite é uma criança.
+
+184
+00:20:23,625 --> 00:20:25,082
+Não.
+
+185
+00:20:25,083 --> 00:20:27,794
+Não? Não quer ir, também?
+
+186
+00:20:27,795 --> 00:20:30,733
+Mexa-se.
+
+187
+00:21:17,629 --> 00:21:20,309
+O que fará comigo?
+
+188
+00:21:20,411 --> 00:21:23,614
+Nada. Entre.
+
+189
+00:21:24,447 --> 00:21:26,454
+Por favor.
+
+190
+00:21:26,455 --> 00:21:28,954
+Deixe-me ir, por favor.
+
+191
+00:21:28,955 --> 00:21:31,208
+Por favor?
+
+192
+00:21:32,423 --> 00:21:35,775
+Agarre as mãos dela.
+
+193
+00:22:29,929 --> 00:22:34,207
+Certo, o que houve?
+Você parece triste.
+
+194
+00:22:34,208 --> 00:22:36,874
+Ela não é gostosa o suficiente?
+
+195
+00:22:36,875 --> 00:22:39,601
+Quer que encontremos outra garota?
+
+196
+00:22:41,945 --> 00:22:45,609
+Qual é. Pode me contar tudo.
+Desembucha logo.
+
+197
+00:22:47,414 --> 00:22:51,131
+Não acho que posso fazer isso.
+
+198
+00:22:51,132 --> 00:22:54,194
+Não me sinto bem para fazê-lo.
+
+199
+00:22:55,413 --> 00:22:58,662
+Eu acho que pode fazer, sim.
+
+200
+00:22:58,663 --> 00:23:00,732
+Sei que é capaz de fazê-lo.
+
+201
+00:23:00,733 --> 00:23:02,834
+Estou contando contigo.
+
+202
+00:23:02,958 --> 00:23:06,583
+- Somos uma equipe, não somos?
+- Somos.
+
+203
+00:23:09,406 --> 00:23:12,742
+Acho que é errado.
+
+204
+00:23:22,375 --> 00:23:26,617
+Está tudo bem.
+Todos arregam na hora.
+
+205
+00:23:33,892 --> 00:23:37,383
+Tenho precisamente o que precisa
+
+206
+00:23:37,384 --> 00:23:41,126
+para caso se sinta envergonhado.
+
+207
+00:23:44,781 --> 00:23:47,437
+Viagra.
+
+208
+00:23:50,291 --> 00:23:52,723
+Todo ator pornô usa ele.
+
+209
+00:23:52,724 --> 00:23:57,251
+- Sério?
+- Lógico. O que você acha?
+
+210
+00:23:57,352 --> 00:23:59,624
+Imagine-se no set de gravações.
+
+211
+00:23:59,625 --> 00:24:02,707
+Toda a produção
+está pronta para filmar.
+
+212
+00:24:02,708 --> 00:24:06,124
+A putinha toda arreganhada ali.
+
+213
+00:24:06,125 --> 00:24:08,874
+Aí, um cara aparece e ele fala:
+
+214
+00:24:08,875 --> 00:24:13,875
+"Pessoal. Não vai subir hoje.
+Alguma coisa que comi.".
+
+215
+00:24:19,450 --> 00:24:21,933
+Imagina a situação.
+
+216
+00:24:21,934 --> 00:24:26,354
+Cinema
+é um comércio superimportante.
+
+217
+00:24:26,355 --> 00:24:28,775
+Eficiência a qualquer custo.
+
+218
+00:24:28,876 --> 00:24:31,720
+Amadores não têm vez.
+
+219
+00:24:31,830 --> 00:24:35,790
+Precisamos permanecer focados.
+
+220
+00:24:36,375 --> 00:24:38,374
+Repita.
+
+221
+00:24:38,375 --> 00:24:40,821
+Foco, foco.
+
+222
+00:24:40,822 --> 00:24:44,344
+- De novo.
+- Foco, foco, foco.
+
+223
+00:24:44,345 --> 00:24:48,415
+- Repita.
+- Foco, foco, foco.
+
+224
+00:24:48,416 --> 00:24:51,704
+- Mais alto!
+- Foco, foco, foco!
+
+225
+00:24:51,705 --> 00:24:55,634
+- Isso aí!
+- Foco! Foco! Foco!
+
+226
+00:26:28,367 --> 00:26:31,583
+<i>Alô?</i>
+
+227
+00:26:31,817 --> 00:26:34,715
+<i>O que está havendo?</i>
+
+228
+00:26:47,804 --> 00:26:50,601
+Gosta da música?
+
+229
+00:27:13,939 --> 00:27:18,172
+Não tenho AIDS, sabia?
+
+230
+00:27:18,173 --> 00:27:20,727
+Qual é o seu problema?
+
+231
+00:27:20,728 --> 00:27:24,391
+- Eu te enojo? Minha boca te enoja?
+- Não, de jeito nenhum.
+
+232
+00:27:24,392 --> 00:27:27,344
+Por que secou a garrafa
+antes de beber?
+
+233
+00:27:27,345 --> 00:27:30,180
+É só costume.
+
+234
+00:27:30,782 --> 00:27:35,618
+- Então não te enojo?
+- Não, de forma alguma.
+
+235
+00:27:36,390 --> 00:27:38,889
+Você me ama?
+
+236
+00:27:38,890 --> 00:27:42,749
+- Como é?
+- Você me ama, caralho?
+
+237
+00:27:42,851 --> 00:27:46,458
+Sim. Sim.
+
+238
+00:27:47,892 --> 00:27:51,861
+- Pois me dê um beijo.
+- Como é?
+
+239
+00:28:04,356 --> 00:28:07,153
+Beije-me. Agora!
+
+240
+00:28:21,671 --> 00:28:23,875
+Caralho!
+
+241
+00:30:12,611 --> 00:30:16,454
+Minha barriga.
+Algo prendeu minha barriga.
+
+242
+00:30:16,455 --> 00:30:19,756
+Quantas vezes já falei
+para usar o cinto de segurança?
+
+243
+00:30:19,757 --> 00:30:23,583
+- Saia do carro.
+- Estou preso.
+
+244
+00:30:24,132 --> 00:30:26,718
+Preciso de ajuda para sair.
+
+245
+00:30:40,333 --> 00:30:45,333
+- O que está fazendo?
+- Cobrindo nossa presença.
+
+246
+00:30:51,835 --> 00:30:56,625
+Espere um instante!
+Espere um instante!
+
+247
+00:31:13,398 --> 00:31:15,958
+Vamos nessa.
+
+248
+00:31:30,942 --> 00:31:33,332
+Por aqui.
+
+249
+00:31:44,251 --> 00:31:47,624
+Mexa-se! Vamos logo!
+
+250
+00:31:47,625 --> 00:31:49,791
+Mexa-se! Vamos logo!
+
+251
+00:32:02,916 --> 00:32:04,720
+Vamos lá.
+
+252
+00:32:04,876 --> 00:32:07,782
+Só estávamos te zoando.
+
+253
+00:32:09,328 --> 00:32:12,726
+Ficará resfriada aqui.
+
+254
+00:32:15,973 --> 00:32:18,114
+Porra.
+
+255
+00:32:18,726 --> 00:32:21,101
+Ouça!
+
+256
+00:32:21,281 --> 00:32:23,648
+Ali! Ali! Vamos!
+
+257
+00:32:45,382 --> 00:32:50,140
+Rápido! Agarre-a!
+
+258
+00:32:50,742 --> 00:32:53,734
+Seu idiota do caralho!
+
+259
+00:33:19,656 --> 00:33:21,765
+Porra!
+
+260
+00:35:44,717 --> 00:35:48,599
+<i>A câmera adora filmá-la.</i>
+
+261
+00:35:48,600 --> 00:35:52,647
+<i>Mostre-me o seu maior
+e mais belo sorriso.</i>
+
+262
+00:35:52,750 --> 00:35:56,875
+<i>- Mostre-me medo.
+- Assim?</i>
+
+263
+00:35:58,720 --> 00:36:02,500
+<i>Eu não sei fazer.
+Eu não sei fazer.</i>
+
+264
+00:36:03,608 --> 00:36:06,827
+<i>Cara, eu quero ir embora.</i>
+
+265
+00:36:07,884 --> 00:36:12,625
+<i>- Deixe-me ir, cara!
+- Não se mexa!</i>
+
+266
+00:36:19,830 --> 00:36:23,874
+<i>Agora ela está chorando.
+Puta que o pariu.</i>
+
+267
+00:36:23,875 --> 00:36:26,093
+<i>Andy, pegue a câmera.</i>
+
+268
+00:36:27,812 --> 00:36:31,210
+<i>Que choradeira do caralho.
+Toda hora.</i>
+
+269
+00:36:31,444 --> 00:36:33,835
+<i>Fiz tudo que me pediu.</i>
+
+270
+00:36:35,199 --> 00:36:38,330
+<i>Foda-se!
+Abra logo as pernas, porra!</i>
+
+271
+00:36:38,331 --> 00:36:40,348
+<i>Vamos logo!</i>
+
+272
+00:38:51,309 --> 00:38:54,793
+Você está nos atrasando.
+
+273
+00:38:57,884 --> 00:39:00,665
+Nunca a encontraremos aqui.
+
+274
+00:39:00,666 --> 00:39:03,165
+Precisamos nos afastar daqui
+o quanto antes.
+
+275
+00:39:03,166 --> 00:39:05,878
+Preciso ser ponteado.
+
+276
+00:39:05,879 --> 00:39:08,371
+Ela viu nossos rostos?
+
+277
+00:39:08,372 --> 00:39:10,874
+Viu.
+
+278
+00:39:10,875 --> 00:39:13,316
+Você não assiste à televisão?
+
+279
+00:39:13,317 --> 00:39:16,415
+No orfanato era o que mais fazia.
+
+280
+00:39:16,416 --> 00:39:18,207
+Certo.
+
+281
+00:39:18,208 --> 00:39:21,999
+Para a acharmos
+precisaremos agir como ela.
+
+282
+00:39:22,000 --> 00:39:24,659
+Pensar como ela.
+
+283
+00:39:24,660 --> 00:39:28,775
+Sou uma putinha
+e estou perdida na mata,
+
+284
+00:39:28,776 --> 00:39:32,337
+sei que morrerei logo.
+O que eu faço a seguir?
+
+285
+00:39:32,338 --> 00:39:35,702
+- Eu não sei.
+- Não?
+
+286
+00:39:36,092 --> 00:39:40,654
+Não sei o que farei.
+Estou me cagando de medo, porra!
+
+287
+00:39:48,878 --> 00:39:51,355
+Deixe-me dar uma olhada.
+
+288
+00:40:19,437 --> 00:40:24,156
+- Está doendo?
+- Sim!
+
+289
+00:40:26,493 --> 00:40:28,767
+Certo. Sente-se.
+
+290
+00:40:34,778 --> 00:40:36,629
+Certo.
+
+291
+00:40:38,434 --> 00:40:41,653
+Certo. Segure aqui. Segure.
+
+292
+00:40:51,403 --> 00:40:53,999
+Pronto. Sarado.
+
+293
+00:40:54,000 --> 00:40:58,366
+- Sente-se melhor?
+- Sim. Muitíssimo obrigado.
+
+294
+00:40:58,367 --> 00:41:00,749
+Viu? 
+Nem precisou de hospital.
+
+295
+00:41:00,750 --> 00:41:03,710
+Vamos. Vamos logo.
+
+296
+00:41:54,868 --> 00:41:58,750
+Está congelante.
+Experimente.
+
+297
+00:41:58,751 --> 00:42:01,696
+É ótimo para a circulação.
+
+298
+00:42:29,430 --> 00:42:31,937
+Quer um?
+
+299
+00:42:31,938 --> 00:42:34,266
+Não.
+
+300
+00:43:36,861 --> 00:43:40,681
+Agarre-a!
+Agarre-a, caralho! Vá!
+
+301
+00:44:02,441 --> 00:44:04,652
+Porra!
+
+302
+00:44:28,411 --> 00:44:32,036
+Agarre-a, idiota!
+
+303
+00:44:44,918 --> 00:44:49,011
+Por favor. Pare.
+
+304
+00:44:53,939 --> 00:44:56,583
+Levante-se!
+
+305
+00:45:17,916 --> 00:45:20,728
+Puta do caralho.
+
+306
+00:45:33,666 --> 00:45:36,875
+Porra!
+
+307
+00:45:50,736 --> 00:45:53,250
+Porra!
+
+308
+00:46:16,890 --> 00:46:18,898
+Está chorando?
+
+309
+00:46:19,858 --> 00:46:22,540
+Cala a boca, Andy.
+
+310
+00:46:22,541 --> 00:46:24,758
+Primeiro me fez bater o carro.
+
+311
+00:46:24,759 --> 00:46:27,767
+Depois, deixou-a escapar.
+
+312
+00:46:28,305 --> 00:46:31,782
+Você é um merdinha inútil.
+
+313
+00:46:41,853 --> 00:46:45,719
+Não deveria tê-lo chamado daquilo.
+Sinto muito.
+
+314
+00:46:45,720 --> 00:46:48,261
+Não irei mais chamá-lo de Andy.
+
+315
+00:46:48,363 --> 00:46:50,897
+É só que estou tenso
+
+316
+00:46:50,898 --> 00:46:54,351
+com tudo que tem acontecido.
+
+317
+00:46:54,352 --> 00:46:57,562
+Eu cuidei bem de você.
+Eu cuidei bem de você, não é?
+
+318
+00:46:57,766 --> 00:47:00,617
+Deixe disso.
+
+319
+00:47:05,392 --> 00:47:08,142
+Certo. Respire.
+
+320
+00:47:08,251 --> 00:47:11,765
+Deixa eu dar
+uma olhada no seu rosto.
+
+321
+00:47:11,766 --> 00:47:16,140
+É só um nariz quebrado.
+Está bem?
+
+322
+00:47:16,141 --> 00:47:19,624
+Levarei-o a um hospital,
+mas, antes, ajeitar o nariz.
+
+323
+00:47:19,625 --> 00:47:22,124
+Para que, assim,
+não acabe parecendo um louco.
+
+324
+00:47:22,125 --> 00:47:24,249
+Garotas não gostam de loucos,
+não é?
+
+325
+00:47:24,250 --> 00:47:26,207
+Ficará tudo bem.
+Ficará tudo bem.
+
+326
+00:47:26,208 --> 00:47:30,715
+Sente-se.
+Sabia que era um socorrista?
+
+327
+00:47:31,378 --> 00:47:35,713
+Não acreditaria nas coisas que vi.
+Isso é só um arranhãozinho.
+
+328
+00:47:35,714 --> 00:47:39,290
+Você está ate mais sensual.
+Sem zoeira.
+
+329
+00:47:39,291 --> 00:47:43,891
+Mulheres adoram homens
+que aparentam ter sofrido.
+
+330
+00:47:43,892 --> 00:47:46,790
+Isso irá doer,
+mas precisa ser corajoso.
+
+331
+00:47:46,791 --> 00:47:48,749
+Segure bem aqui.
+
+332
+00:47:48,750 --> 00:47:51,883
+irei amarrar o seu nariz.
+
+333
+00:47:51,884 --> 00:47:55,624
+Eu sei, eu sei, eu sei.
+
+334
+00:47:55,625 --> 00:48:00,312
+Precisamos apertar
+para que não infeccionar. Certo?
+
+335
+00:48:01,351 --> 00:48:05,396
+Farei um buraquinho para respirar,
+mas há bactérias perigosas
+
+336
+00:48:05,397 --> 00:48:09,582
+na floresta. Certo?
+Se você for infectado, cara,
+
+337
+00:48:09,583 --> 00:48:11,715
+pode ser infectado com tétano.
+
+338
+00:48:13,361 --> 00:48:17,751
+Quer saber por que acabou
+com a fita adesiva na cara, Andy?
+
+339
+00:48:19,369 --> 00:48:24,219
+Nenhum razão.
+Você é preguiçoso, incompetente.
+
+340
+00:48:24,220 --> 00:48:26,958
+Reclama de tudo.
+
+341
+00:48:47,728 --> 00:48:51,642
+Está tudo bem.
+Eu te perdoo.
+
+342
+00:53:10,892 --> 00:53:13,673
+Menino?
+
+343
+00:53:16,906 --> 00:53:19,695
+Preciso de ajuda.
+
+344
+00:53:52,887 --> 00:53:55,355
+Meu Deus.
+
+345
+00:53:55,356 --> 00:53:58,339
+Finalmente outro ser humano.
+
+346
+00:53:58,340 --> 00:54:00,363
+Estava caminhando com amigos.
+Que merda.
+
+347
+00:54:00,364 --> 00:54:03,902
+<i>Estou perdido há dois dias.</i>
+Estava andando com meu cão, Andy.
+
+348
+00:54:03,903 --> 00:54:07,082
+Ele saiu correndo atrás de coelhos
+e fui atrás dele.
+
+349
+00:54:07,083 --> 00:54:09,082
+Ele fugiu...
+
+350
+00:54:09,083 --> 00:54:11,791
+Precisei correr atrás dele.
+
+351
+00:54:12,816 --> 00:54:14,985
+Estou perdido há um tempo já.
+
+352
+00:54:14,986 --> 00:54:19,751
+Estava caminhando
+com meu cachorro, Andy.
+
+353
+00:54:37,820 --> 00:54:40,687
+Sempre alerta.
+
+354
+00:54:41,833 --> 00:54:44,230
+Esse é meu filho Jeremy.
+
+355
+00:54:44,231 --> 00:54:46,863
+Pode usar o celular dele.
+
+356
+00:54:46,864 --> 00:54:51,269
+- Precisa ligar para alguém?
+- Sim, para a minha esposa.
+
+357
+00:54:51,270 --> 00:54:54,405
+Está morta de preocupada.
+Oi, querida, sou eu.
+
+358
+00:54:54,406 --> 00:54:58,694
+Não, não. Estou bem.
+Juro que estou bem.
+
+359
+00:54:58,695 --> 00:55:02,129
+Escute.
+Andy fugiu e fui atrás dele.
+
+360
+00:55:02,130 --> 00:55:06,754
+Eu me perdi na floresta.
+Não consegui encontrá-lo ainda.
+
+361
+00:55:06,755 --> 00:55:11,040
+Conheci algumas pessoas legais.
+Elas irão me ajudar aqui.
+
+362
+00:55:11,041 --> 00:55:14,704
+- A que horas voltará?
+- Ao entardecer.
+
+363
+00:55:14,705 --> 00:55:18,879
+À noite estarei contigo.
+Sinto muito pelo Andy.
+
+364
+00:55:19,472 --> 00:55:22,082
+Eu te amo.
+Vou desligar agora.
+
+365
+00:55:22,083 --> 00:55:24,231
+Vejo você à noite.
+
+366
+00:55:25,960 --> 00:55:28,750
+- Obrigado.
+- Não há de quê.
+
+367
+00:55:28,867 --> 00:55:31,812
+Mulheres. Nunca se case.
+
+368
+00:55:34,778 --> 00:55:37,606
+Posso ajudá-la em algo?
+
+369
+00:55:39,390 --> 00:55:41,765
+Não.
+
+370
+00:55:45,434 --> 00:55:48,723
+O que está fazendo?
+
+371
+00:55:49,359 --> 00:55:51,795
+Assistindo à pornografia?
+
+372
+00:55:51,796 --> 00:55:54,648
+Não. Estou jogando.
+
+373
+00:55:55,217 --> 00:55:57,607
+Sou de boas com isso.
+
+374
+00:55:59,118 --> 00:56:01,203
+E daí?
+
+375
+00:56:01,204 --> 00:56:05,734
+Está vendo pornografia.
+Não há vergonha nisso.
+
+376
+00:56:05,735 --> 00:56:09,274
+Eu entendo completamente.
+Há muitas vagabundas à solta.
+
+377
+00:56:10,408 --> 00:56:13,673
+Só estou jogando. Nada mais.
+
+378
+00:56:15,749 --> 00:56:20,359
+- Você é gay?
+- Não. Curto meninas.
+
+379
+00:56:21,398 --> 00:56:25,753
+Sei de uns filmes muito bons.
+Recomendo um a você, se quiser.
+
+380
+00:56:25,754 --> 00:56:28,355
+Quando essas meninas gritam
+
+381
+00:56:28,356 --> 00:56:31,059
+não é encenação.
+
+382
+00:56:39,687 --> 00:56:43,000
+Nosso segredinho, certo?
+
+383
+00:56:54,418 --> 00:56:58,637
+Está muito bom. Obrigado.
+
+384
+00:57:03,278 --> 00:57:06,254
+Qual é a raça do seu cachorro?
+
+385
+00:57:08,442 --> 00:57:10,278
+Seu cachorro.
+
+386
+00:57:10,387 --> 00:57:12,871
+O que se perdeu na floresta.
+
+387
+00:57:12,872 --> 00:57:15,777
+Qual é a raça dele?
+
+388
+00:57:17,620 --> 00:57:19,875
+Na verdade, não sei.
+
+389
+00:57:20,372 --> 00:57:23,386
+Vira-latas, eu acho.
+
+390
+00:57:23,387 --> 00:57:25,292
+Chama-se Andy.
+
+391
+00:57:25,293 --> 00:57:28,605
+Ele é meio burro,
+mas gosto bastante dele.
+
+392
+00:57:32,398 --> 00:57:34,687
+Talvez o reencontre.
+
+393
+00:57:35,872 --> 00:57:38,325
+Duvido.
+
+394
+00:57:41,195 --> 00:57:45,319
+- O que fazem? Acampam?
+- Preparando-nos ao fim do mundo.
+
+395
+00:57:45,320 --> 00:57:48,790
+Estávamos treinando
+para um ambiente hostil.
+
+396
+00:57:48,791 --> 00:57:52,286
+Dormindo muito ruim
+e comemos comidas cruas.
+
+397
+00:57:52,395 --> 00:57:54,290
+Você vai ver.
+
+398
+00:57:54,291 --> 00:57:56,671
+Um dia, tudo isso será útil.
+
+399
+00:57:56,820 --> 00:57:59,609
+Mal posso esperar.
+
+400
+00:58:04,884 --> 00:58:07,611
+Mora nas redondezas?
+
+401
+00:58:08,215 --> 00:58:10,191
+Não.
+
+402
+00:58:11,379 --> 00:58:13,707
+Não.
+
+403
+00:58:13,708 --> 00:58:16,230
+Eu e minha esposa
+
+404
+00:58:16,231 --> 00:58:17,823
+estávamos apenas turistando.
+
+405
+00:58:17,824 --> 00:58:20,090
+Visitando a Europa.
+
+406
+00:58:23,439 --> 00:58:25,884
+Um turista com um cão?
+
+407
+00:58:26,426 --> 00:58:28,620
+Sim.
+
+408
+00:58:29,133 --> 00:58:32,391
+Não é proibido, é?
+
+409
+00:58:32,392 --> 00:58:34,330
+Não.
+
+410
+00:58:42,931 --> 00:58:45,861
+Vou tirar a água do joelho.
+
+411
+00:58:48,250 --> 00:58:51,217
+E o que você faz?
+
+412
+00:58:51,218 --> 00:58:54,802
+Além de andar com o seu cão
+no meio do nada?
+
+413
+00:58:54,803 --> 00:58:56,861
+Produzo filmes.
+
+414
+00:58:57,396 --> 00:59:00,317
+Documentários, basicamente.
+
+415
+00:59:13,809 --> 00:59:17,629
+Que tal esse ambiente hostil?
+
+416
+00:59:18,397 --> 00:59:20,843
+Vadia paranoica.
+
+417
+00:59:57,273 --> 01:00:00,609
+Quer ser meu amigo?
+
+418
+01:00:03,585 --> 01:00:05,874
+Massa.
+
+419
+01:00:14,431 --> 01:00:17,064
+Preciso de ajuda.
+
+420
+01:00:37,431 --> 01:00:40,118
+Acorda, acorda.
+
+421
+01:00:41,736 --> 01:00:45,041
+Volte aqui!
+
+422
+01:00:46,328 --> 01:00:47,925
+<i>Aonde vai?</i>
+
+423
+01:00:47,926 --> 01:00:51,124
+<i>Preciso gravar um filme.
+Não tenho o dia todo.</i>
+
+424
+01:00:51,125 --> 01:00:52,899
+Vamos logo!
+
+425
+01:00:52,900 --> 01:00:57,681
+<i><i>Está me deixando deprimido</i>
+para o que quero fazer, sabia?</i>
+
+426
+01:00:58,875 --> 01:01:02,357
+Toda esta floresta
+está repleta de energia negativa.
+
+427
+01:01:02,358 --> 01:01:05,272
+<i>Está me dando
+na porra dos meus nervos!</i>
+
+428
+01:01:06,598 --> 01:01:09,152
+Deixe-me apresentá-la ao Andy,
+
+429
+01:01:09,153 --> 01:01:11,332
+companheiro de cena, hoje.
+
+430
+01:01:11,333 --> 01:01:14,374
+Vamos lá. Vista a máscara.
+
+431
+01:01:14,375 --> 01:01:17,194
+Mas fiz tudo que me pediu.
+
+432
+01:01:17,195 --> 01:01:19,765
+Vista a porra da máscara!
+
+433
+01:01:20,845 --> 01:01:22,744
+Agora.
+
+434
+01:01:23,414 --> 01:01:26,264
+Viu tudo com o que tenho que lidar?
+
+435
+01:01:26,265 --> 01:01:28,826
+Sempre fazendo reclamações.
+
+436
+01:01:28,827 --> 01:01:33,248
+O roteiro é esse.
+Está lutando contra ocupação.
+
+437
+01:01:33,360 --> 01:01:37,851
+Tem havido guerra há meses.
+Você não toca uma mulher há tempos.
+
+438
+01:01:37,852 --> 01:01:40,147
+Adentra na floresta.
+Está perdido.
+
+439
+01:01:40,148 --> 01:01:44,366
+Você pensa: "O que eu não daria
+por uma bocetinha agora.".
+
+440
+01:01:44,367 --> 01:01:48,676
+Quando, de repente,
+se depara com esse acampamento.
+
+441
+01:01:48,677 --> 01:01:52,168
+Encontra essa espiã da CIA.
+Ela é uma espiã.
+
+442
+01:01:52,169 --> 01:01:55,475
+Agarra-a e amarra-a à árvore.
+Ela tem informações importantes.
+
+443
+01:01:55,476 --> 01:01:58,160
+Precisa tirar informação dela.
+Ai, cara.
+
+444
+01:01:58,161 --> 01:02:02,144
+Grande enredo. Nem fiz nada.
+Acabou surgindo à minha mente.
+
+445
+01:02:02,145 --> 01:02:04,855
+As ideias me vêm à mente.
+
+446
+01:02:06,386 --> 01:02:11,330
+Vai a ela, sente-a um pouco,
+mas ela está supertensa.
+
+447
+01:02:11,331 --> 01:02:14,438
+"Não faço tudo no encontro".
+Sabe a que me refiro?
+
+448
+01:02:14,439 --> 01:02:18,719
+Ao se sentir à vontade, agarre-a,
+pegue pelo cabelo, enfie-o na boca.
+
+449
+01:02:18,720 --> 01:02:22,235
+Está pronto? Espere aí!
+Não falei "ação".
+
+450
+01:02:22,236 --> 01:02:24,947
+Não se mexa até eu falar "ação".
+
+451
+01:02:28,306 --> 01:02:30,759
+Ação.
+
+452
+01:02:45,168 --> 01:02:47,676
+Puta merda!
+
+453
+01:02:55,642 --> 01:02:58,958
+Porra!
+Mas que porra é essa?
+
+454
+01:02:59,908 --> 01:03:04,908
+Tire-o de mim! Porra!
+Mas que porra?
+
+455
+01:03:07,708 --> 01:03:10,749
+Faça alguma coisa, caralho!
+
+456
+01:03:10,750 --> 01:03:12,208
+Caralho.
+
+457
+01:03:17,330 --> 01:03:19,666
+Minha câmera! Porra! Neném!
+
+458
+01:03:19,931 --> 01:03:22,384
+Porra!
+
+459
+01:03:23,083 --> 01:03:24,625
+Não.
+
+460
+01:03:25,523 --> 01:03:29,194
+- Você está morta, porra!
+- Deixe-a em paz!
+
+461
+01:03:29,195 --> 01:03:31,327
+Tomar no cu!
+
+462
+01:03:41,642 --> 01:03:45,125
+Jesus! Jesus Cristo!
+
+463
+01:03:46,892 --> 01:03:49,595
+Mãe?
+
+464
+01:04:07,387 --> 01:04:09,653
+Mãe?
+
+465
+01:04:10,289 --> 01:04:12,632
+Mãe.
+
+466
+01:04:57,223 --> 01:05:01,855
+- Vou acabar contigo, porra!
+- Não sei se vai conseguir.
+
+467
+01:05:01,856 --> 01:05:04,090
+O que você disse?
+
+468
+01:05:05,484 --> 01:05:08,625
+Piroquinha.
+
+469
+01:05:18,673 --> 01:05:21,619
+Sou a melhor foda que você terá.
+
+470
+01:07:04,411 --> 01:07:06,723
+Não.
+
+471
+01:08:16,384 --> 01:08:18,916
+Está me ouvindo, vadia?
+
+472
+01:08:20,340 --> 01:08:23,684
+Irei encontrá-la
+<i>e irei matá-la!</i>
+
+473
+01:08:31,911 --> 01:08:33,864
+O quê?
+
+474
+01:09:14,330 --> 01:09:18,375
+Caralho! Maldita floresta!
+
+475
+01:09:54,369 --> 01:09:57,150
+Foda-se esta floresta.
+
+476
+01:10:00,408 --> 01:10:02,611
+Andy?
+
+477
+01:10:06,921 --> 01:10:09,632
+<i>Não é mais meu amigo.</i>
+
+478
+01:10:09,757 --> 01:10:12,671
+Não tenho medo,
+puta do caralho!
+
+479
+01:10:16,392 --> 01:10:18,750
+<i>Cale-se!</i>
+
+480
+01:10:20,119 --> 01:10:22,564
+<i>Cale-se, porra!</i>
+
+481
+01:10:30,851 --> 01:10:33,375
+Cale-se!
+
+482
+01:10:38,851 --> 01:10:41,625
+<i>Caralho, que dor!</i>
+
+483
+01:10:56,931 --> 01:11:00,500
+Ela não está lá.
+
+484
+01:11:03,306 --> 01:11:05,619
+Dói pra caralho!
+
+485
+01:11:47,809 --> 01:11:50,614
+<i>Aproximem-se!
+Aproximem-se!</i>
+
+486
+01:12:14,894 --> 01:12:18,636
+<i>Aproximem-se ali!
+Aproximem-se ali!</i>
+
+487
+01:15:43,423 --> 01:15:44,999
+Porra!
+
+488
+01:15:45,000 --> 01:15:47,652
+Não deveria estar aqui!
+
+489
+01:15:47,653 --> 01:15:50,293
+Pare!
+
+490
+01:15:51,931 --> 01:15:56,133
+- Caralho. Deus.
+- Ouça, cara. Sou treinado.
+
+491
+01:15:56,134 --> 01:15:59,711
+- Preciso que saia daqui.
+- Não vê que estou ferido?
+
+492
+01:15:59,813 --> 01:16:03,332
+Preciso de ajuda.
+Atrás de você!
+
+493
+01:16:03,333 --> 01:16:06,790
+- O que está havendo?
+- Ela quer me matar!
+
+494
+01:16:06,791 --> 01:16:09,649
+Abaixe o tronco!
+Abaixe o tronco!
+
+495
+01:16:09,650 --> 01:16:12,415
+No chão! Agora!
+
+496
+01:16:12,416 --> 01:16:15,791
+- Faça alguma coisa! 
+- Pare!
+
+497
+01:16:18,364 --> 01:16:20,583
+Vadia!
+
+498
+01:16:24,333 --> 01:16:27,917
+- Foi demais, mano!
+- Ajoelhe-se, cowboy!
+
+499
+01:16:27,918 --> 01:16:30,083
+Volte aqui!
+
+500
+01:16:30,970 --> 01:16:33,282
+Meu nariz!
+
+501
+01:16:33,384 --> 01:16:36,876
+Caralho! 
+Meu nariz está fodido!
+
+502
+01:16:38,809 --> 01:16:41,499
+Vamos dar uma olhadinha
+na cozinha.
+
+503
+01:16:41,500 --> 01:16:43,790
+- O que achou?
+- Não tenho certeza.
+
+504
+01:16:43,791 --> 01:16:46,264
+- Eu amei!
+- Sério?
+
+505
+01:16:46,265 --> 01:16:48,665
+Precisam imaginar-se nela.
+
+506
+01:16:48,666 --> 01:16:50,896
+Imaginem-se comigo por um instante.
+
+507
+01:16:50,897 --> 01:16:54,874
+É uma linda manhã.
+Tomam o café da manhã.
+
+508
+01:16:54,875 --> 01:16:58,899
+De repente,
+seu filho dá os primeiros passos.
+
+509
+01:16:58,900 --> 01:17:00,500
+Acho que gostei.
+
+510
+01:17:01,447 --> 01:17:06,399
+Eu garanto: é o lugar certo
+para se criar um filho.
+
+511
+01:17:06,400 --> 01:17:09,374
+- Acho que sim.
+- O que você achou?
+
+512
+01:17:09,375 --> 01:17:11,208
+Gostei.
+
+513
+01:17:13,903 --> 01:17:18,363
+- Meu filho! Meu filho!
+- Faça alguma coisa!
+
+514
+01:17:18,364 --> 01:17:22,000
+Visita cancelada.
+Inscreva-se on-line, senhora.
+
+515
+01:18:04,173 --> 01:18:07,103
+Espere aí. 
+Deixe-me ajudá-la.
+
+516
+01:18:09,626 --> 01:18:14,322
+Vou te estrangular até à morte,
+puta do caralho!
+
+517
+01:18:52,629 --> 01:18:54,791
+Porra.
+
+518
+01:19:17,926 --> 01:19:20,583
+Porra!
+
+519
+01:19:31,186 --> 01:19:34,874
+Filho da puta, garoto.
+Você vai ver o que é bom.
+
+520
+01:19:34,875 --> 01:19:37,709
+Vou acabar com esses cuzões!
+
+521
+01:19:37,710 --> 01:19:41,132
+Venha aqui, Lobo!
+Venha aqui, Lobo!
+
+522
+01:19:45,926 --> 01:19:48,333
+Lobo!
+
+523
+01:20:50,426 --> 01:20:53,652
+<i>Sai de cima!</i>
+
+524
+01:21:11,950 --> 01:21:15,180
+Por favor, sinto muito.
+
+525
+01:21:15,181 --> 01:21:18,743
+Sinto muito. Espere aí.
+Desculpe-me.
+
+526
+01:21:18,744 --> 01:21:20,457
+Espere aí.
+
+527
+01:21:20,458 --> 01:21:22,957
+Eu sei que a causei dor.
+
+528
+01:21:22,958 --> 01:21:26,124
+Mas eu me arrependo.
+Espere aí.
+
+529
+01:21:26,125 --> 01:21:28,915
+Posso mudar, receber ajuda.
+Eu juro.
+
+530
+01:21:28,916 --> 01:21:33,103
+Eu vou lidar com meus problemas.
+Me dê outra chance.
+
+531
+01:21:34,914 --> 01:21:38,375
+Eu disse que sentia muito.
+
+532
+01:21:39,851 --> 01:21:42,921
+Eu disse que sentia muito.
+
+533
+01:21:48,953 --> 01:21:52,140
+Eu disse que sentia muito.
+
+534
+01:21:56,421 --> 01:22:00,208
+Eu disse que sentia muito.
+
+535
+01:22:13,418 --> 01:22:16,161
+Eu te amo.
+
+536
+01:23:54,359 --> 01:23:57,295
+Sincronia & Tradução:
+DjalmaVM
+
+537
+01:23:57,296 --> 01:24:00,226
+17/01/2021
+
+538
+01:24:00,375 --> 01:24:02,711
+Twitter: @djalmando
+Instagram: @menesesdj

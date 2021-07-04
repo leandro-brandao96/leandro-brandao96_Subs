@@ -1,0 +1,6006 @@
+1
+00:00:05,223 --> 00:00:09,723
+- Art Subs -
+13 anos fazendo Arte para você!
+
+2
+00:00:09,724 --> 00:00:13,224
+Legenda
+- Frederic -
+
+3
+00:00:48,433 --> 00:00:52,974
+TALLINN, ESTÔNIA
+
+4
+00:00:53,899 --> 00:00:55,474
+Boa noite.
+
+5
+00:00:56,440 --> 00:00:59,915
+Minha sobrinha
+quer uma bicicleta, de Natal.
+
+6
+00:01:09,557 --> 00:01:14,733
+É legal, mas não gosto
+de vermelho. Você teria em azul?
+
+7
+00:01:15,457 --> 00:01:19,481
+- Quer que encomende?
+- Posso ganhar uma, por favor?
+
+8
+00:01:19,782 --> 00:01:22,057
+Nada é certo nesta vida.
+
+9
+00:01:22,524 --> 00:01:26,499
+Falta muito para o Natal.
+Talvez você ganhe uma...
+
+10
+00:01:26,800 --> 00:01:28,298
+Talvez não.
+
+11
+00:01:28,799 --> 00:01:30,469
+Acho que vou ganhar.
+
+12
+00:01:31,391 --> 00:01:32,891
+Deus queira!
+
+13
+00:01:34,557 --> 00:01:36,232
+Veremos.
+
+14
+00:02:09,908 --> 00:02:15,484
+CAVALEIROS DA JUSTIÇA
+
+15
+00:02:44,732 --> 00:02:46,265
+É o papai.
+
+16
+00:02:51,065 --> 00:02:52,986
+Oi, querido. Tudo bem?
+
+17
+00:02:53,487 --> 00:02:56,532
+Tudo certo. Mathilde foi?
+
+18
+00:02:57,099 --> 00:03:00,623
+Não. A bicicleta foi roubada
+e eu ia levá-la, mas...
+
+19
+00:03:00,624 --> 00:03:02,265
+<i>o carro não quer pegar.</i>
+
+20
+00:03:04,232 --> 00:03:07,915
+<i>- Quer que ligue depois?
+- Não, ela vai se atrasar igual.</i>
+
+21
+00:03:08,482 --> 00:03:10,043
+<i>O que houve?</i>
+
+22
+00:03:10,944 --> 00:03:13,257
+Eles me pediram para ficar.
+
+23
+00:03:14,707 --> 00:03:16,474
+Por quanto tempo?
+
+24
+00:03:18,649 --> 00:03:20,207
+Três meses.
+
+25
+00:03:36,157 --> 00:03:37,740
+Ele não vem para casa?
+
+26
+00:03:41,282 --> 00:03:42,865
+Não.
+
+27
+00:03:45,940 --> 00:03:50,857
+Ao menos não o veremos sentado
+no galpão olhando para o nada.
+
+28
+00:03:55,757 --> 00:03:59,790
+Vamos. Vamos para o trem.
+Deixe o telefone.
+
+29
+00:04:00,257 --> 00:04:02,865
+Vamos. Vamos tirar
+um dia de folga.
+
+30
+00:04:07,599 --> 00:04:10,248
+Então o algoritmo
+concluiu inequivocamente
+
+31
+00:04:10,249 --> 00:04:14,789
+que os grupos de menor renda
+dirigem Kia, Fiat e Hyundai.
+
+32
+00:04:14,790 --> 00:04:19,298
+Os de renda média
+dirigem Toyota, Ford e Volvo,
+
+33
+00:04:19,299 --> 00:04:21,518
+enquanto o grupo do topo,
+predominantemente,
+
+34
+00:04:21,519 --> 00:04:24,949
+escolhe Mercedes,
+Tesla e Audi.
+
+35
+00:04:25,415 --> 00:04:27,801
+E como se chegou a isso?
+Bem...
+
+36
+00:04:27,802 --> 00:04:29,931
+Otto, vou pedir
+que pare por aqui.
+
+37
+00:04:29,932 --> 00:04:35,174
+Quanto tempo você e sua equipe
+gastaram com esse algoritmo?
+
+38
+00:04:37,465 --> 00:04:39,081
+É difícil dizer...
+
+39
+00:04:39,082 --> 00:04:42,173
+- 46 semanas.
+- Principalmente à noite.
+
+40
+00:04:42,174 --> 00:04:44,781
+1 ano e 4 milhões
+num algoritmo
+
+41
+00:04:44,782 --> 00:04:47,899
+que mostra que pobres
+dirigem Kia, e ricos Mercedes?
+
+42
+00:04:47,900 --> 00:04:52,273
+Mas o interessante é que
+o próprio encontrou e compilou
+
+43
+00:04:52,274 --> 00:04:55,040
+82.504 certidões
+com declarações fiscais
+
+44
+00:04:55,041 --> 00:04:58,699
+em 46 municípios
+para formar a base estatística.
+
+45
+00:04:59,865 --> 00:05:03,107
+Alguma dessas conexões
+nos interessa, Otto?
+
+46
+00:05:03,108 --> 00:05:07,414
+Sim... Mas esse não é o ponto.
+Vocês precisam pensar grande!
+
+47
+00:05:07,415 --> 00:05:11,106
+Este algoritmo, teoricamente,
+com todo poder de processamento,
+
+48
+00:05:11,107 --> 00:05:13,514
+pode ser capaz
+de prever eventos.
+
+49
+00:05:13,515 --> 00:05:16,773
+Pode esclarecer isso?
+Eventos tais como?
+
+50
+00:05:16,774 --> 00:05:20,832
+Todo evento que for produto
+de uma série inicial de eventos.
+
+51
+00:05:20,833 --> 00:05:23,693
+Normalmente, devido
+à insuficiência de dados,
+
+52
+00:05:23,694 --> 00:05:25,898
+nós os categorizamos
+como coincidência.
+
+53
+00:05:25,899 --> 00:05:27,365
+Mas não é isso.
+
+54
+00:05:27,366 --> 00:05:29,948
+Quando um motorista bêbado
+bate durante uma nevasca,
+
+55
+00:05:29,949 --> 00:05:32,829
+não chamamos coincidência,
+pois temos os dados necessários
+
+56
+00:05:32,830 --> 00:05:35,439
+para um resultado causal
+que chamamos mesmo de óbvio.
+
+57
+00:05:35,440 --> 00:05:39,515
+Mas imaginem se a falha fosse
+descoberta antes de ocorrer.
+
+58
+00:05:40,782 --> 00:05:43,174
+O que é macrodactilia?
+
+59
+00:05:44,515 --> 00:05:46,280
+Significa pé torto.
+
+60
+00:05:46,281 --> 00:05:49,707
+Minha tia de Horsens
+tinha isso nos dois pés.
+
+61
+00:05:49,708 --> 00:05:51,925
+Então o algoritmo
+também examinou
+
+62
+00:05:51,926 --> 00:05:54,153
+a relação
+entre ter pé torto e...
+
+63
+00:05:54,154 --> 00:05:55,553
+dificuldades de escuta?
+
+64
+00:05:55,554 --> 00:05:58,715
+- Sim, é meu tópico favorito.
+- Lennart, deixe-me...
+
+65
+00:05:58,716 --> 00:06:03,703
+O algoritmo reuniu 41.534
+registros de pacientes,
+
+66
+00:06:03,704 --> 00:06:05,981
+de 1912 a 2020.
+
+67
+00:06:05,982 --> 00:06:09,189
+O primeiro encontrado
+foi impressionante...
+
+68
+00:06:09,190 --> 00:06:10,979
+Então havia
+alguma correlação...
+
+69
+00:06:10,980 --> 00:06:13,390
+entre pé torto
+e ouvir mal?
+
+70
+00:06:13,857 --> 00:06:17,807
+Correlação?
+Não, nenhuma!
+
+71
+00:07:22,357 --> 00:07:24,949
+- Acho que foi legal.
+- Então foi legal.
+
+72
+00:07:25,915 --> 00:07:29,523
+Gostaria de sentar aqui?
+Tem espaço.
+
+73
+00:07:29,524 --> 00:07:31,815
+Não é necessário.
+Estou bem.
+
+74
+00:07:31,816 --> 00:07:35,665
+Bem, enfim! Preciso esticar
+as pernas, então...
+
+75
+00:07:40,424 --> 00:07:42,540
+- Muito obrigada.
+- Disponha.
+
+76
+00:08:38,224 --> 00:08:39,832
+Mamãe?
+
+77
+00:08:44,465 --> 00:08:45,999
+Mamãe?
+
+78
+00:09:10,324 --> 00:09:12,007
+Bom trabalho, rapazes.
+
+79
+00:09:13,174 --> 00:09:17,374
+Nos reuniremos para
+interrogatório em 5 minutos.
+
+80
+00:10:50,965 --> 00:10:54,282
+<i>A polícia segue investigando
+o local do acidente.</i>
+
+81
+00:10:54,283 --> 00:10:58,064
+<i>Todo o tráfego está suspenso
+até às 6h da manhã.</i>
+
+82
+00:10:58,065 --> 00:11:01,456
+<i>A polícia descartou
+a possibilidade de terrorismo,</i>
+
+83
+00:11:01,457 --> 00:11:04,899
+<i>na medida em que tudo indica
+ter sido um acidente.</i>
+
+84
+00:11:04,900 --> 00:11:07,481
+<i>O acidente ocorreu
+às 15h31min,</i>
+
+85
+00:11:07,482 --> 00:11:12,189
+<i>aparentemente devido à colisão
+com um trem de carga.</i>
+
+86
+00:11:12,190 --> 00:11:17,714
+<i>Há danos sobretudo no lado
+direito dos 3 vagões frontais.</i>
+
+87
+00:11:17,715 --> 00:11:19,723
+<i>O número de mortos agora
+é de 11,</i>
+
+88
+00:11:19,724 --> 00:11:22,303
+<i>e confirma-se que o membro
+de gangue de motoqueiros</i>
+
+89
+00:11:22,304 --> 00:11:25,740
+<i>Johan "Águia" Ulrichsen
+e seu advogado, estão mortos.</i>
+
+90
+00:11:25,741 --> 00:11:29,457
+<i>Águia foi designado para
+testemunhar contra seus irmãos</i>
+
+91
+00:11:29,458 --> 00:11:31,257
+<i>no Cavaleiros da Justiça,</i>
+
+92
+00:11:31,258 --> 00:11:34,365
+<i>entre eles o líder do grupo,
+Kurt "Tandem" Olesen.</i>
+
+93
+00:11:34,366 --> 00:11:39,439
+<i>O caso em questão refere-se
+aos homicídios da rua Kaalund,</i>
+
+94
+00:11:39,440 --> 00:11:42,707
+<i>onde quatro homens turcos
+foram assassinados.</i>
+
+95
+00:12:17,382 --> 00:12:18,907
+Vamos para casa agora?
+
+96
+00:12:21,482 --> 00:12:23,060
+Não sei.
+
+97
+00:12:24,061 --> 00:12:25,723
+Acho que ainda não.
+
+98
+00:12:25,724 --> 00:12:27,360
+Estamos falando
+de quatro fases.
+
+99
+00:12:27,361 --> 00:12:29,990
+A fase de choque, em que você
+e Mathilde estão agora.
+
+100
+00:12:29,991 --> 00:12:32,490
+- A fase de reação...
+- Quero ver minha esposa.
+
+101
+00:12:32,491 --> 00:12:34,674
+Eu o aconselho fortemente
+a não fazer isso.
+
+102
+00:12:35,540 --> 00:12:37,124
+Eu gostaria de vê-la.
+
+103
+00:12:41,199 --> 00:12:42,522
+Você tem todo direito...
+
+104
+00:12:42,523 --> 00:12:45,607
+Chega de conversa,
+quero ver minha esposa!
+
+105
+00:13:42,440 --> 00:13:44,643
+Trabalho com cálculo
+de probabilidade
+
+106
+00:13:44,644 --> 00:13:47,214
+e dados estatísticos
+há 26 anos,
+
+107
+00:13:47,215 --> 00:13:51,790
+e há vários indícios
+de que não foi um acidente.
+
+108
+00:13:54,465 --> 00:13:56,064
+Tais como?
+
+109
+00:13:56,065 --> 00:13:58,447
+A probabilidade
+de que uma testemunha-chave
+
+110
+00:13:58,448 --> 00:14:00,289
+de um homicídio
+ligado a motoqueiros
+
+111
+00:14:00,290 --> 00:14:03,185
+e seu advogado morram
+num acidente de trem
+
+112
+00:14:03,186 --> 00:14:04,874
+13 dias antes
+do testemunho...
+
+113
+00:14:04,875 --> 00:14:07,557
+é, de acordo
+com meus cálculos,
+
+114
+00:14:07,924 --> 00:14:13,523
+vejamos...
+De 1 para 234.287.121.
+
+115
+00:14:13,924 --> 00:14:16,074
+Um número muito grande
+para ser ignorado.
+
+116
+00:14:16,440 --> 00:14:19,981
+É bastante lamentável,
+mas não há nenhum indício
+
+117
+00:14:19,982 --> 00:14:23,023
+de que tenha sido
+algo além de um acidente.
+
+118
+00:14:23,024 --> 00:14:25,465
+Os números indicam.
+Eles nunca mentem.
+
+119
+00:14:25,466 --> 00:14:29,148
+Mas então alguém do Cavaleiros
+da Justiça teria que saber
+
+120
+00:14:29,149 --> 00:14:33,274
+em que vagão e compartimento
+o Águia estava sentado.
+
+121
+00:14:33,840 --> 00:14:35,267
+Isso não faz sentido.
+
+122
+00:14:35,268 --> 00:14:36,930
+Ver o sentido
+não é seu trabalho?
+
+123
+00:14:36,931 --> 00:14:40,314
+Estou apenas dizendo
+que é um número muito grande.
+
+124
+00:14:41,015 --> 00:14:44,481
+Somos muito gratos por isso.
+Vamos dar uma olhada.
+
+125
+00:14:44,482 --> 00:14:46,449
+Nós agradecemos.
+
+126
+00:14:47,415 --> 00:14:51,915
+O problema é que eu também notei
+um homem de aparência suspeita
+
+127
+00:14:51,916 --> 00:14:57,499
+saindo do trem
+pouco antes do "acidente".
+
+128
+00:14:58,865 --> 00:15:02,439
+Sim?
+O que havia de suspeito nele?
+
+129
+00:15:02,440 --> 00:15:06,499
+<i>Ele entrou com um sanduíche
+Joe & The Juice e um suco,</i>
+
+130
+00:15:06,500 --> 00:15:09,374
+mas ele deu apenas uma bocada
+e não bebeu nada do suco.
+
+131
+00:15:09,740 --> 00:15:12,410
+Então ele levantou
+de repente,
+
+132
+00:15:12,411 --> 00:15:15,440
+jogou todo o sanduíche
+e o suco no lixo,
+
+133
+00:15:16,607 --> 00:15:18,157
+e desceu do trem.
+
+134
+00:15:20,024 --> 00:15:21,690
+Certo...
+
+135
+00:15:22,857 --> 00:15:25,648
+<i>Um sanduíche Joe & The Juice
+custa 58 Coroas.</i>
+
+136
+00:15:25,649 --> 00:15:30,314
+65, se tiver recheio extra.
+E o suco grande custa 54.
+
+137
+00:15:30,315 --> 00:15:32,211
+Pode ter certeza
+que ninguém...
+
+138
+00:15:32,212 --> 00:15:35,824
+desperdiça 119 Coroas em suco
+e sanduíche desse jeito.
+
+139
+00:15:35,825 --> 00:15:37,786
+Vamos dar uma olhada.
+
+140
+00:15:37,787 --> 00:15:39,532
+Obrigado pela ajuda,
+Sr. Hoffman.
+
+141
+00:15:40,735 --> 00:15:43,935
+CARRO NÃO PEGA
+
+142
+00:15:56,037 --> 00:15:58,337
+PERDEMOS O PRIMEITO TREM
+
+143
+00:15:58,338 --> 00:16:00,338
+PAPAI LIGA
+
+144
+00:16:05,474 --> 00:16:07,474
+PENSANDO EM VOCÊ
+
+145
+00:16:10,198 --> 00:16:12,198
+VOCÊ É UM DOCE.
+
+146
+00:16:26,315 --> 00:16:31,039
+- Vou num minuto, querida.
+- Certo. Quero ir para a escola.
+
+147
+00:16:31,040 --> 00:16:35,939
+Não acho que deva. Se quer sair,
+podemos dar uma corrida.
+
+148
+00:16:35,940 --> 00:16:37,932
+Sim, quero ir
+para a escola.
+
+149
+00:16:40,299 --> 00:16:41,824
+Parou de correr?
+
+150
+00:16:43,290 --> 00:16:45,840
+- Não.
+- Quando correu pela última vez?
+
+151
+00:16:47,807 --> 00:16:49,340
+Não sei.
+
+152
+00:16:49,707 --> 00:16:52,390
+Então não correu 3 vezes
+por semana, como combinamos.
+
+153
+00:16:53,957 --> 00:16:55,900
+Mathilde, é para o seu bem.
+
+154
+00:16:55,901 --> 00:16:57,387
+Você é um palhaço!
+
+155
+00:16:59,257 --> 00:17:02,724
+Mathilde!
+Que tal eu te levar?
+
+156
+00:17:17,474 --> 00:17:19,241
+<i>Não foi acidente.</i>
+
+157
+00:17:19,242 --> 00:17:22,564
+Foi um atentado.
+Mas não posso provar.
+
+158
+00:17:22,565 --> 00:17:26,124
+Se puder invadir o servidor
+da Fitness World, temos chance.
+
+159
+00:17:26,125 --> 00:17:28,557
+Fitness World?
+A rede de academias?
+
+160
+00:17:28,958 --> 00:17:30,814
+Não, a cantaria, Lennart.
+
+161
+00:17:30,815 --> 00:17:33,649
+Seja bonzinho,
+ou não vou ajudar.
+
+162
+00:17:33,650 --> 00:17:36,631
+Me desculpe.
+Mas você consegue?
+
+163
+00:17:37,132 --> 00:17:38,939
+Uma criança cega
+faz isso om os pés.
+
+164
+00:17:38,940 --> 00:17:41,440
+Já invadi o servidor
+da Fitness World várias vezes.
+
+165
+00:17:43,707 --> 00:17:46,149
+Invadiu o servidor
+da Fitness World várias vezes?
+
+166
+00:17:46,150 --> 00:17:49,183
+Sim. Para o Emmenthaler
+poder fazer pilates.
+
+167
+00:17:49,184 --> 00:17:51,156
+O Emmenthaler faz pilates?
+
+168
+00:17:51,157 --> 00:17:55,398
+Cara! Veja o quão pouco
+você sabe sobre sua equipe!
+
+169
+00:17:55,399 --> 00:17:59,073
+Emmenthaler sofre de dor
+nas costas há 3 anos! Incrível!
+
+170
+00:17:59,940 --> 00:18:02,358
+O que espera encontrar
+no servidor?
+
+171
+00:18:02,359 --> 00:18:03,959
+O Águia.
+
+172
+00:18:06,149 --> 00:18:09,523
+O Águia treinava todo dia,
+o que mostra que era metódico.
+
+173
+00:18:09,524 --> 00:18:12,873
+Se provarmos que ele usava
+a mesma esteira sempre,
+
+174
+00:18:12,874 --> 00:18:16,148
+teremos razão para acreditar que
+usaria o mesmo assento no trem,
+
+175
+00:18:16,149 --> 00:18:18,107
+e então eles saberiam
+onde ele sentava.
+
+176
+00:18:20,074 --> 00:18:22,349
+- Tudo bem.
+- Obrigado, Lennart.
+
+177
+00:18:22,350 --> 00:18:24,899
+Tenho que renovar
+meu cartão crossfit mesmo.
+
+178
+00:18:27,482 --> 00:18:29,423
+<i>Quando milagres acontecem,</i>
+
+179
+00:18:29,424 --> 00:18:32,924
+<i>geralmente lhes atribuímos
+caráter divino.</i>
+
+180
+00:18:33,482 --> 00:18:38,098
+Conversamente, quando um raio
+cai, uma tragédia se torna real,
+
+181
+00:18:38,099 --> 00:18:40,792
+temos dificuldade
+em lhe atribuir um emissário,
+
+182
+00:18:40,793 --> 00:18:43,565
+e então lhe designamos
+como coincidência.
+
+183
+00:18:44,432 --> 00:18:46,456
+Pois como poderia
+um Deus misericordioso
+
+184
+00:18:46,457 --> 00:18:50,148
+jamais tomar parte
+em tão cruel tragédia,
+
+185
+00:18:50,149 --> 00:18:54,299
+como a que separou sua amada
+mãe e esposa Emma de vocês?
+
+186
+00:18:54,965 --> 00:18:57,511
+Mas se tudo
+é mera coincidência,
+
+187
+00:18:57,512 --> 00:19:00,923
+não seria uma reação natural
+sentir que nada importa?
+
+188
+00:19:02,024 --> 00:19:04,940
+Então para onde iremos
+com toda a nossa dor,
+
+189
+00:19:04,941 --> 00:19:08,732
+toda nossa raiva,
+nosso medo e solidão?
+
+190
+00:19:31,174 --> 00:19:34,315
+- O que foi, querida?
+- Não consigo dormir.
+
+191
+00:19:34,316 --> 00:19:37,649
+Feche os olhos e conte de trás
+para frente a partir de 500.
+
+192
+00:19:40,924 --> 00:19:44,874
+- Por que acha que mamãe morreu?
+- Não faz sentido falar nisso.
+
+193
+00:19:45,340 --> 00:19:46,984
+Acha mesmo
+que foi coincidência?
+
+194
+00:19:46,985 --> 00:19:48,898
+Sim! Vamos, estou indo.
+
+195
+00:19:48,899 --> 00:19:50,894
+E se não foi coincidência?
+
+196
+00:19:51,395 --> 00:19:54,590
+- O que mais seria?
+- Não sei.
+
+197
+00:19:57,040 --> 00:19:58,915
+- Deus?
+- Pare!
+
+198
+00:19:58,916 --> 00:20:00,280
+Esqueça aquela pastora.
+
+199
+00:20:00,281 --> 00:20:02,499
+Ela não entendeu metade
+dos próprios absurdos
+
+200
+00:20:02,500 --> 00:20:05,515
+Tente fechar os olhos
+e dormir, querida.
+
+201
+00:20:08,190 --> 00:20:09,868
+Vovô acreditava em Deus.
+
+202
+00:20:10,736 --> 00:20:13,241
+Sim. Mas ele não era
+lá muito esperto.
+
+203
+00:20:15,440 --> 00:20:18,332
+Você não acreditava
+quando era pequeno?
+
+204
+00:20:19,899 --> 00:20:21,858
+Acreditava em Papai Noel
+também, mas...
+
+205
+00:20:22,859 --> 00:20:27,865
+quando se cresce é preciso saber
+distinguir o real e a fantasia.
+
+206
+00:20:30,274 --> 00:20:33,670
+A pastora estava certa de que
+Deus tinha um motivo,
+
+207
+00:20:33,671 --> 00:20:35,399
+nós apenas não entendemos.
+
+208
+00:20:35,400 --> 00:20:39,757
+Olha que maluquice. É o tipo
+de coisa que os loucos dizem.
+
+209
+00:20:42,007 --> 00:20:43,574
+Me desculpe...
+
+210
+00:20:47,940 --> 00:20:51,849
+Eu só sinto falta dela...
+Demais.
+
+211
+00:20:53,190 --> 00:20:57,549
+E não suporto a ideia
+de que ela está... sozinha.
+
+212
+00:21:02,440 --> 00:21:03,940
+Eu entendo.
+
+213
+00:21:06,482 --> 00:21:08,140
+Mas ela não está sozinha.
+
+214
+00:21:09,807 --> 00:21:13,099
+Ela não é nada agora.
+Ela se foi.
+
+215
+00:21:17,190 --> 00:21:19,565
+- Isso é tão injusto.
+- É...
+
+216
+00:21:24,315 --> 00:21:27,599
+Quando as pessoas morrem,
+se vão para sempre, querida.
+
+217
+00:21:27,965 --> 00:21:29,649
+E você pode aprender isso
+agora...
+
+218
+00:21:31,150 --> 00:21:33,523
+Porque a menos
+que morra jovem,
+
+219
+00:21:33,524 --> 00:21:36,015
+você enterrará a maioria
+das pessoas que ama.
+
+220
+00:21:36,382 --> 00:21:39,856
+E se continuar se atormentando
+com cada falsa esperança
+
+221
+00:21:39,857 --> 00:21:43,665
+sobre almas e anjinhos
+nas nuvens, você enlouquecerá.
+
+222
+00:21:44,632 --> 00:21:46,132
+Certo?
+
+223
+00:21:50,174 --> 00:21:51,865
+Bem...
+
+224
+00:21:54,982 --> 00:21:56,855
+Feche os olhos e durma.
+
+225
+00:21:56,856 --> 00:21:59,907
+Conte a partir de 500.
+Isso ajuda.
+
+226
+00:22:38,624 --> 00:22:41,265
+- Sim?
+- Markus Hansen?
+
+227
+00:22:43,107 --> 00:22:46,497
+Boa noite. Eu sou Otto Hoffmann,
+e este é Lennart.
+
+228
+00:22:48,190 --> 00:22:50,935
+Estava no mesmo trem
+que sua esposa e sua filha.
+
+229
+00:22:54,940 --> 00:22:56,632
+Sua filha está bem?
+
+230
+00:22:58,240 --> 00:23:01,262
+- Como conseguiu meu endereço?
+- Isso foi fácil.
+
+231
+00:23:01,815 --> 00:23:04,814
+Disse ao Otto para ligar,
+mas ele insistiu...
+
+232
+00:23:04,815 --> 00:23:08,343
+Estava sentado perto de sua
+esposa e filha... no trem.
+
+233
+00:23:10,674 --> 00:23:12,266
+O que vocês querem?
+
+234
+00:23:13,582 --> 00:23:17,440
+Acho que tem o direito de saber
+que não foi um acidente.
+
+235
+00:23:20,657 --> 00:23:23,965
+Sabe quem é o motoqueiro
+Johan "Águia" Ulrichsen?
+
+236
+00:23:27,924 --> 00:23:30,631
+- Posso?
+- À vontade.
+
+237
+00:23:31,232 --> 00:23:35,624
+- Só vou tirar estas...
+- Mas é um senhor galpão!
+
+238
+00:23:37,315 --> 00:23:41,155
+Desproporcionalmente grande
+em relação ao prédio principal.
+
+239
+00:23:41,732 --> 00:23:43,731
+Sabe em que ano
+foi construído?
+
+240
+00:23:44,532 --> 00:23:47,539
+O quê? Não...
+O que é isso?
+
+241
+00:23:47,540 --> 00:23:50,540
+São relatórios
+do médico do Águia.
+
+242
+00:23:50,541 --> 00:23:52,718
+Registros, histórico médico,
+
+243
+00:23:52,719 --> 00:23:55,564
+ficha criminal,
+informações do banco,
+
+244
+00:23:55,565 --> 00:23:58,957
+contatos telefônicos
+e mensagens de texto.
+
+245
+00:24:00,357 --> 00:24:02,005
+Onde arranjou isso?
+
+246
+00:24:03,006 --> 00:24:04,998
+Lennart é bom
+em encontrar coisas.
+
+247
+00:24:05,446 --> 00:24:09,199
+E não é ilegal!
+Quer dizer, é, mas não muito.
+
+248
+00:24:09,565 --> 00:24:13,864
+É a mesma pena para construir
+um trapiche sem autorização.
+
+249
+00:24:13,865 --> 00:24:15,756
+Por que diz
+que não fio acidente?
+
+250
+00:24:15,757 --> 00:24:18,815
+Porque as câmeras
+da Fitness World nos mostram
+
+251
+00:24:18,816 --> 00:24:22,189
+que ele não era apenas um homem
+de hábitos, mas sofria de TOC,
+
+252
+00:24:22,190 --> 00:24:24,607
+o que seu cartão médico
+confirma.
+
+253
+00:24:24,608 --> 00:24:28,523
+Tomava Citalopram e Diazepam,
+o que se dá a pacientes com TOC.
+
+254
+00:24:28,524 --> 00:24:34,257
+Sua ficha criminal tem 6 casos
+de agressão em linhas de trem.
+
+255
+00:24:34,624 --> 00:24:36,931
+No fim do último Novembro,
+
+256
+00:24:36,932 --> 00:24:39,939
+ele chutou um jardineiro
+paisagista aposentado no rosto,
+
+257
+00:24:39,940 --> 00:24:42,581
+quando este se recusou
+a lhe ceder seu assento.
+
+258
+00:24:42,582 --> 00:24:45,530
+E então temos a tremenda
+anormalidade estatística:
+
+259
+00:24:45,531 --> 00:24:47,963
+sabemos que os Cavaleiros
+da Justiça sabiam que,
+
+260
+00:24:47,964 --> 00:24:50,009
+por causa do TOC,
+
+261
+00:24:50,010 --> 00:24:52,874
+o Águia sempre sentava
+no 2ª vagão, na fileira 2.
+
+262
+00:24:53,640 --> 00:24:56,049
+E também temos ele.
+
+263
+00:24:57,107 --> 00:24:58,899
+- Quem é esse?
+- Ainda não sabemos.
+
+264
+00:24:58,900 --> 00:25:01,881
+Mas ele desceu na estação em
+que sua esposa e filha subiram,
+
+265
+00:25:01,882 --> 00:25:04,182
+segundos antes do acidente.
+
+266
+00:25:05,105 --> 00:25:07,482
+- Muitos devem ter feito isso.
+- Sim.
+
+267
+00:25:07,483 --> 00:25:11,231
+Mas esse cara deixou um suco
+e um sanduíche inteiros.
+
+268
+00:25:11,232 --> 00:25:15,199
+Na noite anterior, o mesmo cara
+estava na estação Østerport,
+
+269
+00:25:15,200 --> 00:25:16,781
+às 22h14min,
+
+270
+00:25:16,782 --> 00:25:19,610
+onde havia acesso livre
+ao trem de carga
+
+271
+00:25:19,611 --> 00:25:22,111
+que depois colidiria
+com o trem de passageiros.
+
+272
+00:25:27,415 --> 00:25:29,267
+Falaram com a polícia
+a respeito?
+
+273
+00:25:29,868 --> 00:25:31,515
+Não podemos mostrar isso
+a eles.
+
+274
+00:25:31,882 --> 00:25:34,490
+Mas falamos com a polícia
+três vezes.
+
+275
+00:25:34,491 --> 00:25:36,398
+Eles... não deram a mínima.
+
+276
+00:25:36,399 --> 00:25:39,127
+Acham que somos charlatões
+muito inteligentes.
+
+277
+00:25:40,424 --> 00:25:44,856
+Este cara é a chave.
+Temos que descobrir quem ele é.
+
+278
+00:25:44,857 --> 00:25:47,082
+Estamos investigando,
+mas não está fácil.
+
+279
+00:25:47,083 --> 00:25:48,947
+Temos algumas discordâncias
+
+280
+00:25:48,948 --> 00:25:51,848
+com nosso especialista
+em reconhecimento facial.
+
+281
+00:25:52,482 --> 00:25:55,897
+Podem resolver as discordâncias
+e descobrir quem é esse homem?
+
+282
+00:25:58,515 --> 00:26:01,774
+Temos que trazer o Emmenthaler
+a bordo. Vamos.
+
+283
+00:26:01,775 --> 00:26:03,975
+- Precisamos dele.
+- Nunca na vida!
+
+284
+00:26:04,476 --> 00:26:06,274
+Grande galpão, não acha?
+
+285
+00:26:06,275 --> 00:26:08,524
+Como aquele que tínhamos
+em Horsens.
+
+286
+00:26:10,290 --> 00:26:14,774
+- Tem certeza que pode dar ré?
+- Sim. Tem muito espaço.
+
+287
+00:26:27,274 --> 00:26:29,399
+Cuidado com a pedra.
+
+288
+00:26:34,232 --> 00:26:36,300
+<i>A fase do choque
+é individual.</i>
+
+289
+00:26:36,301 --> 00:26:38,981
+Alguns querem cuidado,
+contato e diálogo.
+
+290
+00:26:38,982 --> 00:26:42,648
+Outros querem ficar a sós,
+e ambos estão ok.
+
+291
+00:26:42,649 --> 00:26:47,414
+Oferecemos terapia cognitiva,
+juntos ou individualmente.
+
+292
+00:26:47,415 --> 00:26:50,949
+Obrigado. Eu aviso
+quando for necessário.
+
+293
+00:26:51,415 --> 00:26:54,959
+Podemos oferecer psicólogos
+para jovens e adultos,
+
+294
+00:26:54,960 --> 00:26:57,356
+que os visitarão em casa.
+
+295
+00:26:57,357 --> 00:26:59,749
+- É uma ótima ideia.
+- Eu não quero.
+
+296
+00:27:00,115 --> 00:27:01,537
+Por que não?
+
+297
+00:27:01,538 --> 00:27:03,981
+Normalmente não se tem
+consciência...
+
+298
+00:27:03,982 --> 00:27:07,043
+Queremos recuperar nossas vidas,
+não queremos gente na volta.
+
+299
+00:27:07,698 --> 00:27:09,198
+Vamos.
+
+300
+00:27:23,132 --> 00:27:26,540
+É o papai outra vez.
+Já foram 15 minutos, Mathilde.
+
+301
+00:27:27,090 --> 00:27:30,680
+Se não me ligar em 5 minutos,
+vou sair e procurar por você.
+
+302
+00:27:40,899 --> 00:27:42,803
+Buster e Gustav
+foram irritantes.
+
+303
+00:27:43,304 --> 00:27:46,698
+Eles nunca tinham falado
+comigo.
+
+304
+00:27:46,699 --> 00:27:48,530
+<i>- Mathilde!
+- Pai!</i>
+
+305
+00:27:48,531 --> 00:27:51,190
+Já são 22h30min.
+Por que não atendeu o celular?
+
+306
+00:27:52,274 --> 00:27:54,976
+Desculpa.
+Nós fomos ao cinema...
+
+307
+00:27:54,977 --> 00:27:56,573
+Devia ter me falado!
+
+308
+00:27:56,574 --> 00:27:58,420
+Não devia estar na rua
+às 22h30min.
+
+309
+00:27:58,421 --> 00:28:01,123
+Eu podia. Mamãe e eu
+concordamos até às 23h.
+
+310
+00:28:02,065 --> 00:28:06,089
+- Vá para casa. Entre!
+- Não há necessidade de gritar.
+
+311
+00:28:08,457 --> 00:28:10,981
+- O que disse?
+- Eu já vou indo.
+
+312
+00:28:10,982 --> 00:28:15,383
+Mas usar esse tom com Mathilde
+não é o que ela precisa agora.
+
+313
+00:28:17,315 --> 00:28:20,657
+O que diabos está fazendo, cara?
+Você está maluco!
+
+314
+00:28:40,607 --> 00:28:42,107
+<i>- Querida, abra a porta.
+- Não!</i>
+
+315
+00:28:42,108 --> 00:28:43,473
+Vamos...
+
+316
+00:28:43,474 --> 00:28:46,640
+Por que não derruba ela,
+seu maldito psicopata!
+
+317
+00:28:49,840 --> 00:28:52,236
+Mathilde, eu não queria
+bater tão forte nele.
+
+318
+00:28:54,590 --> 00:28:56,142
+Não devia ter batido nele.
+
+319
+00:29:01,707 --> 00:29:03,151
+Quem é ele?
+
+320
+00:29:06,440 --> 00:29:07,764
+Vocês são namorados?
+
+321
+00:29:07,765 --> 00:29:10,532
+Agora que você bateu nele
+eu não sei!
+
+322
+00:29:10,899 --> 00:29:12,434
+É, aquilo foi...
+
+323
+00:29:13,874 --> 00:29:15,814
+Não sabia que era
+seu namorado.
+
+324
+00:29:15,815 --> 00:29:18,856
+<i>Não, porque nunca está aqui.
+Não sabe nada de mim!</i>
+
+325
+00:29:18,857 --> 00:29:20,744
+Você não me conhece!
+
+326
+00:29:24,090 --> 00:29:25,765
+<i>Abra a porta, por favor.</i>
+
+327
+00:29:26,732 --> 00:29:28,314
+Estou na cama.
+
+328
+00:29:30,757 --> 00:29:32,210
+<i>Certo.</i>
+
+329
+00:29:33,074 --> 00:29:34,585
+<i>Durma bem.</i>
+
+330
+00:29:36,312 --> 00:29:38,078
+<i>Nos vemos amanhã, certo?</i>
+
+331
+00:29:50,613 --> 00:29:53,213
+UM HOMEM OFERECE O ASSENTO
+PARA A MAMÃE
+
+332
+00:30:05,594 --> 00:30:09,365
+A BICICLETA É ROUBADA
+
+333
+00:30:14,499 --> 00:30:17,023
+<i>- O que vocês querem?
+- É o Otto e o Lennart.</i>
+
+334
+00:30:17,024 --> 00:30:19,314
+Sim, estou vendo.
+Vão embora.
+
+335
+00:30:19,315 --> 00:30:21,237
+Vamos, Emmenthaler.
+Precisamos de você.
+
+336
+00:30:21,238 --> 00:30:23,390
+Estamos prestes a desvendar
+um assassinato.
+
+337
+00:30:26,082 --> 00:30:27,788
+<i>Trouxemos pizza.</i>
+
+338
+00:30:46,215 --> 00:30:50,514
+Peguei ele. Aharon Nahas Shadid,
+38 anos.
+
+339
+00:30:50,515 --> 00:30:52,736
+É técnico
+numa clínica odontológica.
+
+340
+00:30:52,737 --> 00:30:55,982
+Nazlet al-Seman al-Kebli,
+21,
+
+341
+00:30:55,983 --> 00:30:59,882
+Nazlet el-Semman, al-Haram,
+Cairo, Egito.
+
+342
+00:31:00,907 --> 00:31:02,664
+- Então não é ele.
+- É sim.
+
+343
+00:31:02,665 --> 00:31:06,739
+É o único acima de 99.12% no
+limite do marcador biométrico.
+
+344
+00:31:06,740 --> 00:31:09,623
+Atenha-se a correspondências
+com endereços dinamarqueses.
+
+345
+00:31:09,624 --> 00:31:13,950
+Eu já disse, não tem nenhuma
+merda de correspondência
+
+346
+00:31:13,951 --> 00:31:15,364
+na porra da Dinamarca!
+
+347
+00:31:15,365 --> 00:31:18,923
+Qual o maior percentual
+de correspondência na Dinamarca?
+
+348
+00:31:18,924 --> 00:31:20,683
+Ainda não conferi isso.
+
+349
+00:31:20,684 --> 00:31:23,981
+Não há ninguém
+acima do limite de 99,12%.
+
+350
+00:31:23,982 --> 00:31:27,099
+Não, mas eu pensei:
+e se, por exemplo,
+
+351
+00:31:27,100 --> 00:31:31,239
+baixássemos o limite
+para 95%?
+
+352
+00:31:31,640 --> 00:31:34,440
+É claro que podemos.
+Mas não faria sentido.
+
+353
+00:31:35,007 --> 00:31:37,784
+Para se classificar no salto
+para as Olimpíadas
+
+354
+00:31:37,785 --> 00:31:39,299
+há um requerimento mínimo.
+
+355
+00:31:39,300 --> 00:31:42,306
+Não quero ouvir essa merda
+olímpica pela terceira vez!
+
+356
+00:31:42,307 --> 00:31:44,112
+Nós entendemos seu ponto.
+
+357
+00:31:44,113 --> 00:31:47,210
+Mas pedimos para mudar
+para que não encontremos pessoas
+
+358
+00:31:47,211 --> 00:31:50,107
+na porra da América do Sul
+ou da África.
+
+359
+00:31:50,108 --> 00:31:52,664
+Acho que temos que parar
+com essa merda por aqui.
+
+360
+00:31:52,665 --> 00:31:54,276
+Não vou entrar
+nessa buceteada.
+
+361
+00:31:54,277 --> 00:31:56,339
+Peguem a pizza
+e saiam do meu apartamento!
+
+362
+00:31:56,340 --> 00:31:58,670
+Você já comeu,
+seu porco balofo!
+
+363
+00:31:58,671 --> 00:32:01,356
+Pronto, pronto...
+Calma, vocês dois.
+
+364
+00:32:01,357 --> 00:32:03,848
+Emmenthaler, escute...
+
+365
+00:32:04,949 --> 00:32:07,522
+As duas fotos que temos
+do homem
+
+366
+00:32:07,523 --> 00:32:10,023
+foram tiradas de cima,
+
+367
+00:32:11,299 --> 00:32:14,983
+então qualquer correspondência
+estará sujeita a alguma...
+
+368
+00:32:15,284 --> 00:32:17,156
+- incerteza, certo?
+- Sim.
+
+369
+00:32:17,157 --> 00:32:20,439
+Não temos dados biométricos
+para 100% de correspondência.
+
+370
+00:32:20,440 --> 00:32:21,979
+Exatamente!
+
+371
+00:32:21,980 --> 00:32:26,314
+Então queremos que mostre
+o que temos na Dinamarca.
+
+372
+00:32:26,315 --> 00:32:28,790
+Certo, mas isso não faz
+nenhum sentido.
+
+373
+00:32:35,157 --> 00:32:38,533
+Aí tem um com 95.84%.
+
+374
+00:32:38,534 --> 00:32:41,032
+Podemos vê-lo?
+Por favor?
+
+375
+00:32:51,682 --> 00:32:54,624
+É ele. É o cara.
+
+376
+00:32:56,132 --> 00:32:57,929
+Eu o reconheço do trem.
+
+377
+00:32:59,507 --> 00:33:03,215
+Palle Olesen.
+Veja isto.
+
+378
+00:33:07,699 --> 00:33:09,165
+Merda.
+
+379
+00:33:17,182 --> 00:33:19,433
+Bom dia, querida.
+Está com fome?
+
+380
+00:33:20,299 --> 00:33:23,549
+- Comprei ovos e pão de centeio.
+- Não como ovos.
+
+381
+00:33:24,315 --> 00:33:27,023
+Poderia passar menos tempo
+guardando latas vazias
+
+382
+00:33:27,024 --> 00:33:29,931
+e mais esvaziando o cinzeiro.
+É muito nojento.
+
+383
+00:33:29,932 --> 00:33:32,211
+O que posso fazer
+para consertar as coisas?
+
+384
+00:33:32,965 --> 00:33:36,581
+Devo ligar para ele?
+Pedir desculpa aos pais dele?
+
+385
+00:33:36,582 --> 00:33:38,831
+Ele disse que caiu,
+não acredita em vingança.
+
+386
+00:33:38,832 --> 00:33:40,148
+Lamento.
+
+387
+00:33:40,149 --> 00:33:43,124
+Ele poderia denunciá-lo,
+você o deixou com o olho roxo.
+
+388
+00:33:45,190 --> 00:33:47,232
+E se eu fizer
+espaguete à bolonhesa?
+
+389
+00:33:47,599 --> 00:33:51,448
+Podemos comer, posso conhecê-lo
+e me desculpar direito.
+
+390
+00:33:51,449 --> 00:33:53,881
+Espaguete à bolonhesa?
+Acho que temos 3 anos?
+
+391
+00:33:53,882 --> 00:33:56,224
+Então pedimos algo,
+só me diga o que fazer!
+
+392
+00:33:56,990 --> 00:34:00,580
+Vamos, Mathilde. Estou fazendo
+o melhor que posso.
+
+393
+00:34:04,307 --> 00:34:06,165
+Vou convidá-lo.
+
+394
+00:34:17,182 --> 00:34:19,327
+Tem um galpão, Emmenthaler.
+
+395
+00:34:27,274 --> 00:34:29,140
+- Oi.
+- Oi.
+
+396
+00:34:29,607 --> 00:34:31,400
+Este é o Emmenthaler.
+
+397
+00:34:33,790 --> 00:34:35,450
+Descobriu quem ele é?
+
+398
+00:34:37,274 --> 00:34:40,073
+Todos estão ansiosos
+para ver o galpão,
+
+399
+00:34:40,474 --> 00:34:42,397
+então quem sabe
+conversamos lá dentro?
+
+400
+00:34:44,415 --> 00:34:47,560
+Ele se chama Palle Olesen.
+E aqui fica interessante...
+
+401
+00:34:47,561 --> 00:34:50,491
+Ele é engenheiro
+eletricista,
+
+402
+00:34:50,492 --> 00:34:53,057
+especializado
+em componentes de trem.
+
+403
+00:34:53,524 --> 00:34:55,965
+Ele é o que desceu do trem
+antes do acidente,
+
+404
+00:34:55,966 --> 00:34:58,456
+e estava junto ao trem de carga
+na noite anterior?
+
+405
+00:34:58,457 --> 00:35:00,799
+E fica melhor.
+Ele é irmão...
+
+406
+00:35:00,800 --> 00:35:06,190
+do Kurt "Tandem" Olesen,
+líder do Cavaleiros da Justiça.
+
+407
+00:35:13,207 --> 00:35:14,978
+Contra quem
+o Águia testemunharia...
+
+408
+00:35:14,980 --> 00:35:16,845
+Cala a boca, Lennart,
+ele sabe disso!
+
+409
+00:35:16,846 --> 00:35:18,516
+Só está processando
+a informação.
+
+410
+00:35:20,132 --> 00:35:21,945
+Então eles são irmãos.
+
+411
+00:35:25,907 --> 00:35:29,289
+Todos sabem que vamos encontrar
+membro psicótico de uma gangue?
+
+412
+00:35:29,290 --> 00:35:32,090
+Ele não é da gangue,
+o irmão dele sim.
+
+413
+00:35:32,091 --> 00:35:34,906
+Ele é um engenheiro especialista
+em componentes de trem.
+
+414
+00:35:34,907 --> 00:35:37,938
+"Posse de drogas, agressão,
+agressão qualificada,
+
+415
+00:35:37,939 --> 00:35:41,439
+roubo, cúmplice de assassinato,
+posse ilegal de armas,
+
+416
+00:35:41,440 --> 00:35:45,281
+roubo de cavalos, posse
+de drogas, posse de armas..."
+
+417
+00:35:45,282 --> 00:35:50,064
+Então é um eletromecânico
+que anda num ambiente ruim.
+
+418
+00:35:50,065 --> 00:35:51,465
+E roubou um cavalo.
+
+419
+00:35:51,466 --> 00:35:54,239
+E que em algum momento da vida
+roubou um cavalo,
+
+420
+00:35:54,240 --> 00:35:56,401
+mas isso não o torna
+um membro de gangue.
+
+421
+00:35:56,402 --> 00:35:57,789
+Vamos falar com ele.
+
+422
+00:35:57,790 --> 00:36:01,717
+Vemos como reage à menção
+do acidente, e vamos à polícia.
+
+423
+00:36:24,090 --> 00:36:26,369
+Vá dar uma volta,
+ainda não está pronto.
+
+424
+00:36:26,370 --> 00:36:27,949
+Olá. Me chamo Markus.
+
+425
+00:36:28,315 --> 00:36:31,099
+Pode até ser. Ele não está
+pronto. Vá dar uma volta.
+
+426
+00:36:31,100 --> 00:36:34,084
+Você não entendeu. Minha esposa
+estava no acidente do trem.
+
+427
+00:36:34,085 --> 00:36:35,815
+- Ele também.
+- Eu sobrevivi.
+
+428
+00:36:35,816 --> 00:36:39,274
+- Sabemos que estava também.
+- Que merda é essa?
+
+429
+00:36:39,275 --> 00:36:42,415
+- Gostaríamos de saber...
+- Acho que devia ir embora.
+
+430
+00:36:42,416 --> 00:36:45,157
+- Se eu puder...
+- Você vai é ficar quieto agora!
+
+431
+00:36:45,824 --> 00:36:49,932
+Quer uma bala no meio dos olhos?
+Cai fora.
+
+432
+00:36:49,933 --> 00:36:54,074
+E leve seus três porquinhos.
+Eu disse pra cair fora!
+
+433
+00:37:03,614 --> 00:37:05,515
+Pelo menos está resolvido.
+
+434
+00:37:09,240 --> 00:37:12,607
+Markus. Não, não, não...
+Markus!
+
+435
+00:37:14,815 --> 00:37:16,507
+Maldito...
+
+436
+00:37:42,990 --> 00:37:44,498
+Ele está morto?
+
+437
+00:37:47,665 --> 00:37:51,297
+Está. Quer que chame
+a polícia?
+
+438
+00:37:51,298 --> 00:37:53,356
+Não, não podemos
+fazer isso.
+
+439
+00:37:53,357 --> 00:37:56,424
+- Foi autodefesa.
+- Nada de polícia. Vamos.
+
+440
+00:37:57,225 --> 00:38:00,657
+Se não relatarmos, pelo menos
+vamos nos livrar do corpo.
+
+441
+00:38:01,824 --> 00:38:06,598
+Evidências forenses apontam
+o perpetrador em 87.4% dos casos.
+
+442
+00:38:06,599 --> 00:38:11,207
+O DNA do Markus está por tudo.
+Emmenthaler, venha me ajudar.
+
+443
+00:38:11,208 --> 00:38:14,464
+- Já! Antes que alguém veja.
+- Não podemos levá-lo.
+
+444
+00:38:14,465 --> 00:38:18,274
+É extremamente ilegal.
+Não quero tomar parte nisso.
+
+445
+00:38:20,357 --> 00:38:21,951
+Isso foi um erro.
+
+446
+00:38:23,257 --> 00:38:25,462
+Não devia ter feito isso.
+
+447
+00:38:26,463 --> 00:38:27,999
+Cometi um erro.
+
+448
+00:38:28,765 --> 00:38:31,307
+- Vamos.
+- Ele mereceu isso.
+
+449
+00:38:32,108 --> 00:38:33,678
+Ele mereceu.
+
+450
+00:38:34,490 --> 00:38:38,200
+Se soubessem quantas vezes
+babacas como ele me perseguiram.
+
+451
+00:38:38,965 --> 00:38:40,857
+Não é tão durão agora, né?
+
+452
+00:38:41,624 --> 00:38:45,856
+Tente nos atormentar agora,
+seu monte de bosta.
+
+453
+00:38:45,857 --> 00:38:51,690
+Quem é o porquinho agora,
+seu maldito filho duma égua?
+
+454
+00:38:51,691 --> 00:38:54,239
+Emmenthaler, acalme-se.
+
+455
+00:38:55,224 --> 00:38:58,981
+- Viado!
+- Emmenthaler, pare. Certo?
+
+456
+00:38:58,982 --> 00:39:02,132
+- Vamos lá.
+- E quanto a ele, diabos?
+
+457
+00:39:02,133 --> 00:39:05,024
+Não podemos carregar
+um homem morto.
+
+458
+00:39:05,025 --> 00:39:09,258
+Deixe-me ao menos encontrar
+detergente removedor de DNA.
+
+459
+00:39:09,259 --> 00:39:13,098
+Isso. Algo com hidróxido de
+sódio ou nitrato de hidrogênio.
+
+460
+00:39:13,099 --> 00:39:16,473
+- Benzenosulfonamida é o melhor.
+- Acabou a hora da química!
+
+461
+00:39:16,474 --> 00:39:19,990
+Obrigado! Esperem no carro.
+Eu cuido disso.
+
+462
+00:40:03,270 --> 00:40:05,471
+Já tinha matado alguém?
+
+463
+00:40:09,524 --> 00:40:13,940
+Ao menos pareceu...
+que não era a primeira vez.
+
+464
+00:40:15,607 --> 00:40:18,898
+Estou certo de que sempre vestia
+um uniforme ao fazer isso...
+
+465
+00:40:18,899 --> 00:40:20,855
+Vamos apenas ficar quietos,
+Emmenthaler.
+
+466
+00:40:22,065 --> 00:40:24,505
+Entendo como se sente,
+Markus.
+
+467
+00:40:25,157 --> 00:40:29,197
+Pode não ser igual, mas quando
+criança eu adorava tocar trompa.
+
+468
+00:40:30,840 --> 00:40:34,136
+- Como você relaciona isso...?
+- Deixe-me terminar!
+
+469
+00:40:34,137 --> 00:40:36,981
+O tempo todo interrompendo!
+O que estou tentando dizer é:
+
+470
+00:40:36,982 --> 00:40:38,753
+Eu tocava no jardim Tivoli,
+
+471
+00:40:38,754 --> 00:40:41,806
+de uniforme vermelho
+e gorro de pele de urso,
+
+472
+00:40:41,807 --> 00:40:45,049
+mas quando fiz 17 anos,
+não se podia mais ficar lá.
+
+473
+00:40:46,065 --> 00:40:48,179
+Você estava
+por conta própria.
+
+474
+00:40:49,065 --> 00:40:51,582
+Tentei tocar
+algumas vezes, mas...
+
+475
+00:40:52,149 --> 00:40:56,290
+era como se eu e o uniforme
+tivéssemos que tocar juntos,
+
+476
+00:40:56,291 --> 00:40:58,360
+e eu não conseguia sozinho.
+
+477
+00:41:00,315 --> 00:41:02,259
+Que tal ouvirmos
+alguma coisa?
+
+478
+00:41:03,949 --> 00:41:06,615
+É... Isso.
+
+479
+00:41:44,840 --> 00:41:48,648
+- Não vou fazer o caminho todo.
+- Quer que ele pegue um táxi?
+
+480
+00:41:48,649 --> 00:41:52,106
+Não vou dar a ré. Da outra vez
+quase bati na cerca.
+
+481
+00:41:52,107 --> 00:41:57,432
+- Vá até a frente, porcaria!
+- Você paga pelos amassados?
+
+482
+00:42:18,157 --> 00:42:21,657
+- Oi. Sirius está aqui.
+- Sim.
+
+483
+00:42:23,999 --> 00:42:26,231
+- Oi, Sirius.
+- Oi.
+
+484
+00:42:26,232 --> 00:42:29,990
+- E... me desculpe.
+- Não precisa se desculpar.
+
+485
+00:42:30,357 --> 00:42:31,993
+É um momento difícil.
+
+486
+00:42:33,890 --> 00:42:37,349
+É... Certo. Tudo bem.
+
+487
+00:42:40,440 --> 00:42:43,009
+Há uma nítida relação
+entre seu trabalho
+
+488
+00:42:43,010 --> 00:42:45,556
+e o modo como se lida
+com as crises.
+
+489
+00:42:45,557 --> 00:42:48,773
+Um instrutor de ioga medita
+sobre como resolver o problema.
+
+490
+00:42:48,774 --> 00:42:52,720
+Um atleta trará um elemento
+competitivo
+
+491
+00:42:52,721 --> 00:42:55,764
+como base para solução
+de conflitos, e por aí vai.
+
+492
+00:42:55,765 --> 00:42:58,915
+A violência é boa parte
+do seu cotidiano, enfim...
+
+493
+00:43:00,882 --> 00:43:03,964
+É parte de você, pai,
+e tem sido por tanto tempo
+
+494
+00:43:03,965 --> 00:43:06,726
+que se tornou a única estratégia
+de solução que conhece.
+
+495
+00:43:07,124 --> 00:43:10,308
+Você entende
+o que estamos tentando dizer?
+
+496
+00:43:11,049 --> 00:43:12,675
+Acho que sim.
+
+497
+00:43:14,707 --> 00:43:16,804
+E se você for um padeiro?
+
+498
+00:43:18,765 --> 00:43:21,605
+Como se revolve conflitos
+quando se é um padeiro?
+
+499
+00:43:22,799 --> 00:43:25,513
+Claro que o modelo não se aplica
+a todas as ocupações.
+
+500
+00:43:26,582 --> 00:43:29,148
+Bem... é um modelo e tanto!
+
+501
+00:43:31,657 --> 00:43:35,223
+- O que fizeram hoje?
+- Pai, você precisa de ajuda.
+
+502
+00:43:36,982 --> 00:43:38,532
+Conversou com alguém?
+
+503
+00:43:39,199 --> 00:43:41,231
+- Sim.
+- Com quem?
+
+504
+00:43:44,257 --> 00:43:47,523
+Com você.
+Nós conversamos.
+
+505
+00:43:47,524 --> 00:43:50,814
+Sirius falou de um profissional.
+E não, nós não conversamos.
+
+506
+00:43:50,815 --> 00:43:52,490
+Eu acho que sim.
+
+507
+00:43:52,491 --> 00:43:56,059
+Minha mãe é psicóloga,
+e está disponível se você...
+
+508
+00:44:09,107 --> 00:44:10,788
+Chega, Mathilde.
+
+509
+00:44:12,965 --> 00:44:16,693
+- O que quer que eu faça?
+- Você precisa de ajuda, pai.
+
+510
+00:44:19,357 --> 00:44:23,629
+Deixe que os psicólogos venham.
+Seria bom para nós dois.
+
+511
+00:44:33,149 --> 00:44:38,115
+Não posso, querida. Não agora.
+Não posso lidar com isso.
+
+512
+00:44:56,882 --> 00:45:01,214
+<i>Hoje saiu o veredito do caso
+do assassinatos da rua Kaalund.</i>
+
+513
+00:45:01,215 --> 00:45:04,028
+<i>Dois membros da gangue
+Cavaleiros da Justiça</i>
+
+514
+00:45:04,029 --> 00:45:06,231
+<i>foram condenados
+a 16 de prisão,</i>
+
+515
+00:45:06,232 --> 00:45:08,567
+<i>enquanto o líder,
+Kurt "Tandem" Olesen,</i>
+
+516
+00:45:08,568 --> 00:45:13,029
+<i>aqui visto saindo da corte
+com Kenneth "Pregado" Jensen,</i>
+
+517
+00:45:13,030 --> 00:45:16,206
+<i>foi absolvido
+de todas as acusações.</i>
+
+518
+00:45:16,207 --> 00:45:19,314
+<i>Certamente estamos desapontados.
+Mas sem o testemunho do Águia</i>
+
+519
+00:45:19,315 --> 00:45:22,974
+<i>ficamos sem base sólida.
+Não poderíamos ter feito mais.</i>
+
+520
+00:45:22,975 --> 00:45:25,306
+<i>Kurt, alguma declaração?</i>
+
+521
+00:45:25,307 --> 00:45:29,314
+<i>É um grande dia para meus irmãos
+e para mim, e para a justiça.</i>
+
+522
+00:45:29,315 --> 00:45:33,092
+<i>Há o que celebrar, considerando
+a morte do seu irmão?</i>
+
+523
+00:45:34,132 --> 00:45:35,515
+<i>Meu irmão...</i>
+
+524
+00:45:35,516 --> 00:45:38,116
+<i>iria querer que celebrássemos
+a vitória da justiça.</i>
+
+525
+00:45:40,124 --> 00:45:41,647
+<i>E é o que faremos.</i>
+
+526
+00:45:41,648 --> 00:45:45,328
+<i>Hoje vamos festejar
+com bebidas e prostitutas!</i>
+
+527
+00:45:52,092 --> 00:45:54,364
+- Obrigado por virem.
+- Por que estamos aqui?
+
+528
+00:45:55,624 --> 00:45:59,657
+Quero que descubram tudo
+sobre os Cavaleiros da Justiça.
+
+529
+00:45:59,924 --> 00:46:01,362
+Quantos são,
+
+530
+00:46:01,363 --> 00:46:04,173
+por que crimes foram condenados,
+de quais são suspeitos,
+
+531
+00:46:04,174 --> 00:46:07,056
+nomes, endereços, relações
+familiares, onde costumam ir...
+
+532
+00:46:07,057 --> 00:46:09,254
+Isso pode ser feito
+sem que seja rastreado?
+
+533
+00:46:17,940 --> 00:46:19,922
+Já entendemos
+que é fácil para você.
+
+534
+00:46:19,923 --> 00:46:21,940
+É muito fácil para mim.
+
+535
+00:46:23,007 --> 00:46:26,357
+- O que fará com tudo isso?
+- Quero vingar minha esposa.
+
+536
+00:46:26,924 --> 00:46:28,590
+Você quer matá-los?
+
+537
+00:46:29,357 --> 00:46:30,918
+- Estou dentro.
+- Não!
+
+538
+00:46:30,919 --> 00:46:34,024
+Só me aproximem deles.
+Eu cuido do resto.
+
+539
+00:46:34,025 --> 00:46:36,341
+Queremos fazer tudo.
+
+540
+00:46:36,342 --> 00:46:39,145
+Já falamos sobre isso.
+É uma ótima ideia.
+
+541
+00:46:39,146 --> 00:46:40,712
+- Eu quero ajudar.
+- Eu também!
+
+542
+00:46:41,249 --> 00:46:43,906
+Não falamos
+sobre matar pessoas.
+
+543
+00:46:43,907 --> 00:46:46,735
+Não, mas você
+quer limpar as contas deles
+
+544
+00:46:46,736 --> 00:46:49,214
+e registrá-los
+em associações...
+
+545
+00:46:49,215 --> 00:46:51,814
+Mas há um abismo
+entre isso e assassinato!
+
+546
+00:46:51,815 --> 00:46:54,566
+A questão é que estamos falando
+de vingança.
+
+547
+00:46:54,567 --> 00:46:57,264
+Se você cumprir sua parte
+no acordo,
+
+548
+00:46:57,265 --> 00:47:01,848
+Markus será responsável
+pela parte ilegal da coisa.
+
+549
+00:47:01,849 --> 00:47:03,635
+Otto, eles são motoqueiros,
+
+550
+00:47:03,636 --> 00:47:05,924
+não vamos explodir uma creche.
+Estamos nessa.
+
+551
+00:47:05,925 --> 00:47:10,357
+Não! Vamos coletar informações,
+mas não vamos matar ninguém.
+
+552
+00:47:10,358 --> 00:47:13,056
+- Merda, eu sabia!
+- Você é um péssimo líder.
+
+553
+00:47:13,057 --> 00:47:15,357
+Certo.
+Faremos assim, então.
+
+554
+00:47:15,358 --> 00:47:17,840
+Vocês coletam as informações,
+e eu cuido do resto.
+
+555
+00:47:18,840 --> 00:47:21,982
+- Ligue quando precisar, certo?
+- Sim.
+
+556
+00:47:24,482 --> 00:47:25,898
+Até mais.
+
+557
+00:47:43,199 --> 00:47:44,683
+Oi.
+
+558
+00:47:44,684 --> 00:47:47,023
+Oi, querida.
+Por que está em casa tão cedo?
+
+559
+00:47:47,024 --> 00:47:49,731
+Hoje é quarta, saímos às 14h.
+O que houve?
+
+560
+00:47:52,074 --> 00:47:56,074
+Aquele cara estava no trem.
+Ele e a mamãe conversaram.
+
+561
+00:47:58,982 --> 00:48:03,199
+Está certo, aquele é o Otto.
+Ele estava no trem, sim.
+
+562
+00:48:11,624 --> 00:48:15,051
+- O que está havendo, pai?
+- Bem, é porque ele...
+
+563
+00:48:19,707 --> 00:48:22,148
+Eu vou dizer...
+
+564
+00:48:22,149 --> 00:48:25,957
+Fizemos uma confrontação
+entre Otto e seu pai.
+
+565
+00:48:25,958 --> 00:48:29,481
+Otto se sente culpado
+por dar o assento à sua mãe.
+
+566
+00:48:29,482 --> 00:48:32,355
+- E foi muito recompensador.
+- Muito recompensador...
+
+567
+00:48:32,899 --> 00:48:35,622
+É. É o que estamos fazendo,
+Mathilde.
+
+568
+00:48:37,799 --> 00:48:40,157
+Pai... Obrigada!
+
+569
+00:48:40,524 --> 00:48:45,724
+Confiava que os deixaria vir.
+Também quero falar com eles.
+
+570
+00:48:46,585 --> 00:48:48,049
+Sim...
+
+571
+00:48:48,450 --> 00:48:51,677
+- Falar com quem?
+- Com os psicólogos de crise.
+
+572
+00:48:52,605 --> 00:48:54,005
+Vocês são psicólogos, não?
+
+573
+00:48:54,507 --> 00:48:56,228
+Podemos dizer que sim.
+
+574
+00:48:57,345 --> 00:49:00,215
+- De crianças ou adultos?
+- Adultos.
+
+575
+00:49:00,582 --> 00:49:05,263
+Doutor em medicina, PhD Lennart
+Horsens... Horsensbygård.
+
+576
+00:49:06,464 --> 00:49:08,189
+E este é meu colega,
+
+577
+00:49:08,190 --> 00:49:10,207
+psicólogo infantil
+Ulf Emmenthaler.
+
+578
+00:49:10,814 --> 00:49:13,648
+Ulf Emmenthaler, psicólogo
+de crise para crianças.
+
+579
+00:49:15,249 --> 00:49:18,431
+Estou entre os dois.
+O que me aconselha a fazer?
+
+580
+00:49:18,432 --> 00:49:20,921
+Terapeuticamente falando,
+você é adulta.
+
+581
+00:49:20,922 --> 00:49:22,781
+Devia falar comigo.
+
+582
+00:49:22,782 --> 00:49:26,356
+- Ou talvez possa esperar...
+- Não. Por isso estamos aqui.
+
+583
+00:49:26,357 --> 00:49:30,090
+É bom quebrar as barreiras
+iniciais desde já.
+
+584
+00:49:30,457 --> 00:49:31,961
+Vamos, Mathilde.
+
+585
+00:49:35,800 --> 00:49:37,724
+Lennart é muito capaz.
+
+586
+00:49:38,390 --> 00:49:41,481
+Ele foi a mais de 25 psicólogos
+nos últimos 40 anos.
+
+587
+00:49:41,482 --> 00:49:43,040
+Tem contato pessoal
+
+588
+00:49:43,041 --> 00:49:45,012
+com virtualmente
+todos os diagnósticos.
+
+589
+00:49:50,357 --> 00:49:53,785
+Outro dia Sirius e eu
+vimos um cão ser atropelado.
+
+590
+00:49:53,786 --> 00:49:56,189
+Ele berrou e sangrou...
+
+591
+00:49:56,190 --> 00:49:57,951
+E agora tem medo
+de ser atropelada.
+
+592
+00:49:57,952 --> 00:49:59,399
+Não.
+
+593
+00:49:59,765 --> 00:50:04,315
+Eu não senti pena alguma.
+Não senti nada quando vi.
+
+594
+00:50:05,999 --> 00:50:09,040
+Talvez porque tenha acabado
+de perder sua mãe...
+
+595
+00:50:09,041 --> 00:50:13,431
+Não compro essa de que porque
+perdi minha mãe e estou de luto,
+
+596
+00:50:13,432 --> 00:50:16,340
+então não posso sentir nada
+pelos outros...
+
+597
+00:50:16,341 --> 00:50:18,170
+Não era isso
+que eu ia dizer.
+
+598
+00:50:18,171 --> 00:50:21,330
+Ia dizer algo bem diferente,
+mas agora não tem importância.
+
+599
+00:50:22,624 --> 00:50:24,846
+Estou com medo
+de ser igual ao meu pai.
+
+600
+00:50:27,107 --> 00:50:30,280
+Fico triste todas as manhãs,
+e não me importo com nada.
+
+601
+00:50:30,281 --> 00:50:32,115
+Não quero fazer nada.
+
+602
+00:50:32,116 --> 00:50:36,114
+Sim. É claro que lembra seu pai.
+Você tem os genes dele.
+
+603
+00:50:36,115 --> 00:50:39,282
+Exato. E se eu tiver um filho,
+ele terá esses genes,
+
+604
+00:50:39,283 --> 00:50:43,606
+não dará a mínima para os outros,
+e será frio e violento.
+
+605
+00:50:43,607 --> 00:50:45,023
+Não pode afirmar isso.
+
+606
+00:50:45,524 --> 00:50:47,767
+Estatisticamente,
+eles irão sim.
+
+607
+00:50:47,768 --> 00:50:50,692
+Estatisticamente você pode
+se afogar numa poça, Mathilde.
+
+608
+00:50:50,693 --> 00:50:52,918
+Mas você não anda por aí
+com medo disso.
+
+609
+00:50:54,982 --> 00:50:57,560
+O positivo é que
+depois de tanta merda,
+
+610
+00:50:57,561 --> 00:50:59,248
+é improvável
+que aconteça de novo.
+
+611
+00:50:59,249 --> 00:51:01,462
+Não é assim
+que a estatística funciona.
+
+612
+00:51:01,463 --> 00:51:05,081
+Muitas coisas terríveis ainda
+podem acontecer em sua vida.
+
+613
+00:51:05,482 --> 00:51:07,468
+E provavelmente acontecerão.
+
+614
+00:51:07,469 --> 00:51:09,239
+Mas também podem haver
+coisas boas.
+
+615
+00:51:09,240 --> 00:51:11,267
+E devemos focar nisso
+agora.
+
+616
+00:51:11,990 --> 00:51:15,248
+Lembra da primeira vez
+que viu algo realmente terrível?
+
+617
+00:51:15,249 --> 00:51:17,351
+Na TV, por exemplo.
+
+618
+00:51:19,099 --> 00:51:20,564
+Sim.
+
+619
+00:51:20,565 --> 00:51:25,265
+Uma vez vimos
+imagens de Auschwitz, na escola.
+
+620
+00:51:25,666 --> 00:51:28,674
+- Pessoas mortas empilhadas.
+- Sim...
+
+621
+00:51:29,640 --> 00:51:32,391
+- Isso a deixou triste?
+- Sim.
+
+622
+00:51:33,032 --> 00:51:35,184
+Ou mais assustada, talvez.
+
+623
+00:51:36,085 --> 00:51:38,424
+Mas não foi grande coisa,
+na época.
+
+624
+00:51:40,907 --> 00:51:42,329
+Sim...
+
+625
+00:51:42,730 --> 00:51:44,799
+Foi grande sim.
+
+626
+00:51:45,165 --> 00:51:48,040
+Mas eu não era tão velha,
+quero dizer.
+
+627
+00:51:49,632 --> 00:51:51,006
+MEDO
+SER GORDA
+
+628
+00:51:51,007 --> 00:51:53,007
+Não vamos nos preocupar
+com isso.
+
+629
+00:51:53,508 --> 00:51:55,657
+Se há algo que aprendi
+em Horsens,
+
+630
+00:51:55,658 --> 00:51:59,099
+é que as emoções amortecem
+com a repetição.
+
+631
+00:51:59,465 --> 00:52:02,514
+Não rimos da mesma piada
+pela terceira vez.
+
+632
+00:52:02,515 --> 00:52:06,023
+Em algum momento se para
+de chorar quando se é abusado
+
+633
+00:52:06,024 --> 00:52:08,495
+de novo, de novo
+e de novo,
+
+634
+00:52:08,496 --> 00:52:12,090
+por seu pai
+ou por seus tios,
+
+635
+00:52:12,557 --> 00:52:15,507
+numa fazenda, por exemplo.
+
+636
+00:52:21,290 --> 00:52:23,108
+O que quero dizer é:
+
+637
+00:52:23,109 --> 00:52:26,731
+as emoções surgem quando somos
+surpreendidos ou estimulados.
+
+638
+00:52:26,732 --> 00:52:30,923
+Morte e mutilações ocorrem
+diariamente no YouTube ou na TV.
+
+639
+00:52:30,924 --> 00:52:32,524
+É por isso
+que não sente nada.
+
+640
+00:52:33,190 --> 00:52:35,909
+- Acha que é apenas isso?
+- Absolutamente.
+
+641
+00:52:35,910 --> 00:52:38,048
+Você não é vazia, Mathilde.
+
+642
+00:52:40,324 --> 00:52:41,956
+Mas você é gorda.
+
+643
+00:52:43,215 --> 00:52:44,620
+O quê?
+
+644
+00:52:45,121 --> 00:52:47,774
+É, você é
+um pequeno salame apimentado.
+
+645
+00:53:00,849 --> 00:53:02,624
+Ele fala dinamarquês?
+
+646
+00:53:04,126 --> 00:53:05,830
+Você fala dinamarquês?
+
+647
+00:53:06,731 --> 00:53:08,316
+O que disse à polícia?
+
+648
+00:53:08,317 --> 00:53:11,598
+Nada. Eu não vi nada,
+não ouvi nada.
+
+649
+00:53:11,599 --> 00:53:15,873
+- Sou como uma batatinha.
+- Está vendo isto?
+
+650
+00:53:16,383 --> 00:53:19,757
+Talvez refresque sua memória.
+Lembra do seu nome?
+
+651
+00:53:20,524 --> 00:53:22,366
+Bodashka Litvinenko.
+
+652
+00:53:24,378 --> 00:53:25,990
+Isso não vai dar certo.
+
+653
+00:53:26,557 --> 00:53:30,437
+Seu nome é Jens-Ole.
+É mais fácil lembrarmos.
+
+654
+00:53:30,438 --> 00:53:34,106
+Mais fácil para todos. Obrigado.
+Muito obrigado pelo novo nome.
+
+655
+00:53:34,107 --> 00:53:35,581
+De nada.
+
+656
+00:53:36,382 --> 00:53:38,006
+Se não começar a lembrar,
+
+657
+00:53:38,007 --> 00:53:40,181
+vou quebrar
+seus dedinhos de maricas.
+
+658
+00:53:40,182 --> 00:53:41,729
+A última coisa
+que ouvirá...
+
+659
+00:53:42,223 --> 00:53:44,423
+é este aqui dizendo "bang"!
+
+660
+00:53:48,607 --> 00:53:51,990
+- Me conta.
+- Vi apenas um homem...
+
+661
+00:53:52,357 --> 00:53:56,314
+Ele estava bem vestido,
+um cara elegante.
+
+662
+00:53:56,315 --> 00:54:00,107
+Parecia o guitarrista
+da banda de rock Queen.
+
+663
+00:54:00,764 --> 00:54:04,207
+Mas eu os ouvi gritando
+um nome.
+
+664
+00:54:04,208 --> 00:54:06,799
+Um nome... "Êinaltaimer".
+
+665
+00:54:10,315 --> 00:54:13,648
+- Êinaltempo?
+- Não, não, Êinaltaimer.
+
+666
+00:54:13,649 --> 00:54:15,356
+Como o sanduíche
+de queijo...
+
+667
+00:54:15,757 --> 00:54:17,599
+Eles gritaram várias vezes.
+
+668
+00:54:19,699 --> 00:54:24,182
+- Ellemtaner?
+- Ou... Emmentaler.
+
+669
+00:54:25,582 --> 00:54:27,158
+Emmentaler.
+
+670
+00:54:38,924 --> 00:54:41,961
+Certo. São os últimos.
+
+671
+00:54:46,315 --> 00:54:48,885
+- Quer ajuda com a fiação?
+- Não, eu mesmo conecto.
+
+672
+00:54:48,886 --> 00:54:52,082
+Afaste-se dos fios!
+Afaste-se!
+
+673
+00:54:52,083 --> 00:54:53,932
+Afaste-se.
+
+674
+00:54:58,007 --> 00:54:59,752
+Me desculpe, Markus...
+
+675
+00:55:00,353 --> 00:55:03,824
+Se tem algo que me faz ferver
+são monitores com má resolução.
+
+676
+00:55:03,825 --> 00:55:06,437
+Veja a resolução de merda
+que o Lennart usa.
+
+677
+00:55:06,438 --> 00:55:07,974
+Vai ferir nossos olhos.
+
+678
+00:55:07,975 --> 00:55:11,207
+Você está muito perto dos fios.
+Afaste-se, por favor.
+
+679
+00:55:12,274 --> 00:55:14,970
+Afaste-se da fiação!
+
+680
+00:55:21,340 --> 00:55:23,955
+Certo, mais um.
+Um gole grande.
+
+681
+00:55:24,456 --> 00:55:25,882
+E mais um.
+
+682
+00:55:26,924 --> 00:55:28,832
+Você pode fazer melhor.
+
+683
+00:55:30,240 --> 00:55:31,777
+O que estão fazendo?
+
+684
+00:55:31,778 --> 00:55:35,481
+Bebendo Coca-cola de cabeça
+para baixo. É impossível!
+
+685
+00:55:35,482 --> 00:55:37,817
+Lennart, Otto,
+vamos conversar...
+
+686
+00:55:37,818 --> 00:55:39,148
+Estamos no meio da sessão.
+
+687
+00:55:39,149 --> 00:55:43,032
+Agora o sorvete. Pegue o sorvete
+e tome. Tome muito sorvete.
+
+688
+00:55:43,499 --> 00:55:45,191
+Mathilde, não coma
+essa porcaria.
+
+689
+00:55:45,192 --> 00:55:47,914
+Não dê ouvidos a ele.
+Coma, coma... Muito!
+
+690
+00:55:47,915 --> 00:55:49,363
+Lennart, venha comigo.
+
+691
+00:55:49,364 --> 00:55:51,659
+Não está no trabalho, pai.
+Pare de dar ordens!
+
+692
+00:55:51,660 --> 00:55:54,231
+- Lennart sabe o que faz.
+- Cuspa isso, Mathilde!
+
+693
+00:55:54,232 --> 00:55:55,876
+Agora você pode falar.
+Vamos.
+
+694
+00:55:58,742 --> 00:56:01,773
+Papai... Não tenho medo
+de ser gorda.
+
+695
+00:56:01,774 --> 00:56:05,723
+Não tenho que parecer faminta
+como um cachorro de trenó,
+
+696
+00:56:05,724 --> 00:56:08,357
+porque você tem medo
+de ter uma filha acima do peso.
+
+697
+00:56:08,358 --> 00:56:10,656
+É a terapia cognitiva
+clássica.
+
+698
+00:56:10,657 --> 00:56:13,339
+Lennart não usa exposição
+gradual, usa "inundação".
+
+699
+00:56:13,340 --> 00:56:15,488
+Mathilde enfrentará
+os demônios de frente.
+
+700
+00:56:15,489 --> 00:56:18,440
+Como botar o paciente em vertigem
+no alto de um arranha-céu.
+
+701
+00:56:18,441 --> 00:56:22,263
+- Você trabalha com um Core i9?
+- Sim, com certeza.
+
+702
+00:56:22,840 --> 00:56:24,989
+Você é idiota?
+
+703
+00:56:24,990 --> 00:56:28,148
+Como vou rastrear alguma coisa
+com uma merdinha de processador?
+
+704
+00:56:28,149 --> 00:56:32,690
+Alguém tem que buscar meus
+servidores e monitores agora!
+
+705
+00:56:32,691 --> 00:56:37,356
+Ou não conseguirei começar nada
+com esse computador de merda!
+
+706
+00:56:37,357 --> 00:56:40,916
+O cacete que eu vou ligar
+para o que essa diva diz!
+
+707
+00:56:40,917 --> 00:56:42,773
+Como ousa,
+seu porco balofo!
+
+708
+00:56:42,774 --> 00:56:44,779
+Como se seu equipamento
+fosse melhor!
+
+709
+00:56:44,780 --> 00:56:47,856
+Eu não vou sair
+para rebocar aquele trailer!
+
+710
+00:56:47,857 --> 00:56:50,024
+Monitores bucetudos!
+
+711
+00:56:50,025 --> 00:56:51,908
+O que está havendo, pai?
+
+712
+00:56:52,877 --> 00:56:54,400
+É...
+
+713
+00:56:55,324 --> 00:56:58,255
+Isso é MBT, certo?
+
+714
+00:56:59,315 --> 00:57:00,825
+Exatamente.
+
+715
+00:57:00,826 --> 00:57:03,999
+Bem observado, Sirius.
+É exatamente a MBT.
+
+716
+00:57:05,390 --> 00:57:08,723
+- O que é MBT?
+- Falamos disso depois.
+
+717
+00:57:08,724 --> 00:57:11,069
+Vamos pegar umas coisas
+na casa do Emmenthaler.
+
+718
+00:57:11,070 --> 00:57:12,448
+- Certo Markus?
+- Certo.
+
+719
+00:57:12,449 --> 00:57:13,981
+Terapia por mentalização...
+
+720
+00:57:13,982 --> 00:57:17,689
+Você faz encenações e simulações
+para obter respostas emocionais.
+
+721
+00:57:17,690 --> 00:57:21,190
+- Essa é uma redução grosseira.
+- Lennart!
+
+722
+00:57:22,174 --> 00:57:26,439
+- Escute aqui você...
+- Vai se ferrar!
+
+723
+00:57:29,123 --> 00:57:31,176
+Tem alguma coisa
+muito estranha.
+
+724
+00:57:35,790 --> 00:57:37,639
+Funciona, Mathilde.
+
+725
+00:57:38,049 --> 00:57:40,244
+Veja.
+Seu pai está interagindo.
+
+726
+00:57:41,581 --> 00:57:44,223
+Não importa o método,
+mas sim o resultado.
+
+727
+00:57:44,224 --> 00:57:47,415
+Ele está agindo
+de um jeito ainda mais estranho.
+
+728
+00:57:47,416 --> 00:57:50,090
+O que estão fazendo
+com aquele computador no galpão?
+
+729
+00:57:52,282 --> 00:57:56,089
+Nem mais uma palavra para ela
+ou seja quem for. Entendido?
+
+730
+00:57:56,090 --> 00:57:58,981
+Ela tem medo de engordar
+porque você está sempre em cima.
+
+731
+00:57:58,982 --> 00:58:01,394
+- Só queremos ajudar.
+- Ela não precisa de ajuda.
+
+732
+00:58:01,740 --> 00:58:04,390
+Tenho mais de 4 mil horas
+de sessões com psicólogos,
+
+733
+00:58:04,391 --> 00:58:07,082
+então acho que sei um pouco mais
+sobre isso que você.
+
+734
+00:58:08,149 --> 00:58:10,690
+E acha que essas 4 mil horas
+ajudaram?
+
+735
+00:58:11,557 --> 00:58:13,869
+Diz o cara que quebra o pescoço
+das pessoas,
+
+736
+00:58:13,870 --> 00:58:15,657
+mas tem medo de Coca-cola
+e sorvete.
+
+737
+00:58:15,658 --> 00:58:17,057
+Cuidado.
+
+738
+00:58:17,724 --> 00:58:19,736
+Você também precisa de ajuda,
+Markus.
+
+739
+00:58:19,737 --> 00:58:21,939
+Não há nenhuma vergonha
+nisso.
+
+740
+00:58:21,940 --> 00:58:26,589
+O importante agora é que comece
+a trabalhar em si mesmo.
+
+741
+00:58:26,590 --> 00:58:28,892
+Por que ela não acredita
+em Deus?
+
+742
+00:58:28,893 --> 00:58:30,306
+Pare.
+
+743
+00:58:30,307 --> 00:58:32,562
+Ela está tentando entender
+primeiro.
+
+744
+00:58:32,563 --> 00:58:33,889
+Eu disse para parar.
+
+745
+00:58:33,890 --> 00:58:36,567
+É, pode ser,
+mas não funciona assim.
+
+746
+00:58:36,568 --> 00:58:39,389
+Quando concorda
+com a terapia,
+
+747
+00:58:39,390 --> 00:58:42,689
+não se pode parar
+quando a coisa aperta...
+
+748
+00:58:42,690 --> 00:58:45,287
+Certo, vou te arrebentar
+se não calar a boca agora.
+
+749
+00:58:45,288 --> 00:58:46,640
+Estou falando sério.
+
+750
+00:58:49,007 --> 00:58:50,574
+Uma só palavra...
+
+751
+00:58:54,890 --> 00:58:56,924
+Não, eu tenho que dizer...
+
+752
+00:59:18,982 --> 00:59:22,398
+- Não! Me desculpe!
+- O que está fazendo?
+
+753
+00:59:22,399 --> 00:59:26,273
+- Não, não, não!
+- Não faça isso.
+
+754
+00:59:26,274 --> 00:59:29,456
+- Por favor, não!
+- Pare com isso!
+
+755
+00:59:29,457 --> 00:59:33,356
+Eu vou ser bonzinho, prometo.
+Não, não, não!
+
+756
+00:59:33,357 --> 00:59:36,773
+Não faça isso!
+Não, me desculpe!
+
+757
+00:59:36,774 --> 00:59:39,423
+Me desculpe! Me desculpe!
+
+758
+00:59:40,024 --> 00:59:43,482
+- Não! Não!
+- Que diabos...
+
+759
+01:00:33,190 --> 01:00:35,519
+- Eu...
+- Não precisamos falar disso.
+
+760
+01:00:41,007 --> 01:00:43,624
+- Eu não sou de Horsens.
+- Não precisa dizer nada.
+
+761
+01:00:43,625 --> 01:00:45,125
+Não quero ouvir.
+
+762
+01:00:47,732 --> 01:00:49,804
+Menti o tempo todo.
+
+763
+01:00:57,049 --> 01:00:58,707
+Eu sou de Randers.
+
+764
+01:01:15,402 --> 01:01:17,342
+- São eles?
+- Sim.
+
+765
+01:01:17,732 --> 01:01:20,957
+Deixe-me ver.
+Será que é esta?
+
+766
+01:01:23,357 --> 01:01:28,024
+- Olha lá. São eles?
+- Sim. Sim, é ele.
+
+767
+01:01:31,382 --> 01:01:32,857
+Pro chão!
+
+768
+01:02:07,749 --> 01:02:09,565
+Abaixe-se...
+
+769
+01:02:37,782 --> 01:02:41,007
+Não! Não, não o mate!
+
+770
+01:02:43,982 --> 01:02:45,524
+Não o mate.
+
+771
+01:02:46,090 --> 01:02:47,493
+Ele nos viu.
+
+772
+01:02:48,794 --> 01:02:50,340
+Podemos levá-lo conosco.
+
+773
+01:03:25,265 --> 01:03:29,064
+- Vocês vão me matar?
+- Ninguém vai matar ninguém.
+
+774
+01:03:30,768 --> 01:03:33,057
+Relaxa. Como se chama?
+
+775
+01:03:33,524 --> 01:03:35,446
+Bodashka Litvinenko.
+
+776
+01:03:36,440 --> 01:03:40,018
+Muitos me chamam
+de Jens-Ole.
+
+777
+01:03:40,419 --> 01:03:42,298
+Vocês também o farão,
+em muitos casos.
+
+778
+01:03:42,299 --> 01:03:44,331
+Não, por que faríamos isso?
+
+779
+01:03:44,332 --> 01:03:47,246
+Podemos chamar
+do que você disse primeiro.
+
+780
+01:03:47,247 --> 01:03:48,907
+Você tem celular?
+
+781
+01:03:59,299 --> 01:04:01,531
+Se sabem que eu sou,
+não posso ir para casa.
+
+782
+01:04:01,532 --> 01:04:04,215
+Então terá que ficar aqui,
+por enquanto.
+
+783
+01:04:04,582 --> 01:04:08,223
+Não seria mais seguro
+se todos ficássemos, Markus?
+
+784
+01:04:08,224 --> 01:04:09,606
+Sim.
+
+785
+01:04:09,607 --> 01:04:13,112
+Precisamos de armas também,
+para que possamos nos defender.
+
+786
+01:04:13,940 --> 01:04:16,207
+Pode trabalhar
+com o equipamento do Lennart?
+
+787
+01:04:16,208 --> 01:04:19,857
+Sim. Mas não seria agradável,
+com aqueles monitores.
+
+788
+01:04:19,858 --> 01:04:23,581
+Mas seria loucura não nos dar
+armas e nos ensinar a atirar.
+
+789
+01:04:23,582 --> 01:04:25,639
+Não poder usar armas,
+Emmenthaler.
+
+790
+01:04:25,640 --> 01:04:29,348
+Uma coisa é eu ferrar meus olhos
+num maldito galpão gelado,
+
+791
+01:04:29,349 --> 01:04:32,564
+reunindo uma pilha enorme de
+dados num computador de merda.
+
+792
+01:04:32,565 --> 01:04:35,714
+Mas se não puder ter
+minha vingança,
+
+793
+01:04:35,715 --> 01:04:37,805
+não sei se quero
+fazer parte disso.
+
+794
+01:04:37,806 --> 01:04:40,374
+Tudo isso
+clama por vingança!
+
+795
+01:04:42,482 --> 01:04:43,941
+Não moverei um dedo sequer,
+
+796
+01:04:43,942 --> 01:04:46,330
+se não tivermos armas
+e treinamento agora.
+
+797
+01:04:50,401 --> 01:04:53,248
+Pegue o equipamento e corra,
+então eu os treinarei.
+
+798
+01:04:53,649 --> 01:04:57,398
+Mas tem que encontrar tudo sobre
+a gangue, e foque no Kurt.
+
+799
+01:04:57,399 --> 01:05:01,723
+Certo. E podemos atirar
+em pássaros, para começar.
+
+800
+01:05:01,724 --> 01:05:05,098
+Ou numa raposa. Podemos
+apenas atirar numa raposa cada?
+
+801
+01:05:05,499 --> 01:05:09,740
+- Certo. Ao trabalho.
+- E quanto ao Bodashka?
+
+802
+01:05:22,649 --> 01:05:25,219
+<i>Minha mãe pagou a mais
+para nossa au pair,</i>
+
+803
+01:05:25,220 --> 01:05:27,120
+porque achou
+que era muito pouco.
+
+804
+01:05:27,840 --> 01:05:30,882
+Mas depende do quanto Bodashka
+terá que trabalhar.
+
+805
+01:05:30,883 --> 01:05:34,539
+Acho que o normal.
+37 horas. Certo, Markus?
+
+806
+01:05:35,082 --> 01:05:38,233
+<i>30 horas é o máximo
+para au pair.</i>
+
+807
+01:05:38,234 --> 01:05:40,903
+37 horas está bom para mim.
+
+808
+01:05:40,904 --> 01:05:42,857
+Quanto trabalhava
+no último lugar?
+
+809
+01:05:44,458 --> 01:05:47,649
+- 10 a 12 horas por dia.
+- As pessoas são cretinas.
+
+810
+01:05:49,124 --> 01:05:52,157
+- E quanto pagavam?
+- Bem...
+
+811
+01:05:52,524 --> 01:05:56,415
+Ganhava em torno
+de 135 mil Coroas por mês.
+
+812
+01:05:56,982 --> 01:05:58,972
+Mas só ficava com 2 mil.
+
+813
+01:05:59,949 --> 01:06:04,703
+Digamos 30 horas por semana?
+Se trabalhar mais, pagamos mais.
+
+814
+01:06:05,874 --> 01:06:09,248
+- Não quer ficar, pai?
+- Deixe-o ir, Mathilde.
+
+815
+01:06:09,249 --> 01:06:12,557
+É importante
+deixar que ele se afaste.
+
+816
+01:06:14,774 --> 01:06:18,024
+- Você joga xadrez, Mathilde?
+- Não.
+
+817
+01:06:21,924 --> 01:06:26,740
+Mas podemos jogar Estrela
+Africana. Temos jogado muito.
+
+818
+01:06:26,741 --> 01:06:30,224
+Eu tinha um colega
+chamado Estrela Africana.
+
+819
+01:06:33,049 --> 01:06:36,832
+Foi estrangulado no Ano Novo,
+por um cliente regular.
+
+820
+01:07:08,707 --> 01:07:10,465
+- Lennart?
+- Sim?
+
+821
+01:07:12,090 --> 01:07:15,127
+<i>Quer comer minha bunda
+antes de dormir,</i>
+
+822
+01:07:15,128 --> 01:07:17,128
+<i>e assim poder dormir pesado
+e bem?</i>
+
+823
+01:07:19,107 --> 01:07:20,424
+Não...
+
+824
+01:07:21,190 --> 01:07:22,680
+Não, obrigado.
+
+825
+01:07:23,582 --> 01:07:28,092
+<i>Amanhã teremos um longo dia.
+Mas obrigado.</i>
+
+826
+01:07:28,899 --> 01:07:32,217
+Certo. Boa noite.
+
+827
+01:07:32,732 --> 01:07:34,302
+Boa noite.
+
+828
+01:07:40,357 --> 01:07:41,854
+<i>Lennart?</i>
+
+829
+01:07:41,855 --> 01:07:43,926
+Obrigado por me salvar.
+
+830
+01:07:45,386 --> 01:07:48,002
+E obrigado
+por não comer minha bunda.
+
+831
+01:07:49,424 --> 01:07:51,090
+Não foi nada.
+
+832
+01:07:52,591 --> 01:07:54,269
+Durma bem, meu amigo.
+
+833
+01:08:07,065 --> 01:08:09,689
+- Boa noite, Emmenthaler.
+- Boa noite, Otto.
+
+834
+01:08:40,374 --> 01:08:42,048
+- Oi.
+- Cadê o meu pai?
+
+835
+01:08:42,049 --> 01:08:44,739
+- Na terapia matinal.
+- No galpão?
+
+836
+01:08:44,740 --> 01:08:46,318
+- Sim.
+- Certo...
+
+837
+01:08:46,319 --> 01:08:50,357
+Então mande um oi,
+e bom dia...
+
+838
+01:08:51,540 --> 01:08:53,532
+Precisa de um botãozinho
+aqui.
+
+839
+01:08:55,440 --> 01:08:57,021
+Dou uma olhada à noite.
+
+840
+01:09:00,024 --> 01:09:01,532
+Espere...
+
+841
+01:09:10,899 --> 01:09:14,573
+Isso!
+Você é muito, muito linda.
+
+842
+01:09:16,732 --> 01:09:18,281
+Lembre do lanche.
+
+843
+01:09:19,408 --> 01:09:21,670
+- Obrigada.
+- Tenha um bom dia na escola.
+
+844
+01:09:22,071 --> 01:09:23,523
+Obrigada, tchau!
+
+845
+01:09:23,524 --> 01:09:26,396
+Kurt "Tandem" Olesen.
+Pena de morte.
+
+846
+01:09:26,397 --> 01:09:29,064
+Kenneth "Pregado" Jensen.
+Pena de morte.
+
+847
+01:09:29,065 --> 01:09:31,181
+Noah "Macaco" Frandsen.
+Pena de morte.
+
+848
+01:09:31,182 --> 01:09:33,920
+Não seria mais fácil dizer
+os que não estão condenados?
+
+849
+01:09:37,524 --> 01:09:39,444
+Anker Trier,
+Tim "Triturador" Petersen
+
+850
+01:09:39,445 --> 01:09:42,432
+e Vitus "Porco" Clausen estão
+livres e têm filhos pequenos.
+
+851
+01:09:42,433 --> 01:09:43,898
+Não é exagero?
+
+852
+01:09:43,899 --> 01:09:47,149
+- São 22 homicídios...
+- Eles tentaram nos matar.
+
+853
+01:09:47,150 --> 01:09:48,584
+Sabem quem somos.
+
+854
+01:09:48,585 --> 01:09:51,189
+Não vão parar, a menos
+que os matemos primeiro.
+
+855
+01:09:51,190 --> 01:09:53,694
+Então agora faremos
+o que combinamos.
+
+856
+01:09:54,660 --> 01:09:56,898
+Até o momento
+apenas nos defendemos.
+
+857
+01:09:56,899 --> 01:10:00,431
+Quando perceberem o ataque,
+será difícil chegar até o Kurt.
+
+858
+01:10:00,432 --> 01:10:04,340
+Já é. Nunca está sozinho, sempre
+tem uns 10 homens na volta dele.
+
+859
+01:10:04,707 --> 01:10:08,314
+Que tal matarmos um
+e fazer parecer um acidente,
+
+860
+01:10:08,315 --> 01:10:11,189
+e então pegamos o resto
+no funeral?
+
+861
+01:10:11,190 --> 01:10:14,681
+Haverá mulheres e crianças lá,
+não podemos fazer isso.
+
+862
+01:10:14,682 --> 01:10:17,481
+- E quanto ao clube deles?
+- Lennart?
+
+863
+01:10:17,482 --> 01:10:19,015
+Afaste-se!
+
+864
+01:10:19,482 --> 01:10:24,081
+Embora a resolução desses
+monitores seja mesmo péssima,
+
+865
+01:10:24,082 --> 01:10:28,131
+você pode ver que o clube
+está sob vigilância 24 horas,
+
+866
+01:10:28,132 --> 01:10:31,189
+pela polícia e a Inteligência.
+É impossível.
+
+867
+01:10:31,190 --> 01:10:36,314
+Mas sei onde estão 24/7, e estou
+rastreando celulares e e-mails.
+
+868
+01:10:36,315 --> 01:10:40,224
+Então vamos esperar que eu possa
+pegar o Kurt com um grupo...
+
+869
+01:10:40,990 --> 01:10:44,849
+- de 5 ou 6 pessoas.
+- Se for maior, podemos ajudar.
+
+870
+01:10:45,315 --> 01:10:49,290
+Especialmente após nosso intenso
+treinamento com armas.
+
+871
+01:10:50,940 --> 01:10:53,332
+O M10 é um modelo antigo.
+
+872
+01:10:53,699 --> 01:10:57,848
+<i>Consiste na caixa do mecanismo,
+coronha, buffer, mola,</i>
+
+873
+01:10:57,849 --> 01:11:00,072
+caixa da culatra e cano,
+
+874
+01:11:00,073 --> 01:11:03,623
+mira telescópica,
+ferrolho, pino do percussor,
+
+875
+01:11:03,624 --> 01:11:05,924
+alça e cartucho.
+
+876
+01:11:06,325 --> 01:11:08,890
+<i>Comecem colocando o buffer
+na mola.</i>
+
+877
+01:11:10,807 --> 01:11:14,363
+- Não consigo colocar.
+- Não é tão fácil para você.
+
+878
+01:11:14,364 --> 01:11:16,597
+Ponha a mola na coronha.
+
+879
+01:11:16,998 --> 01:11:18,398
+Pronto!
+
+880
+01:11:20,282 --> 01:11:21,981
+Onde você serviu?
+
+881
+01:11:22,649 --> 01:11:24,772
+Em lugar nenhum.
+
+882
+01:11:25,373 --> 01:11:28,089
+- Olhe para mim.
+- Como montou tão rápido?
+
+883
+01:11:28,090 --> 01:11:31,265
+São poucos componentes.
+É autoexplicativo.
+
+884
+01:11:31,266 --> 01:11:32,824
+Isso é inacreditável!
+
+885
+01:11:34,524 --> 01:11:35,950
+Pode fazer de novo?
+
+886
+01:11:45,314 --> 01:11:48,181
+Eu gosto de montar coisas.
+
+887
+01:11:48,582 --> 01:11:50,423
+Pronto! Segundo lugar.
+
+888
+01:11:55,332 --> 01:11:57,494
+Não entendo isso tudo.
+
+889
+01:11:57,495 --> 01:11:59,980
+Quando exatamente
+vamos precisar montar um fuzil?
+
+890
+01:11:59,981 --> 01:12:02,170
+Nossas vidas
+podem depender disso.
+
+891
+01:12:02,171 --> 01:12:05,189
+Mas é legal, Lennart.
+Como se chama mesmo?
+
+892
+01:12:05,894 --> 01:12:08,048
+Se chama "Vai se foder,
+Emmenthaler!"
+
+893
+01:12:08,414 --> 01:12:11,498
+Se eu quisesse montar coisas,
+teria ido na IKEA.
+
+894
+01:12:27,065 --> 01:12:28,393
+O informante da polícia
+
+895
+01:12:28,394 --> 01:12:31,549
+disse que encontraram o celular
+do viado ucraniano na saída 51.
+
+896
+01:12:31,850 --> 01:12:35,032
+Então temos que focar as buscas
+na saída 51.
+
+897
+01:12:35,399 --> 01:12:36,780
+Focar?
+
+898
+01:12:36,781 --> 01:12:39,235
+É. Se encontrarmos o ucraniano,
+encontramos eles.
+
+899
+01:12:41,815 --> 01:12:44,071
+Ulf Emmenthaler...
+
+900
+01:12:44,772 --> 01:12:46,348
+tem dois amigos.
+
+901
+01:12:47,749 --> 01:12:50,215
+Foram demitidos
+há duas semanas.
+
+902
+01:12:50,982 --> 01:12:53,752
+Este aqui,
+Lennart Gerner Nielsen.
+
+903
+01:12:53,753 --> 01:12:57,056
+E este, Otto Hoffmann.
+
+904
+01:12:57,057 --> 01:12:59,149
+Otto Hoffmann tem um braço
+inutilizado.
+
+905
+01:13:02,415 --> 01:13:04,665
+Não acha que será mais fácil
+encontrar eles,
+
+906
+01:13:05,032 --> 01:13:08,821
+do que sentar na saída 51
+a espera de uma bicha ucraniana?
+
+907
+01:13:08,822 --> 01:13:11,090
+- Ein, Kenneth?
+- Sim, claro...
+
+908
+01:13:12,515 --> 01:13:14,839
+Então encontrem
+aquele braço inútil para mim.
+
+909
+01:13:16,240 --> 01:13:18,174
+Vejam.
+
+910
+01:13:19,140 --> 01:13:22,528
+É igualzinho a pizza,
+e então já não é mais.
+
+911
+01:13:22,529 --> 01:13:24,098
+É demais?
+
+912
+01:13:24,099 --> 01:13:26,440
+- Ainda é demais.
+- Eu achei...
+
+913
+01:13:27,007 --> 01:13:31,307
+- A rainha é a mais forte, não?
+- Numericamente.
+
+914
+01:13:31,308 --> 01:13:34,091
+Mas estrategicamente,
+é o peão.
+
+915
+01:13:34,092 --> 01:13:35,964
+Mas isso muda
+a cada partida.
+
+916
+01:13:35,965 --> 01:13:38,090
+Todas as peças
+podem ser a mais forte.
+
+917
+01:13:38,857 --> 01:13:43,764
+Xadrez é um jogo onde
+acaso e sorte não contam.
+
+918
+01:13:43,765 --> 01:13:47,277
+Não há dados, coringas
+ou elementos ocultos.
+
+919
+01:13:47,278 --> 01:13:49,673
+Tudo está diante de nós,
+
+920
+01:13:49,674 --> 01:13:52,981
+e são apenas nossas ações
+que determinam o resultado.
+
+921
+01:13:52,982 --> 01:13:54,474
+Petiscos.
+
+922
+01:13:55,090 --> 01:13:59,182
+- Pode tirar uma foto nossa?
+- Claro. Sente-se no sofá.
+
+923
+01:14:00,049 --> 01:14:02,748
+- Pode ser um vídeo?
+- Sim.
+
+924
+01:14:02,749 --> 01:14:05,461
+- Estamos indo.
+- Deixe-me pôr isto aqui...
+
+925
+01:14:06,797 --> 01:14:08,598
+- Posso?
+- Sim, tudo bem.
+
+926
+01:14:08,599 --> 01:14:12,152
+Noller e um grupo de 7 pessoas
+se reunirá esta noite
+
+927
+01:14:12,153 --> 01:14:14,657
+no restaurante Antorini.
+
+928
+01:14:16,942 --> 01:14:18,957
+É próximo à área do porto.
+
+929
+01:14:20,107 --> 01:14:24,030
+Pregado confirma
+que Kurt estará lá às 19h.
+
+930
+01:14:24,031 --> 01:14:25,531
+Noller vai pagar.
+
+931
+01:14:25,532 --> 01:14:27,149
+Serão 12 peças.
+
+932
+01:14:27,515 --> 01:14:31,157
+Pode enfrentar tantos assim?
+Do contrário, posso ir com você.
+
+933
+01:14:31,724 --> 01:14:34,907
+Lennart e Otto acertaram
+bastante na floresta.
+
+934
+01:14:36,915 --> 01:14:39,724
+Podemos pegá-los
+na saída do restaurante.
+
+935
+01:14:39,725 --> 01:14:42,762
+Encurralamos no fogo cruzado
+aqui e aqui.
+
+936
+01:14:44,482 --> 01:14:47,099
+Não teremos uma oportunidade
+melhor, Markus.
+
+937
+01:14:51,682 --> 01:14:53,307
+Você vem comigo.
+
+938
+01:14:58,874 --> 01:15:01,931
+Nêutrons são um pouco
+mais pesados que prótons.
+
+939
+01:15:01,932 --> 01:15:04,481
+Se fosse diferente,
+átomos não teriam existido.
+
+940
+01:15:04,482 --> 01:15:07,582
+E sem átomos, não haveria vida,
+nem nada...
+
+941
+01:15:08,149 --> 01:15:11,048
+- Temos que ir, Lennart.
+- Certo. Aonde vamos?
+
+942
+01:15:11,049 --> 01:15:12,403
+Explico no carro. Vamos!
+
+943
+01:15:12,404 --> 01:15:14,181
+Não pode esperar
+acabarmos a lição?
+
+944
+01:15:14,182 --> 01:15:16,743
+- Emmenthaler, vamos logo!
+- Mathilde fez um bolo.
+
+945
+01:15:16,744 --> 01:15:19,360
+Terapia noturna para todos.
+Vamos juntos...
+
+946
+01:15:19,361 --> 01:15:21,782
+- O que está dizendo?
+- Pai, não o agarre assim!
+
+947
+01:15:21,783 --> 01:15:24,054
+- Não se meta, Mathilde.
+- Por que sempre...
+
+948
+01:15:24,055 --> 01:15:27,384
+Cala essa boca, Mathilde!
+Não se meta. Vamos.
+
+949
+01:15:33,090 --> 01:15:36,540
+Markus, não pode falar assim
+com sua filha. O que é isso?
+
+950
+01:15:37,507 --> 01:15:40,506
+São armas?
+O que vão fazer?
+
+951
+01:15:40,507 --> 01:15:42,948
+- Markus explicará no carro.
+- Lennart, vamos!
+
+952
+01:15:42,949 --> 01:15:45,774
+Para que as armas? Não está
+escuro para acertar algo?
+
+953
+01:15:45,775 --> 01:15:49,314
+- Não vai atirar em algo.
+- Vamos para um tiroteio.
+
+954
+01:15:49,315 --> 01:15:51,078
+Isso é loucura, Markus.
+
+955
+01:15:51,079 --> 01:15:55,148
+Matar mais pessoas só o fará
+ser baleado ou ir para a cadeia.
+
+956
+01:15:55,149 --> 01:15:58,398
+- E a Mathilde? Não pensa...
+- Cala a boca.
+
+957
+01:15:58,399 --> 01:16:01,981
+- Otto, eu não iria lá...
+- Não trará sua esposa de volta.
+
+958
+01:16:01,982 --> 01:16:04,189
+Vou parar o carro
+e quebrar seu nariz.
+
+959
+01:16:04,190 --> 01:16:08,107
+Enfrentaremos isso como equipe.
+E vamos para casa comer bolo.
+
+960
+01:16:08,108 --> 01:16:10,724
+Só estou dizendo
+que ela está morta...
+
+961
+01:16:36,482 --> 01:16:39,456
+- Não vamos ter tiroteio?
+- Qual é o problema dele?
+
+962
+01:16:39,457 --> 01:16:41,808
+Do Otto?
+Ele tem vários...
+
+963
+01:16:41,809 --> 01:16:44,740
+Agora deve estar caído
+inconsciente na ciclovia.
+
+964
+01:16:48,682 --> 01:16:51,606
+Ele perdeu a filha
+num acidente de trânsito,
+
+965
+01:16:51,607 --> 01:16:56,074
+por isso ele pode ser sensível
+com relações entre pai e filha.
+
+966
+01:16:57,540 --> 01:16:59,704
+Não se sinta mal,
+foi há muitos anos.
+
+967
+01:17:00,705 --> 01:17:02,439
+Ele bateu numa árvore.
+
+968
+01:17:02,440 --> 01:17:04,725
+Foi como ele ficou
+com o braço amolecido.
+
+969
+01:17:04,726 --> 01:17:07,024
+Foi em 12 de Janeiro
+de 2002.
+
+970
+01:17:07,025 --> 01:17:11,173
+Ele acusou 0,92 ml de álcool
+e teve a carteira suspensa.
+
+971
+01:17:11,174 --> 01:17:14,149
+Foi multado
+em 28.342 Coroas.
+
+972
+01:17:14,815 --> 01:17:18,857
+- Também hackeia seus amigos?
+- Não...
+
+973
+01:17:19,624 --> 01:17:21,540
+Otto nos contou isso.
+
+974
+01:17:22,807 --> 01:17:24,932
+Ele mencionou isso
+algumas vezes.
+
+975
+01:17:25,799 --> 01:17:29,899
+E então lemos
+sobre os detalhes.
+
+976
+01:17:31,299 --> 01:17:34,357
+Ele tem uma foto da esposa
+e da filha em casa.
+
+977
+01:17:34,358 --> 01:17:39,390
+Então você se questiona, quando
+alguém abre sua vida assim.
+
+978
+01:18:01,415 --> 01:18:03,011
+Preparem-se.
+
+979
+01:18:07,924 --> 01:18:10,993
+Você vai pela minha direita.
+Lennart, você fica aqui.
+
+980
+01:18:10,994 --> 01:18:12,615
+Lennart não vem?
+
+981
+01:18:16,749 --> 01:18:19,128
+E aquelas garotas
+motoqueiras?
+
+982
+01:18:21,474 --> 01:18:23,259
+Não pode ser.
+
+983
+01:18:24,360 --> 01:18:25,964
+Não disse
+que estariam sozinhos?
+
+984
+01:18:25,965 --> 01:18:29,232
+Foi o que escreveram. Alguém
+deve ter trazido as moças.
+
+985
+01:18:29,233 --> 01:18:31,964
+Então vamos voltar e comer
+aquele bolo de banana, não?
+
+986
+01:18:31,965 --> 01:18:33,420
+Espere um pouco.
+
+987
+01:18:51,715 --> 01:18:53,143
+Fiquem aqui.
+
+988
+01:18:54,444 --> 01:18:55,949
+O que ele vai fazer?
+
+989
+01:19:25,065 --> 01:19:27,071
+O que diabos está fazendo,
+cara?
+
+990
+01:19:28,672 --> 01:19:30,249
+Merda!
+
+991
+01:19:58,174 --> 01:19:59,674
+Perdão...
+
+992
+01:20:03,774 --> 01:20:05,274
+Me desculpe...
+
+993
+01:20:06,785 --> 01:20:10,339
+Eu não consegui.
+Não sou bom nisso.
+
+994
+01:20:10,340 --> 01:20:13,032
+- Você é bom nisso, eu não...
+- Tudo bem.
+
+995
+01:20:14,440 --> 01:20:15,957
+Não, não está.
+
+996
+01:20:17,024 --> 01:20:19,832
+Eles estão mortos agora.
+Ele está morto.
+
+997
+01:20:21,965 --> 01:20:24,058
+Não é fácil
+matar um ser humano.
+
+998
+01:20:24,459 --> 01:20:26,140
+Especialmente
+pela primeira vez.
+
+999
+01:20:26,607 --> 01:20:28,921
+Não, eu não posso...
+
+1000
+01:20:29,524 --> 01:20:31,957
+Não quero mais
+ser parte disso.
+
+1001
+01:20:31,958 --> 01:20:34,806
+Não quero mais isso,
+nunca mais.
+
+1002
+01:20:34,807 --> 01:20:38,093
+Não vai precisar. Mas pense
+no motivo de fazermos isso.
+
+1003
+01:20:40,565 --> 01:20:42,671
+Por que
+estamos fazendo isso?
+
+1004
+01:20:44,416 --> 01:20:47,389
+E se o rapaz caído lá
+não tiver nada a ver com isso?
+
+1005
+01:20:47,390 --> 01:20:51,490
+Ele tem! Cala essa boca.
+Ele tem! Todos eles têm!
+
+1006
+01:20:55,457 --> 01:20:57,124
+Tente pensar
+no que eles fizeram.
+
+1007
+01:20:58,890 --> 01:21:02,065
+Pense em quantas vidas
+eles destruíram.
+
+1008
+01:21:03,357 --> 01:21:04,990
+Meu Deus!
+
+1009
+01:21:08,607 --> 01:21:11,840
+Emmenthaler?
+Quer que ligue o rádio?
+
+1010
+01:21:12,507 --> 01:21:15,200
+Gostaria disso?
+Ouvir uma rádio tranquila?
+
+1011
+01:21:18,049 --> 01:21:19,590
+Pronto.
+
+1012
+01:22:25,907 --> 01:22:29,065
+- Pai?
+- Estamos trabalhando, querida.
+
+1013
+01:22:30,032 --> 01:22:33,302
+Certo. É que você falou daquele
+Otto, com o braço detonado.
+
+1014
+01:22:37,965 --> 01:22:39,832
+<i>- Posso?
+- Sim.</i>
+
+1015
+01:22:44,293 --> 01:22:48,231
+- Quem é Sirius Zen?
+- Um gay que eu sigo.
+
+1016
+01:22:48,232 --> 01:22:50,742
+Não o conheço.
+Ele tem boas receitas.
+
+1017
+01:22:57,715 --> 01:23:00,899
+- Bom dia.
+- Bom dia, querida.
+
+1018
+01:23:02,274 --> 01:23:04,240
+Bom dia...
+
+1019
+01:23:06,982 --> 01:23:08,759
+O que aconteceu, Otto?
+
+1020
+01:23:18,749 --> 01:23:20,639
+Você fez isso?
+
+1021
+01:23:22,066 --> 01:23:23,569
+Você é doente!
+
+1022
+01:23:24,270 --> 01:23:27,032
+Você deveria ter morrido,
+não a mamãe!
+
+1023
+01:23:36,207 --> 01:23:41,003
+Só queria dizer que seu pai
+não fez isso. Eu caí.
+
+1024
+01:23:41,807 --> 01:23:45,755
+Não minta para mim.
+Você é péssimo nisso.
+
+1025
+01:23:46,607 --> 01:23:50,157
+- Todos vocês são.
+- Não se chateie com seu pai.
+
+1026
+01:23:50,524 --> 01:23:53,765
+Talvez nem sempre acerte,
+mas está tentando de verdade.
+
+1027
+01:23:54,232 --> 01:23:56,982
+Então ele é péssimo
+tentando.
+
+1028
+01:23:57,749 --> 01:24:01,574
+Podemos concordar nisso.
+Mas ele não está bem.
+
+1029
+01:24:02,640 --> 01:24:05,124
+Não... Eu sei disso.
+
+1030
+01:24:11,024 --> 01:24:14,499
+Tudo isso são eventos
+que levam ao acidente?
+
+1031
+01:24:18,999 --> 01:24:21,815
+E tudo começou
+com o roubo da sua bicicleta?
+
+1032
+01:24:22,682 --> 01:24:26,941
+Sim. Se minha bicicleta
+não tivesse sido roubada,
+
+1033
+01:24:27,442 --> 01:24:29,107
+nada teria acontecido.
+
+1034
+01:24:29,108 --> 01:24:31,473
+Então minha mãe
+não teria que me levar,
+
+1035
+01:24:31,474 --> 01:24:33,931
+não importaria
+que o carro não pegasse,
+
+1036
+01:24:33,932 --> 01:24:35,440
+e não teríamos pego o trem.
+
+1037
+01:24:35,441 --> 01:24:37,882
+E como a ligação do seu pai
+afetou tudo?
+
+1038
+01:24:37,883 --> 01:24:40,314
+Ele disse que não viria
+para a casa.
+
+1039
+01:24:40,615 --> 01:24:44,249
+Minha mãe se desapontou tanto
+que sugeriu um dia de folga,
+
+1040
+01:24:44,250 --> 01:24:45,915
+e que fôssemos
+para a cidade.
+
+1041
+01:24:46,782 --> 01:24:51,790
+Sabia que cada evento desses tem
+sua própria cadeia de eventos?
+
+1042
+01:24:52,257 --> 01:24:53,757
+Como assim?
+
+1043
+01:24:54,224 --> 01:24:56,581
+Eu, por exemplo,
+fui demitido naquele dia.
+
+1044
+01:24:56,582 --> 01:24:59,149
+Então tomei o trem
+mais cedo que de costume.
+
+1045
+01:24:59,515 --> 01:25:01,999
+Mas precisa voltar
+ao momento em que eu...
+
+1046
+01:25:02,000 --> 01:25:04,648
+aprendi a oferecer o assento
+a uma mulher.
+
+1047
+01:25:04,649 --> 01:25:06,427
+E para o homem
+que me ensinou isso.
+
+1048
+01:25:06,428 --> 01:25:09,481
+Ele tem sua própria
+cadeia de eventos.
+
+1049
+01:25:09,482 --> 01:25:11,747
+Todos os eventos
+têm seus próprios fios
+
+1050
+01:25:11,748 --> 01:25:15,914
+que os ligam a outros eventos
+e outras vidas em uma...
+
+1051
+01:25:15,915 --> 01:25:18,848
+Não ao infinito, mas numa grande
+e imensa equação.
+
+1052
+01:25:18,849 --> 01:25:22,906
+Nem mesmo os computadores
+mais poderosos seriam capazes
+
+1053
+01:25:22,907 --> 01:25:24,802
+de processar
+todos os dados,
+
+1054
+01:25:24,803 --> 01:25:27,342
+e mesmo sendo
+uma menina brilhante,
+
+1055
+01:25:27,343 --> 01:25:32,489
+seu cérebro humano jamais
+processaria uma fração disso,
+
+1056
+01:25:32,490 --> 01:25:35,540
+e assim você nunca será capaz
+de chegar a uma conclusão útil.
+
+1057
+01:25:36,207 --> 01:25:39,574
+Isto nunca...
+nunca fará sentido.
+
+1058
+01:25:42,482 --> 01:25:44,157
+Enfim...
+
+1059
+01:25:45,624 --> 01:25:47,407
+É perda de tempo.
+
+1060
+01:25:55,865 --> 01:25:57,565
+Eu sei disso.
+
+1061
+01:26:02,807 --> 01:26:06,414
+Repassei tudo um milhão de vezes
+para descobrir uma razão.
+
+1062
+01:26:08,049 --> 01:26:12,029
+- Mas não há nenhuma.
+- Há, sim.
+
+1063
+01:26:13,282 --> 01:26:15,159
+Há centilhões...
+
+1064
+01:26:16,149 --> 01:26:18,382
+Mas não poderá
+usar nenhuma delas para nada.
+
+1065
+01:26:26,315 --> 01:26:29,344
+Às vezes sonho em encontrar
+quem roubou minha bicicleta.
+
+1066
+01:26:30,732 --> 01:26:34,870
+Eu o vejo subindo na bicicleta,
+e então corro atrás dele,
+
+1067
+01:26:35,440 --> 01:26:37,091
+e o capturo.
+
+1068
+01:26:41,399 --> 01:26:45,565
+Mas também vejo que nada é culpa
+dele. Não é culpa de ninguém.
+
+1069
+01:26:47,849 --> 01:26:52,298
+É apenas mais fácil quando tem
+alguém em quem você possa...
+
+1070
+01:26:53,440 --> 01:26:55,135
+descontar.
+
+1071
+01:27:02,307 --> 01:27:03,707
+É...
+
+1072
+01:27:06,349 --> 01:27:10,814
+<i>Minha mãe tinha sete filhos.
+Mas os menores eram famintos...</i>
+
+1073
+01:27:10,815 --> 01:27:12,844
+e magros como palitos.
+
+1074
+01:27:13,245 --> 01:27:15,531
+Congelávamos
+quando vinha o inverno.
+
+1075
+01:27:15,532 --> 01:27:18,031
+Então minha mãe vendeu
+uma criança.
+
+1076
+01:27:18,649 --> 01:27:22,074
+Então Palle me levou
+para a Alemanha.
+
+1077
+01:27:24,018 --> 01:27:27,002
+Ele me alugou...
+
+1078
+01:27:28,624 --> 01:27:31,899
+Eu sou como uma bicicleta
+
+1079
+01:27:32,265 --> 01:27:35,165
+em que todos podem subir
+e dar uma volta.
+
+1080
+01:27:37,482 --> 01:27:42,824
+Mas então fomos para casa
+de férias, e eu conheci você...
+
+1081
+01:27:43,190 --> 01:27:48,057
+Estávamos em casa há três dias,
+antes de o matarem e me salvar.
+
+1082
+01:27:48,424 --> 01:27:50,064
+Não pode estar certo.
+
+1083
+01:27:50,665 --> 01:27:53,149
+Palle estava no trem,
+uma semana antes.
+
+1084
+01:27:54,107 --> 01:27:57,949
+Não. Não tem nada de trem.
+Nós voamos para casa.
+
+1085
+01:27:58,515 --> 01:28:00,779
+Mas não três dias antes.
+
+1086
+01:28:00,780 --> 01:28:03,206
+Vocês devem ter voltado
+da Alemanha antes disso.
+
+1087
+01:28:03,207 --> 01:28:05,990
+Não. Nós aterrissamos
+na Segunda-feira,
+
+1088
+01:28:05,991 --> 01:28:08,240
+e vocês o mataram
+na Quinta.
+
+1089
+01:28:09,807 --> 01:28:11,832
+Tenho que checar uma coisa.
+
+1090
+01:28:13,524 --> 01:28:15,301
+Fiz algo errado?
+
+1091
+01:28:28,190 --> 01:28:29,774
+Não...
+
+1092
+01:28:33,474 --> 01:28:35,553
+Não, não, não...
+
+1093
+01:28:46,624 --> 01:28:48,865
+<i>As-salaam-alaikum.</i>
+
+1094
+01:28:49,232 --> 01:28:51,207
+Minhas belas crianças.
+
+1095
+01:28:54,357 --> 01:28:58,840
+É um lindo país.
+Verde e plano como pizza.
+
+1096
+01:28:59,907 --> 01:29:02,679
+Mas a comida
+é uma decepção.
+
+1097
+01:29:03,440 --> 01:29:05,952
+Papai comeu o pior sanduíche
+do mundo.
+
+1098
+01:29:05,953 --> 01:29:07,723
+Pior que o da vovó?
+
+1099
+01:29:07,724 --> 01:29:09,718
+O atum estava velho
+e molhado,
+
+1100
+01:29:10,019 --> 01:29:12,219
+o pão era como
+areia do deserto,
+
+1101
+01:29:12,982 --> 01:29:16,507
+e peguei um suco que parecia
+mijo de camelo.
+
+1102
+01:29:18,074 --> 01:29:22,265
+Eu joguei tudo no lixo
+e fui ao McDonald's.
+
+1103
+01:29:23,732 --> 01:29:26,389
+Estava apenas 3,28% abaixo
+
+1104
+01:29:26,390 --> 01:29:29,915
+É improvável que alguém parecesse
+tanto com o irmão de Kurt Olesen.
+
+1105
+01:29:29,916 --> 01:29:32,375
+Eu disse isso. Eu disse...
+
+1106
+01:29:32,376 --> 01:29:35,106
+Disse várias vezes que o limite
+biométrico não batia.
+
+1107
+01:29:35,107 --> 01:29:37,540
+Você queria
+que fosse verdade.
+
+1108
+01:29:38,107 --> 01:29:39,500
+Não queria não.
+
+1109
+01:29:39,501 --> 01:29:42,389
+Ele era engenheiro especialista
+em componentes de trem.
+
+1110
+01:29:42,390 --> 01:29:44,105
+Estatisticamente
+seria impossível.
+
+1111
+01:29:44,106 --> 01:29:46,910
+Então foi coincidência.
+Não há nenhuma conexão.
+
+1112
+01:29:46,911 --> 01:29:48,549
+Você a criou, Otto.
+
+1113
+01:29:49,315 --> 01:29:51,758
+Você disse que o reconheceu
+do trem.
+
+1114
+01:29:53,049 --> 01:29:54,871
+Achei que tinha
+reconhecido.
+
+1115
+01:29:56,382 --> 01:29:58,009
+Devo ter ficado cego.
+
+1116
+01:30:00,332 --> 01:30:02,010
+Então foi só um acidente.
+
+1117
+01:30:03,940 --> 01:30:08,232
+- Lamento, Markus.
+- Então quem foi?
+
+1118
+01:30:09,299 --> 01:30:10,849
+O quê?
+
+1119
+01:30:12,465 --> 01:30:14,453
+Se não foi ele, quem foi?
+
+1120
+01:30:17,732 --> 01:30:19,446
+Quem foi?
+
+1121
+01:30:21,890 --> 01:30:24,732
+Você disse
+que não foi um acidente.
+
+1122
+01:30:30,208 --> 01:30:31,759
+Mas é ele.
+
+1123
+01:30:36,399 --> 01:30:39,857
+É ele... É ele.
+
+1124
+01:30:41,357 --> 01:30:43,982
+- Markus, Markus...
+- É...
+
+1125
+01:31:53,257 --> 01:31:54,740
+Markus.
+
+1126
+01:31:55,107 --> 01:31:57,843
+Markus, Markus. Markus.
+
+1127
+01:31:59,374 --> 01:32:01,935
+Respire. Respire devagar.
+
+1128
+01:32:01,936 --> 01:32:05,314
+O que está havendo?
+
+1129
+01:32:05,315 --> 01:32:09,007
+- Com calma. Isso.
+- Estou com medo.
+
+1130
+01:32:12,482 --> 01:32:16,064
+- O que disse?
+- Estou com medo.
+
+1131
+01:32:16,065 --> 01:32:18,907
+Eu entendo. Eu entendo.
+
+1132
+01:32:19,774 --> 01:32:21,194
+Entendo bem.
+
+1133
+01:32:23,624 --> 01:32:25,675
+Olhe para mim.
+Olhe nos meus olhos.
+
+1134
+01:32:28,482 --> 01:32:31,599
+Ela está morta.
+Ela se foi...
+
+1135
+01:32:33,732 --> 01:32:37,196
+É. Ela está morta.
+Respire...
+
+1136
+01:32:38,065 --> 01:32:42,199
+Venha, vamos. Isso...
+
+1137
+01:32:43,065 --> 01:32:45,339
+Está tudo bem.
+
+1138
+01:33:20,774 --> 01:33:26,771
+Há uma lenda ucraniana
+sobre a coincidência.
+
+1139
+01:33:28,024 --> 01:33:33,523
+É sobre Ljubaba Vasilkovna,
+de Vitebsk.
+
+1140
+01:33:34,024 --> 01:33:38,448
+Uma bela princesa
+que sai para caçar ursos
+
+1141
+01:33:38,449 --> 01:33:42,174
+na manhã seguinte à primeira
+lua cheia da primavera.
+
+1142
+01:33:42,940 --> 01:33:47,957
+Então um urso gigante a ataca
+e arranca seu dedo numa mordida,
+
+1143
+01:33:47,958 --> 01:33:51,242
+com seu precioso
+anel de diamantes junto.
+
+1144
+01:33:52,549 --> 01:33:54,094
+Muito triste para ela.
+
+1145
+01:33:54,895 --> 01:33:57,949
+Mas então,
+exatamente 10 anos depois,
+
+1146
+01:33:58,315 --> 01:34:01,624
+na manhã seguinte à primeira
+lua cheia da primavera,
+
+1147
+01:34:02,290 --> 01:34:06,632
+na mesma densa floresta,
+exatamente no mesmo lugar,
+
+1148
+01:34:06,999 --> 01:34:08,457
+ela foi caçar novamente.
+
+1149
+01:34:08,924 --> 01:34:12,665
+E desta vez, ela atirou
+num grande urso velho...
+
+1150
+01:34:12,666 --> 01:34:15,499
+E quando abriram
+sua barriga,
+
+1151
+01:34:16,065 --> 01:34:18,849
+não havia anel algum
+lá dentro.
+
+1152
+01:34:20,715 --> 01:34:22,199
+Nada.
+
+1153
+01:34:33,382 --> 01:34:34,899
+Tá bom...
+
+1154
+01:34:42,080 --> 01:34:43,480
+Bem...
+
+1155
+01:34:44,694 --> 01:34:47,915
+Agora será realmente excitante
+ver se a água começa a ferver.
+
+1156
+01:34:56,749 --> 01:34:58,796
+Por que veio para cá, Otto?
+
+1157
+01:35:02,432 --> 01:35:04,273
+Porque a polícia
+não iria ajudar.
+
+1158
+01:35:12,615 --> 01:35:15,410
+Ou talvez tenha vindo
+porque negociamos o assento.
+
+1159
+01:35:17,465 --> 01:35:19,543
+Porque era eu
+quem deveria ter morrido.
+
+1160
+01:35:24,290 --> 01:35:29,024
+Então vi Mathilde no hospital,
+e ela pareceu tão desamparada.
+
+1161
+01:35:32,649 --> 01:35:36,457
+E Lennart e Emmenthaler
+só vieram junto?
+
+1162
+01:35:37,124 --> 01:35:38,657
+Eles não têm muitos amigos.
+
+1163
+01:35:41,124 --> 01:35:44,547
+Às vezes acho que pessoas com
+problemas tendem a ficar juntas.
+
+1164
+01:35:45,690 --> 01:35:47,324
+Como pessoas gordas,
+
+1165
+01:35:48,199 --> 01:35:50,753
+para que pareçam menos gordas
+quando estão juntas.
+
+1166
+01:35:51,565 --> 01:35:53,646
+Fica mais fácil suportar.
+
+1167
+01:35:56,024 --> 01:35:58,366
+Você também tem
+com o que aprender a conviver.
+
+1168
+01:36:00,332 --> 01:36:02,777
+Não sei com o que
+deveria aprender a conviver.
+
+1169
+01:36:03,740 --> 01:36:06,068
+Precisa aprender a viver
+com sua esposa morta.
+
+1170
+01:36:10,774 --> 01:36:12,290
+Por que tenho que fazer
+isso?
+
+1171
+01:36:13,257 --> 01:36:15,609
+Você precisa
+de ajuda adequada.
+
+1172
+01:36:18,083 --> 01:36:19,803
+Nada vai me ajudar.
+
+1173
+01:36:20,732 --> 01:36:25,340
+- Não importa mais.
+- Sim, mas...
+
+1174
+01:36:26,965 --> 01:36:28,490
+Você tem a Mathilde.
+
+1175
+01:36:29,491 --> 01:36:31,807
+Nunca devíamos
+ter tido ela.
+
+1176
+01:36:33,290 --> 01:36:36,264
+Antes dela chegar,
+eu ainda acreditava que...
+
+1177
+01:36:36,665 --> 01:36:39,940
+uma vez que tivéssemos filhos,
+tudo faria sentido.
+
+1178
+01:36:42,632 --> 01:36:46,615
+Mas você tem responsabilidade
+para com sua filha.
+
+1179
+01:36:50,149 --> 01:36:53,990
+É. Você foi muito responsável
+com sua filha.
+
+1180
+01:37:11,382 --> 01:37:12,899
+Não...
+
+1181
+01:37:15,549 --> 01:37:17,215
+Eu não fui.
+
+1182
+01:37:18,482 --> 01:37:20,388
+Porque eu era um idiota.
+
+1183
+01:37:23,190 --> 01:37:25,199
+Só pensava em mim mesmo.
+
+1184
+01:37:31,290 --> 01:37:35,807
+Mas não há um só dia
+que eu não deseje...
+
+1185
+01:37:40,224 --> 01:37:42,474
+que apenas mais uma vez...
+
+1186
+01:37:45,440 --> 01:37:48,365
+pudesse encontrar para ela
+sua escova de cabelo,
+
+1187
+01:37:49,232 --> 01:37:53,162
+ou discutir com ela
+se ela poderia ter um cachorro.
+
+1188
+01:37:55,024 --> 01:37:59,924
+Ou ficar cansado por ela
+não saber pôr o leite no lugar.
+
+1189
+01:38:17,690 --> 01:38:19,677
+Não tenho nada
+do que me orgulhar.
+
+1190
+01:38:22,682 --> 01:38:24,320
+Mas você tem.
+
+1191
+01:38:26,999 --> 01:38:32,982
+E eu olho para você e Mathilde,
+e desejo ser você.
+
+1192
+01:38:36,132 --> 01:38:38,564
+Então talvez nada mais
+importe,
+
+1193
+01:38:38,565 --> 01:38:41,490
+mas nada importará se não tiver
+uma relação com ela.
+
+1194
+01:38:41,957 --> 01:38:45,090
+Você não conhece a Mathilde.
+Por isso não a entende.
+
+1195
+01:38:46,657 --> 01:38:51,457
+Mas você precisa entender que
+leva tempo para fazer sentido.
+
+1196
+01:38:52,224 --> 01:38:54,044
+Leva tempo...
+
+1197
+01:38:55,207 --> 01:38:56,938
+Mas você o tem.
+
+1198
+01:38:59,974 --> 01:39:01,632
+Então use-o.
+
+1199
+01:39:17,565 --> 01:39:20,082
+Lamento ter ficado com raiva
+e ter levantado a voz.
+
+1200
+01:39:20,749 --> 01:39:22,332
+Tudo bem.
+
+1201
+01:39:24,624 --> 01:39:27,774
+Lamento pelo lance do nariz,
+também.
+
+1202
+01:39:52,799 --> 01:39:55,357
+- Oi.
+- Sirius.
+
+1203
+01:39:56,449 --> 01:39:58,343
+- É você?
+- Sim.
+
+1204
+01:40:04,007 --> 01:40:06,739
+<i>Não, significa
+"ligo depois".</i>
+
+1205
+01:40:06,740 --> 01:40:09,958
+- Me dê sua mão.
+- O quê? Não!
+
+1206
+01:40:11,099 --> 01:40:14,064
+Escute. Vou quebrar
+um de seus dedos agora,
+
+1207
+01:40:14,065 --> 01:40:18,131
+e então vai me dizer onde gravou
+este vídeo do Otto Hoffmann.
+
+1208
+01:40:18,532 --> 01:40:20,398
+Onde, quando...
+
+1209
+01:40:20,399 --> 01:40:23,007
+Eu conto!
+Só não quebre meu dedo.
+
+1210
+01:40:24,074 --> 01:40:26,280
+Vou quebrar dois
+porque me interrompeu.
+
+1211
+01:40:26,281 --> 01:40:29,282
+Por favor, não.
+Eu digo o que sei.
+
+1212
+01:40:29,649 --> 01:40:32,140
+Vou quebrar três
+por ser dedo-duro.
+
+1213
+01:40:33,336 --> 01:40:36,357
+E agora serão quatro
+por ser um bebê chorão.
+
+1214
+01:40:36,824 --> 01:40:38,499
+É só um dedo.
+
+1215
+01:40:57,315 --> 01:41:01,306
+Parece ótimo. Preciso.
+Um grande trabalho, Mathilde.
+
+1216
+01:41:01,307 --> 01:41:03,499
+Talvez possa quebrar
+um pouco...
+
+1217
+01:41:20,032 --> 01:41:22,856
+Corra para o quarto.
+Se esconda debaixo da cama.
+
+1218
+01:41:22,857 --> 01:41:25,194
+Não saia de lá,
+não importa o que aconteça.
+
+1219
+01:41:25,195 --> 01:41:28,335
+Entendido? De barriga.
+
+1220
+01:41:37,624 --> 01:41:40,431
+- Alguém foi atingido?
+- Sim, acho que no pé.
+
+1221
+01:41:40,432 --> 01:41:44,524
+- O ombro. Do lado.
+- Eu não fui.
+
+1222
+01:41:46,024 --> 01:41:50,132
+- Eu também não.
+- Emmenthaler, abaixe-se!
+
+1223
+01:41:50,133 --> 01:41:53,665
+Consegui desviar da bala.
+Incrível, na verdade.
+
+1224
+01:41:53,666 --> 01:41:56,274
+Lennart, preciso de ajuda.
+Venha.
+
+1225
+01:41:59,240 --> 01:42:02,665
+As M10 estão no pé da escada.
+Você vai mais rápido.
+
+1226
+01:42:06,657 --> 01:42:08,165
+Está vendo?
+
+1227
+01:42:09,532 --> 01:42:12,765
+- Por que você desmontou?
+- Não importa. Jogue.
+
+1228
+01:42:56,255 --> 01:42:57,780
+Olá.
+
+1229
+01:43:40,024 --> 01:43:41,607
+<i>Soldadinho!</i>
+
+1230
+01:43:44,382 --> 01:43:45,999
+<i>Venha para a luz.</i>
+
+1231
+01:43:48,649 --> 01:43:50,974
+<i>Soldadinho,
+venha para a luz!</i>
+
+1232
+01:43:58,499 --> 01:44:01,699
+Venha ou eu estouro
+a cabeça dela.
+
+1233
+01:44:08,732 --> 01:44:10,929
+Ajoelhe-se,
+e largue essa merda.
+
+1234
+01:44:19,582 --> 01:44:21,257
+E o que está na calça.
+
+1235
+01:44:34,732 --> 01:44:36,507
+Vamos acabar
+com esse palhaço.
+
+1236
+01:45:13,774 --> 01:45:15,593
+Merda, isso é o fim, cara!
+
+1237
+01:45:16,594 --> 01:45:18,324
+O que diabos
+eu fiz pra você?
+
+1238
+01:45:26,090 --> 01:45:29,599
+Não tenha medo, querida.
+Tudo vai ficar bem.
+
+1239
+01:45:30,065 --> 01:45:32,265
+Vamos cuidar de você.
+Vamos.
+
+1240
+01:45:33,332 --> 01:45:35,525
+Vou chamar uma ambulância.
+
+1241
+01:45:44,307 --> 01:45:45,957
+Não tenha medo.
+
+1242
+01:46:23,315 --> 01:46:24,715
+Está com dor?
+
+1243
+01:46:25,482 --> 01:46:27,007
+Não.
+
+1244
+01:46:30,024 --> 01:46:31,840
+Estou congelando.
+
+1245
+01:46:35,307 --> 01:46:38,490
+Já estão vindo, pai.
+Estão vindo.
+
+1246
+01:46:46,782 --> 01:46:48,707
+Devia ter ouvido você.
+
+1247
+01:46:52,149 --> 01:46:53,965
+Acho que preciso de ajuda.
+
+1248
+01:47:00,524 --> 01:47:01,990
+Me desculpe.
+
+1249
+01:47:08,282 --> 01:47:09,867
+Pai...
+
+1250
+01:47:12,682 --> 01:47:16,302
+Estão vindo num minuto.
+Continue falando.
+
+1251
+01:47:23,065 --> 01:47:25,599
+Me desculpe...
+
+1252
+01:47:30,107 --> 01:47:31,590
+Pai.
+
+1253
+01:47:33,440 --> 01:47:34,990
+Pai!
+
+1254
+01:47:37,482 --> 01:47:39,007
+Pai...
+
+1255
+01:47:57,499 --> 01:47:59,457
+O que é isto?
+
+1256
+01:48:01,665 --> 01:48:03,981
+- É xadrez?
+- É.
+
+1257
+01:48:03,982 --> 01:48:06,577
+- Muito obrigado, Mathilde!
+- De nada.
+
+1258
+01:48:07,040 --> 01:48:11,399
+- Gostei mesmo.
+- É a vez do Otto escolher.
+
+1259
+01:48:11,765 --> 01:48:15,365
+Vamos ver o que temos aqui.
+Este!
+
+1260
+01:48:16,332 --> 01:48:20,140
+"Para Emmenthaler,
+de Markus e Mathilde."
+
+1261
+01:48:30,424 --> 01:48:32,015
+O que diabos é isso?
+
+1262
+01:48:33,257 --> 01:48:34,915
+Uma trompa.
+
+1263
+01:48:37,538 --> 01:48:40,182
+Pode conjurar com isso,
+Emmenthaler?
+
+1264
+01:48:46,015 --> 01:48:48,099
+Não, acho que não consigo.
+
+1265
+01:48:49,000 --> 01:48:51,289
+O que eu devo tocar?
+
+1266
+01:48:51,290 --> 01:48:54,374
+Quem se importa?
+Toque qualquer porra!
+
+1267
+01:48:57,224 --> 01:48:58,840
+Mas o quê?
+
+1268
+01:49:00,307 --> 01:49:02,459
+Toque qualquer coisa,
+Lennart.
+
+1269
+01:49:13,991 --> 01:49:17,697
+Raios me partam se eu vou ouvir
+isso na noite de Natal!
+
+1270
+01:49:18,865 --> 01:49:22,290
+Pronto. Respire fundo.
+Respire...
+
+1271
+01:49:27,332 --> 01:49:31,023
+Você está de uniforme,
+no jardim Tivoli...
+
+1272
+01:49:31,024 --> 01:49:33,307
+- Estamos no gramado.
+- Sim...
+
+1273
+01:49:34,424 --> 01:49:36,898
+Bem... Eu sei que consegue.
+
+1274
+01:52:36,200 --> 01:52:40,700
+CAVALEIROS DA JUSTIÇA
+
+1275
+01:52:50,105 --> 01:52:55,105
+- Art Subs -
+13 anos fazendo Arte para você!
+
+1276
+01:52:55,106 --> 01:53:00,106
+<i>Curta a gente no Face:
+facebook.com/ArtSubs</i>
+
+1277
+01:53:00,107 --> 01:53:05,107
+<i>E siga a gente no Insta:
+instagram.com/ArtSubs_Legendas</i>
