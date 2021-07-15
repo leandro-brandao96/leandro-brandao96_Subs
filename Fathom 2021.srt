@@ -1,0 +1,3926 @@
+﻿1
+00:00:49,424 --> 00:00:54,471
+DEVEMOS MANTER OS MONSTROS
+À DISTÂNCIA E NO SEU LUGAR.
+
+2
+00:00:54,555 --> 00:00:59,601
+POR ISSO,
+RARAMENTE LHES FAZEMOS PERGUNTAS,
+
+3
+00:00:59,685 --> 00:01:04,522
+PARA QUE NÃO NOS RESPONDAM E ATERRORIZEM
+DESTRUINDO AS NOSSAS CRENÇAS.
+
+4
+00:02:11,548 --> 00:02:17,763
+Aprofundar
+
+5
+00:02:24,811 --> 00:02:30,067
+ALASCA
+
+6
+00:02:45,165 --> 00:02:49,920
+DRA. MICHELLE FOURNET
+
+7
+00:03:18,407 --> 00:03:20,993
+"Estou a tentar iniciar uma conversa",
+
+8
+00:03:21,076 --> 00:03:24,913
+é a forma mais básica de o dizer.
+
+9
+00:03:29,543 --> 00:03:32,796
+Vou colocar uma coluna no oceano
+e falar com uma baleia
+
+10
+00:03:32,880 --> 00:03:34,548
+e esperar que me responda.
+
+11
+00:03:46,101 --> 00:03:48,395
+Se este trabalho for bem-sucedido,
+
+12
+00:03:48,979 --> 00:03:51,732
+será a primeira experiência
+
+13
+00:03:51,815 --> 00:03:55,027
+em que estabelecemos ativamente
+um diálogo com uma baleia-corcunda.
+
+14
+00:04:01,950 --> 00:04:06,455
+ENQUANTO MICHELLE PROCURA ESTABELECER
+CONTACTO COM BALEIAS-CORCUNDAS,
+
+15
+00:04:06,538 --> 00:04:09,374
+OUTRA CIENTISTA ESTÁ A DECIFRAR
+
+16
+00:04:09,458 --> 00:04:12,294
+ATÉ ONDE SE ESTENDEM OS SEUS CONTACTOS
+
+17
+00:04:12,377 --> 00:04:14,296
+NO ESPAÇO E NO TEMPO.
+
+18
+00:04:17,548 --> 00:04:22,262
+UNIVERSIDADE DE ST. ANDREWS
+ESCÓCIA
+
+19
+00:04:38,362 --> 00:04:42,741
+DRA. ELLEN GARLAND
+
+20
+00:04:49,581 --> 00:04:52,626
+Há 40 ou 50 anos
+que se estuda o canto das corcundas.
+
+21
+00:04:56,505 --> 00:05:00,926
+E ainda ninguém sabe realmente
+porque é que elas cantam.
+
+22
+00:05:20,988 --> 00:05:22,281
+Os pássaros cantam.
+
+23
+00:05:24,116 --> 00:05:25,576
+E as outras baleias também.
+
+24
+00:05:28,912 --> 00:05:33,250
+Mas o canto das corcundas…
+é ainda mais elaborado.
+
+25
+00:05:37,087 --> 00:05:38,088
+Elas têm ritmo.
+
+26
+00:05:40,632 --> 00:05:41,842
+Respiração cronometrada.
+
+27
+00:05:45,262 --> 00:05:47,306
+Rimas e repetição.
+
+28
+00:05:56,190 --> 00:05:58,525
+Horas de padrões dentro de padrões.
+
+29
+00:06:01,987 --> 00:06:05,073
+Sem início ou fim definidos.
+
+30
+00:06:09,536 --> 00:06:12,789
+Acho que o canto das corcundas
+é uma comunicação complexa…
+
+31
+00:06:14,499 --> 00:06:17,419
+… a uma escala que não é análoga
+a nenhuma que conheçamos.
+
+32
+00:06:21,131 --> 00:06:22,508
+Exceto à nossa.
+
+33
+00:06:45,822 --> 00:06:48,408
+O meu padrasto era um pianista clássico.
+
+34
+00:06:48,492 --> 00:06:51,912
+UNIVERSIDADE CORNELL
+ITHACA, NOVA IORQUE
+
+35
+00:06:53,247 --> 00:06:55,541
+Quando ele se sentava
+para me ensinar piano,
+
+36
+00:06:56,959 --> 00:07:01,421
+dizia-me para tocar uma nota
+e fechar os olhos e ouvir…
+
+37
+00:07:04,758 --> 00:07:06,301
+… até que o som desaparecesse.
+
+38
+00:07:12,307 --> 00:07:16,645
+Ele queria que eu compreendesse o som,
+vivenciando-o.
+
+39
+00:07:28,782 --> 00:07:30,993
+Isto é muito mais fácil em terra.
+
+40
+00:07:31,827 --> 00:07:33,996
+Vais, então, programar o temporizador.
+
+41
+00:07:34,079 --> 00:07:36,456
+OFICINA DE ENGENHARIA
+E PRODUÇÃO BIOACÚSTICA DE CORNELL
+
+42
+00:07:36,540 --> 00:07:38,458
+Este sistema comunica com esta caixa?
+
+43
+00:07:39,543 --> 00:07:43,213
+Demorámos dez anos
+a lançar os alicerces
+
+44
+00:07:43,297 --> 00:07:48,886
+antes mesmo de podermos começar a compilar
+os ficheiros para reproduzir às baleias.
+
+45
+00:07:52,723 --> 00:07:55,601
+- Boa. Está a transmitir.
+- Boa.
+
+46
+00:08:01,315 --> 00:08:02,357
+Oh, sim.
+
+47
+00:08:02,441 --> 00:08:03,859
+- Funciona?
+- Sim. Muito bem.
+
+48
+00:08:03,942 --> 00:08:05,277
+- Ótimo. Boa.
+- Muito bem.
+
+49
+00:08:05,360 --> 00:08:07,154
+- Está ligado?
+- Ligado.
+
+50
+00:08:08,572 --> 00:08:09,698
+Sim.
+
+51
+00:08:18,165 --> 00:08:20,667
+Sim, este vai dar problemas.
+
+52
+00:08:21,835 --> 00:08:24,087
+É isso.
+Este é o canto que vamos reproduzir.
+
+53
+00:08:24,171 --> 00:08:26,423
+É mesmo essa gravação que vamos passar…
+
+54
+00:08:26,507 --> 00:08:27,799
+Ou uma delas.
+
+55
+00:08:28,675 --> 00:08:30,594
+Pois, vamos ter de fazer uns ajustes.
+
+56
+00:08:30,677 --> 00:08:33,804
+Sim. Podíamos reduzir o volume.
+
+57
+00:08:34,681 --> 00:08:35,933
+Talvez…
+
+58
+00:08:36,850 --> 00:08:39,520
+Está a distorcer.
+Talvez tenhas de ajustar.
+
+59
+00:08:39,602 --> 00:08:41,897
+- Isso é da gravação.
+- Oh, está bem.
+
+60
+00:08:41,980 --> 00:08:43,815
+Sim. A distorção é da gravação.
+
+61
+00:08:43,899 --> 00:08:48,028
+Estas gravações não foram filtradas,
+não foram ajustadas, de todo.
+
+62
+00:08:53,450 --> 00:08:54,701
+Assim está bem.
+
+63
+00:08:58,539 --> 00:09:01,124
+- Algo não está muito bem.
+- Não. Algo não está bem.
+
+64
+00:09:01,208 --> 00:09:03,418
+Estou a tentar enganar a baleia.
+
+65
+00:09:04,920 --> 00:09:06,797
+Tenho de ser sincera quanto a isso.
+
+66
+00:09:09,383 --> 00:09:11,343
+Estou a tentar convencer a corcunda
+
+67
+00:09:11,426 --> 00:09:14,805
+de que há outra baleia
+na água a vocalizar.
+
+68
+00:09:16,306 --> 00:09:19,893
+Estivemos a discutir umas coisas
+e talvez tenhamos encontrado…
+
+69
+00:09:19,977 --> 00:09:21,353
+LABORATÓRIO DE BIOACÚSTICA DE CORNELL
+
+70
+00:09:21,436 --> 00:09:25,440
+Experiências com reproduções, no passado,
+fizeram sons terríveis por acidente.
+
+71
+00:09:27,109 --> 00:09:31,113
+É assim que funciona.
+Metade do verso é o canto real.
+
+72
+00:09:33,949 --> 00:09:35,450
+As últimas reproduções
+
+73
+00:09:35,534 --> 00:09:37,995
+pareciam corcundas sob o efeito de hélio.
+
+74
+00:09:38,078 --> 00:09:39,997
+E este é o reconstruído.
+
+75
+00:09:43,166 --> 00:09:45,586
+E admiraram-se por não obterem resposta.
+
+76
+00:09:45,669 --> 00:09:48,422
+- Limpa tudo.
+- Sim, retira todos os ruídos.
+
+77
+00:09:48,505 --> 00:09:50,048
+Isto é a representação visual.
+
+78
+00:09:50,132 --> 00:09:52,968
+O azul é a captação e o vermelho
+é o que estamos a ouvir agora.
+
+79
+00:09:53,051 --> 00:09:55,053
+- O vermelho é o que estamos a ouvir.
+- Sim.
+
+80
+00:09:55,137 --> 00:09:57,723
+E, basicamente,
+estão a trabalhar só com sinal?
+
+81
+00:09:57,806 --> 00:10:00,142
+Portanto, não têm problemas
+com o espectrograma?
+
+82
+00:10:01,226 --> 00:10:04,688
+Todos os estalidos e assim
+seriam eliminados.
+
+83
+00:10:04,771 --> 00:10:06,398
+É uma ótima ideia.
+
+84
+00:10:06,481 --> 00:10:11,528
+O único problema que vejo é que a maioria
+dos cantos das corcundas não são tonais.
+
+85
+00:10:12,487 --> 00:10:14,781
+São cantos com modulação de amplitude.
+
+86
+00:10:14,865 --> 00:10:17,826
+E são curtos.
+Por isso, muitos deles são tipo…
+
+87
+00:10:20,871 --> 00:10:22,956
+… cantos que não são harmónicos
+nem tonais.
+
+88
+00:10:23,040 --> 00:10:24,249
+Isso é espantoso.
+
+89
+00:10:24,791 --> 00:10:26,418
+Imitas muito bem.
+
+90
+00:10:26,502 --> 00:10:29,755
+Então, mais uma vez,
+acho que tudo depende da clareza.
+
+91
+00:10:30,964 --> 00:10:32,591
+- Devíamos experimentar.
+- Sim.
+
+92
+00:10:39,056 --> 00:10:43,101
+Se ouvíssemos todas as baleias
+de todo o mundo ao mesmo tempo,
+
+93
+00:10:44,561 --> 00:10:46,480
+a maioria desses sons seriam cantos.
+
+94
+00:10:48,398 --> 00:10:51,902
+Às vezes,
+ocorrem em séries que mudam de ordem.
+
+95
+00:10:51,985 --> 00:10:54,488
+Às vezes, ocorrem um a um.
+
+96
+00:10:57,407 --> 00:10:59,618
+CANTO GOTA
+
+97
+00:10:59,701 --> 00:11:00,869
+Mas são curtos.
+
+98
+00:11:00,953 --> 00:11:01,954
+CANTO TROCA
+
+99
+00:11:02,037 --> 00:11:04,039
+E compreendemos muito pouco sobre eles.
+
+100
+00:11:04,122 --> 00:11:07,251
+CANTO RUGIDO
+
+101
+00:11:07,334 --> 00:11:09,169
+Mas entre todos os cantos das corcundas…
+
+102
+00:11:09,253 --> 00:11:10,254
+CANTO TENDA TEEPEE
+
+103
+00:11:10,337 --> 00:11:12,172
+… acho que há um que é o mais importante.
+
+104
+00:11:16,468 --> 00:11:17,719
+O "whup".
+
+105
+00:11:21,098 --> 00:11:24,852
+Este canto é emitido por todas,
+achamos nós.
+
+106
+00:11:26,228 --> 00:11:30,232
+É um animal que tem o potencial
+de produzir um número infinito de cantos.
+
+107
+00:11:33,151 --> 00:11:35,654
+Porque é que este canto é único?
+
+108
+00:11:35,737 --> 00:11:37,531
+Porque é que este canto é especial?
+
+109
+00:11:38,115 --> 00:11:41,618
+E a melhor forma
+de começar a descobrir isso
+
+110
+00:11:41,702 --> 00:11:44,621
+é reproduzi-lo para uma baleia
+e ver como a baleia reage.
+
+111
+00:12:00,053 --> 00:12:02,222
+Esta é a pergunta
+para a qual me tenho preparado.
+
+112
+00:12:05,559 --> 00:12:08,979
+Foi por isto que lutei
+quando tinha 25 anos e comecei isto.
+
+113
+00:12:11,565 --> 00:12:16,028
+E foi isto que defendi
+quando comecei o meu doutoramento.
+
+114
+00:12:20,073 --> 00:12:22,993
+E tenho de me certificar
+de que o método científico é impecável.
+
+115
+00:12:33,795 --> 00:12:36,507
+Este é o início da nossa compreensão
+
+116
+00:12:36,590 --> 00:12:39,927
+da forma como as baleias-corcundas
+percebem o mundo.
+
+117
+00:12:41,595 --> 00:12:45,849
+E como as baleias-corcundas
+se percebem umas às outras através do som.
+
+118
+00:12:49,394 --> 00:12:51,396
+MICHELLE VIAJARÁ PARA O ALASCA
+
+119
+00:12:51,480 --> 00:12:54,316
+PARA TESTAR
+SE AS CORCUNDAS USAM O CANTO "WHUP"
+
+120
+00:12:54,399 --> 00:12:56,568
+PARA ESTABELECER CONTACTO
+UMAS COM AS OUTRAS.
+
+121
+00:13:11,625 --> 00:13:13,252
+A minha mãe adorava o oceano.
+
+122
+00:13:18,298 --> 00:13:20,342
+E sempre quis ser oceanógrafa,
+
+123
+00:13:20,425 --> 00:13:22,928
+mas as mulheres não eram autorizadas
+a viajar em barcos.
+
+124
+00:13:25,097 --> 00:13:27,015
+Então, em vez disso, tornou-se geógrafa.
+
+125
+00:13:32,813 --> 00:13:35,691
+Nunca perdeu o seu amor pelo oceano,
+e, definitivamente…
+
+126
+00:13:37,150 --> 00:13:38,735
+… transmitiu-me isso.
+
+127
+00:13:44,992 --> 00:13:46,326
+UNIDADE DE INVESTIGAÇÃO
+DE MAMÍFEROS MARINHOS
+
+128
+00:13:46,410 --> 00:13:49,121
+Exatamente. Isso é importante.
+
+129
+00:13:50,080 --> 00:13:54,585
+Reparar no estranho, reparar no diferente,
+é o melhor que podem fazer.
+
+130
+00:13:54,668 --> 00:13:56,920
+Porque vai chamar-vos a atenção
+
+131
+00:13:57,004 --> 00:14:00,257
+se repararmos nestas diferenças
+a nível individual.
+
+132
+00:14:01,049 --> 00:14:02,593
+Se tomarmos nota.
+
+133
+00:14:02,676 --> 00:14:07,055
+Os cientistas sempre pensaram
+que as canções eram só para acasalamento.
+
+134
+00:14:07,139 --> 00:14:08,765
+Temos um bom padrão.
+
+135
+00:14:08,849 --> 00:14:12,186
+Portanto, um violino, um latido,
+
+136
+00:14:12,269 --> 00:14:14,229
+e quase de certeza
+que isto vai ser um "whup".
+
+137
+00:14:14,313 --> 00:14:17,399
+Portanto, são três perfeitos exem…
+
+138
+00:14:25,032 --> 00:14:28,452
+Mas ao ouvir
+uma década de gravações do Pacífico Sul,
+
+139
+00:14:28,535 --> 00:14:30,370
+vi as mesmas canções a aparecerem
+
+140
+00:14:30,454 --> 00:14:33,040
+em populações separadas
+por centenas de quilómetros.
+
+141
+00:14:34,041 --> 00:14:37,044
+Mas é importante
+estarmos a ver a estrutura, certo?
+
+142
+00:14:37,127 --> 00:14:40,672
+Portanto, temos um grande guincho,
+e depois uma frequência mais baixa,
+
+143
+00:14:40,756 --> 00:14:43,592
+depois um grande guincho
+e uma frequência mais baixa.
+
+144
+00:14:43,675 --> 00:14:46,094
+E assim, se pensarmos nisso
+como uma coisa estrutural…
+
+145
+00:14:47,262 --> 00:14:50,724
+Percebi que o canto tinha de ser
+mais do que só para acasalamento.
+
+146
+00:14:54,520 --> 00:14:56,647
+São introduzidas
+pequenas alterações na canção.
+
+147
+00:14:59,525 --> 00:15:03,946
+E depois, todos os cantores aprendem
+essas alterações e a canção evolui.
+
+148
+00:15:05,739 --> 00:15:06,949
+Avança.
+
+149
+00:15:08,909 --> 00:15:12,037
+As canções são depois passadas
+a populações distantes.
+
+150
+00:15:13,539 --> 00:15:15,499
+E, à medida que isto se repete,
+
+151
+00:15:15,582 --> 00:15:20,045
+torna-se a forma como
+milhares de baleias soam coletivamente.
+
+152
+00:15:23,715 --> 00:15:26,635
+Tudo isto é um fenómeno cultural.
+
+153
+00:15:28,095 --> 00:15:29,471
+Então, da Austrália,
+
+154
+00:15:29,555 --> 00:15:33,267
+espalha-se primeiro para a Nova Caledónia,
+a 1300 km de distância.
+
+155
+00:15:34,935 --> 00:15:37,646
+Todas elas aprendem a canção
+no espaço de alguns meses,
+
+156
+00:15:37,729 --> 00:15:40,065
+o que é de loucos,
+que os animais consigam aprender
+
+157
+00:15:40,148 --> 00:15:43,443
+esta longa e complexa apresentação
+tão rapidamente.
+
+158
+00:15:45,612 --> 00:15:49,116
+As canções vão sempre de oeste para leste,
+
+159
+00:15:49,199 --> 00:15:52,035
+conectando um oceano de baleias
+com cultura.
+
+160
+00:15:54,746 --> 00:15:56,248
+Estou a tentar completar um mapa
+
+161
+00:15:56,331 --> 00:15:58,959
+de onde se encontra a partilha de canções
+no Pacífico Sul.
+
+162
+00:16:01,587 --> 00:16:03,088
+Para encontrar os seus limites.
+
+163
+00:16:05,299 --> 00:16:08,135
+Para descobrir
+onde esta cultura de corcundas termina.
+
+164
+00:16:11,638 --> 00:16:15,225
+ELLEN PREPARA-SE PARA VIAJAR
+ATÉ À POLINÉSIA FRANCESA
+
+165
+00:16:15,309 --> 00:16:17,936
+PARA VER SE AS BALEIAS QUE VIVEM LÁ
+
+166
+00:16:18,020 --> 00:16:21,565
+TAMBÉM CANTAM
+A CANÇÃO QUE ELA TEM SEGUIDO.
+
+167
+00:16:35,662 --> 00:16:39,625
+MARIDO DE ELLEN
+
+168
+00:16:42,836 --> 00:16:46,131
+- Já chega? Ou não.
+- Acho que é o suficiente. Enche-o.
+
+169
+00:16:46,215 --> 00:16:48,425
+Anda cá, Zin. O que é isto?
+
+170
+00:16:50,802 --> 00:16:52,054
+Aqui em cima.
+
+171
+00:16:53,430 --> 00:16:54,598
+O que achas, Zin?
+
+172
+00:16:56,683 --> 00:16:58,018
+Parece-te bem?
+
+173
+00:17:01,480 --> 00:17:03,440
+O trabalho de campo é sempre um desafio,
+
+174
+00:17:03,524 --> 00:17:07,653
+porque estamos longe
+daqueles de quem gostamos.
+
+175
+00:17:10,739 --> 00:17:12,950
+Mas achei…
+
+176
+00:17:13,032 --> 00:17:17,412
+Ocasionalmente, consegui que o Matt
+viesse comigo ao local de trabalho.
+
+177
+00:17:20,207 --> 00:17:22,125
+E descobrimos que enjoa em barcos.
+
+178
+00:17:22,209 --> 00:17:24,502
+Portanto… não resultou muito bem.
+
+179
+00:17:25,087 --> 00:17:26,672
+Tens de apagar o fogão.
+
+180
+00:17:26,755 --> 00:17:28,549
+- Eu sei, eu sei.
+- Vês o fumo?
+
+181
+00:17:29,591 --> 00:17:30,759
+Abriste o… Sim.
+
+182
+00:17:30,843 --> 00:17:33,095
+Primeiro passo, a Ellen ativa sempre
+os alarmes de fumo.
+
+183
+00:17:36,098 --> 00:17:38,058
+- Estás bem?
+- Sim.
+
+184
+00:17:41,311 --> 00:17:42,563
+Obrigada, amigo.
+
+185
+00:17:45,524 --> 00:17:47,484
+Nem sei por onde começar. Muito bem.
+
+186
+00:17:48,443 --> 00:17:49,820
+- Delega, Ellen.
+- O quê?
+
+187
+00:17:49,903 --> 00:17:52,865
+Delega. Delega-me coisas.
+
+188
+00:17:52,948 --> 00:17:54,157
+Está bem.
+
+189
+00:17:54,241 --> 00:17:58,620
+Podes apanhar a roupa que estiver seca?
+
+190
+00:17:58,704 --> 00:17:59,830
+Posso, sim.
+
+191
+00:18:03,208 --> 00:18:07,546
+Sabes, temos pela frente
+uma comunicação mínima,
+
+192
+00:18:07,629 --> 00:18:08,714
+e é uma porcaria.
+
+193
+00:18:08,797 --> 00:18:10,090
+E é muito difícil.
+
+194
+00:18:10,174 --> 00:18:12,426
+E acho que é muito mais difícil
+para ti do que para mim,
+
+195
+00:18:12,509 --> 00:18:16,471
+porque eu estou constantemente rodeada
+de pessoas… pela equipa.
+
+196
+00:18:17,097 --> 00:18:19,016
+Além disso, tens o que fazer, certo?
+
+197
+00:18:19,099 --> 00:18:21,768
+Não há grande descanso
+no trabalho de campo.
+
+198
+00:18:21,852 --> 00:18:25,189
+Quando nos interessamos mesmo por algo
+e somos apaixonados por isso,
+
+199
+00:18:25,272 --> 00:18:27,608
+é a coisa óbvia que queremos fazer.
+
+200
+00:18:27,691 --> 00:18:29,359
+Adoro fazer trabalho de campo.
+
+201
+00:18:30,110 --> 00:18:33,363
+Faz-me superfeliz e adoro-o mesmo.
+
+202
+00:18:33,447 --> 00:18:36,450
+E não quereria deixar de o fazer,
+
+203
+00:18:36,533 --> 00:18:38,243
+mas é muito difícil partir.
+
+204
+00:18:38,327 --> 00:18:41,079
+O melhor é tentar nem pensar nisso,
+acho eu.
+
+205
+00:18:48,086 --> 00:18:49,379
+Muito bem.
+
+206
+00:18:51,173 --> 00:18:52,466
+Anda cá.
+
+207
+00:18:53,383 --> 00:18:54,468
+Pronto.
+
+208
+00:19:05,521 --> 00:19:10,484
+ALASCA
+
+209
+00:19:42,391 --> 00:19:44,351
+DURANTE AS DUAS PRIMEIRAS SEMANAS
+EM CAMPO,
+
+210
+00:19:44,434 --> 00:19:46,979
+MICHELLE TERÁ A AJUDA
+DE OUTRA INVESTIGADORA
+
+211
+00:19:47,062 --> 00:19:48,063
+E DE UMA ALUNA.
+
+212
+00:19:48,146 --> 00:19:51,108
+Quatro hidrofones. Confere.
+Comando à distância. Confere.
+
+213
+00:19:51,191 --> 00:19:54,403
+Quatro sacos impermeáveis
+e unidades de GPS. Confere.
+
+214
+00:19:54,486 --> 00:19:59,324
+Localizador, confere. Pequeno saco preto
+impermeável com GPS de barco, confere.
+
+215
+00:19:59,408 --> 00:20:02,452
+iPad, confere.
+A toalha verde está na mochila.
+
+216
+00:20:02,536 --> 00:20:04,288
+Bateria Goal Zero
+com cabos de carregamento
+
+217
+00:20:04,371 --> 00:20:06,832
+e painel solar Goal Zero
+estão ambos na mochila.
+
+218
+00:20:06,915 --> 00:20:08,750
+- Black Pelican.
+- Confere.
+
+219
+00:20:08,834 --> 00:20:10,961
+Com a câmara…
+Verifiquei esta manhã.
+
+220
+00:20:11,044 --> 00:20:13,255
+Câmara, binóculos,
+pilha de nove volts extra para a câmara
+
+221
+00:20:13,338 --> 00:20:15,174
+e pilhas AA, está tudo lá.
+
+222
+00:20:15,257 --> 00:20:17,926
+Ótimo. Grande saco amarelo
+impermeável, casacos de chuva, almoço.
+
+223
+00:20:18,010 --> 00:20:19,803
+ALUNA, ASSISTENTE DE INVESTIGAÇÃO
+
+224
+00:20:19,887 --> 00:20:21,388
+Confere.
+
+225
+00:20:21,471 --> 00:20:24,349
+Muito bem. Coluna de reprodução.
+Quatro coletes salva-vidas.
+
+226
+00:20:24,433 --> 00:20:26,059
+ECOLOGISTA MARINHA
+
+227
+00:20:26,143 --> 00:20:27,519
+- Dois rádios.
+- Confere.
+
+228
+00:20:28,687 --> 00:20:31,398
+- Sacos individuais e garrafas de água.
+- Água.
+
+229
+00:20:32,024 --> 00:20:33,483
+Tenho as garrafas de água cheias.
+
+230
+00:20:33,567 --> 00:20:35,110
+Protetor solar.
+
+231
+00:20:35,194 --> 00:20:37,404
+Oh, protetor solar. Pus na lista.
+
+232
+00:20:37,487 --> 00:20:40,490
+Está no saco. Devíamos pô-lo na cara.
+
+233
+00:20:47,289 --> 00:20:52,336
+Faremos o primeiro levantamento no sul,
+e depois seguimos para norte.
+
+234
+00:20:52,419 --> 00:20:53,754
+Está bem.
+
+235
+00:20:57,799 --> 00:21:02,804
+Quando se está num lugar tão belo,
+é fácil esquecer…
+
+236
+00:21:04,306 --> 00:21:06,391
+… que as baleias podem virar o barco.
+
+237
+00:21:07,559 --> 00:21:09,811
+E a água é gelada o suficiente
+para causar a morte.
+
+238
+00:21:50,227 --> 00:21:51,854
+Há alguma por aqui.
+
+239
+00:21:51,937 --> 00:21:53,063
+De certeza.
+
+240
+00:22:02,239 --> 00:22:06,118
+Em épocas passadas,
+passei semanas sem ver baleias.
+
+241
+00:22:07,744 --> 00:22:11,123
+Este ano, temos apenas um mês
+para observar pelo menos 30.
+
+242
+00:22:22,634 --> 00:22:27,181
+Muito bem, hidrofones,
+são 10h28, 11 de agosto.
+
+243
+00:22:27,264 --> 00:22:30,309
+Fala a Dra. Leanna Matthews,
+aqui com a Dra. Michelle Fournet.
+
+244
+00:22:30,392 --> 00:22:32,477
+Vou bater três palmas.
+
+245
+00:22:37,107 --> 00:22:39,109
+Cada reprodução demora uma hora.
+
+246
+00:22:44,489 --> 00:22:47,576
+Lá em baixo, vamos seguir acusticamente
+uma baleia com hidrofones
+
+247
+00:22:47,659 --> 00:22:50,162
+enquanto o nosso altifalante
+reproduz o canto "whup".
+
+248
+00:22:52,623 --> 00:22:54,041
+A iniciar a reprodução.
+
+249
+00:22:56,043 --> 00:23:00,047
+E, cá em cima, anotaremos
+tudo o que virmos uma baleia fazer.
+
+250
+00:23:00,130 --> 00:23:01,632
+A isto chama-se seguimento focal.
+
+251
+00:23:03,509 --> 00:23:07,596
+Ao ligar comportamentos que vemos na
+superfície com as gravações reproduzidas,
+
+252
+00:23:08,222 --> 00:23:12,434
+terei uma imagem completa de como a baleia
+está a responder às nossas reproduções.
+
+253
+00:23:12,518 --> 00:23:15,270
+- Começamos quando emergir.
+- Sim.
+
+254
+00:23:34,289 --> 00:23:36,375
+Sinto que ela vai aparecer
+mesmo ao nosso lado.
+
+255
+00:23:36,458 --> 00:23:37,835
+Sim.
+
+256
+00:23:54,059 --> 00:23:55,561
+Inicia o levantamento.
+
+257
+00:23:55,644 --> 00:23:58,772
+Primeira vinda à superfície.
+Sudoeste, a 76,2º.
+
+258
+00:24:05,821 --> 00:24:06,947
+Borrifo.
+
+259
+00:24:07,030 --> 00:24:08,866
+Esquece. Anula, não é a nossa baleia.
+
+260
+00:24:08,949 --> 00:24:10,659
+- Não é a nossa baleia.
+- Não.
+
+261
+00:24:11,410 --> 00:24:13,871
+Borrifo. Oeste.
+
+262
+00:24:14,955 --> 00:24:16,039
+A 50,1º.
+
+263
+00:24:22,296 --> 00:24:25,090
+Borrifo. Noroeste.
+
+264
+00:24:28,468 --> 00:24:31,138
+Mergulho. A 36,3º.
+
+265
+00:24:33,182 --> 00:24:34,183
+A 150 m.
+
+266
+00:24:35,017 --> 00:24:37,019
+- É a nossa baleia.
+- Sim. É a nossa baleia.
+
+267
+00:24:37,102 --> 00:24:39,188
+Muito bem. Um pouco de branco no dorso.
+
+268
+00:24:39,271 --> 00:24:40,272
+- Certo?
+- Sim.
+
+269
+00:24:40,355 --> 00:24:42,024
+Sim. A cauda fez-me sentir melhor.
+
+270
+00:24:42,107 --> 00:24:43,859
+Porque a outra também tinha cauda preta.
+
+271
+00:24:43,942 --> 00:24:45,485
+Reparei nisso e pensei: "Oh, meu Deus."
+
+272
+00:24:45,569 --> 00:24:47,404
+- Mas não. É a nossa baleia.
+- E era a cauda certa.
+
+273
+00:24:47,487 --> 00:24:48,822
+- Era a cauda certa.
+- Sim.
+
+274
+00:24:48,906 --> 00:24:51,408
+Cauda negra com umas manchas.
+Cracas em cima.
+
+275
+00:24:51,491 --> 00:24:53,160
+- Sim.
+- Sim.
+
+276
+00:24:53,243 --> 00:24:55,370
+Muito bem. É o fim do levantamento.
+
+277
+00:24:58,498 --> 00:25:02,377
+PRIMEIRA REPRODUÇÃO CONCLUÍDA
+
+278
+00:25:05,714 --> 00:25:06,965
+- Contacto.
+- Contacto.
+
+279
+00:25:07,049 --> 00:25:09,384
+- Contacto.
+- Contacto.
+
+280
+00:25:09,468 --> 00:25:11,094
+- Contacto.
+- Contacto.
+
+281
+00:25:11,178 --> 00:25:12,513
+Contacto.
+
+282
+00:25:31,406 --> 00:25:33,825
+Alguém se importa
+se eu pegar na de cheddar?
+
+283
+00:25:33,909 --> 00:25:35,285
+Força.
+
+284
+00:25:39,456 --> 00:25:42,167
+Estão desiludidas
+por não irmos lá à beira?
+
+285
+00:25:43,669 --> 00:25:45,379
+- Não.
+- Está bem.
+
+286
+00:25:45,462 --> 00:25:46,672
+É de propósito.
+
+287
+00:25:47,548 --> 00:25:49,716
+Há demasiadas baleias ali.
+
+288
+00:25:49,800 --> 00:25:51,552
+Acho que não devíamos ir lá.
+
+289
+00:25:51,635 --> 00:25:53,428
+Pode tornar-se muito confuso.
+
+290
+00:25:54,513 --> 00:25:57,766
+SEGUNDA REPRODUÇÃO
+
+291
+00:26:03,981 --> 00:26:05,524
+- Não é a nossa baleia.
+- Correto.
+
+292
+00:26:07,067 --> 00:26:08,235
+Não é a nossa baleia.
+
+293
+00:26:10,404 --> 00:26:12,322
+- Estas duas também não.
+- Correto.
+
+294
+00:26:27,462 --> 00:26:29,548
+Oh, e aquela baleia a borrifar?
+
+295
+00:26:29,631 --> 00:26:30,799
+- Sim.
+- É a nossa baleia.
+
+296
+00:26:31,592 --> 00:26:35,220
+Superfície.
+Primeira vinda à superfície, a 185,2º.
+
+297
+00:26:37,181 --> 00:26:38,182
+A 180 metros.
+
+298
+00:26:39,266 --> 00:26:40,851
+De certeza que é a nossa baleia.
+
+299
+00:26:41,977 --> 00:26:43,770
+Vou tentar ver com os binóculos.
+
+300
+00:26:49,526 --> 00:26:50,944
+Borrifo.
+
+301
+00:26:51,028 --> 00:26:53,655
+Sul, a 178,5º.
+
+302
+00:26:53,739 --> 00:26:56,074
+- A 365 m. A mais próxima, certo?
+- Sim.
+
+303
+00:27:04,208 --> 00:27:06,668
+- Não é a nossa baleia.
+- Pois não.
+
+304
+00:27:07,544 --> 00:27:09,796
+Apaga toda a última vinda à superfície.
+
+305
+00:27:15,677 --> 00:27:19,431
+Este estudo
+tem uma elevada probabilidade de fracasso.
+
+306
+00:27:23,519 --> 00:27:25,229
+A logística é muito complicada.
+
+307
+00:27:31,443 --> 00:27:35,781
+Quando há várias baleias,
+é muito difícil acompanhar apenas uma.
+
+308
+00:27:50,003 --> 00:27:53,048
+POLINÉSIA FRANCESA
+
+309
+00:27:58,095 --> 00:28:03,433
+É a ideia de que eu posso
+contribuir para este conhecimento.
+
+310
+00:28:03,517 --> 00:28:07,479
+Que essa pode ser a minha pequena peça
+para ajudar a montar o puzzle.
+
+311
+00:28:10,190 --> 00:28:15,612
+Mesmo na época mais dura em campo
+ou no dia mais desanimador,
+
+312
+00:28:15,696 --> 00:28:17,698
+tira-me da cama todas as manhãs.
+
+313
+00:28:20,200 --> 00:28:22,035
+Sou uma cientista marrona…
+
+314
+00:28:23,620 --> 00:28:27,416
+… a tentar compreender o nosso planeta
+e os animais do nosso planeta,
+
+315
+00:28:27,499 --> 00:28:29,418
+antes que desapareçam.
+
+316
+00:28:37,926 --> 00:28:41,430
+Então, nunca tiveste
+formação de hidrofones?
+
+317
+00:28:41,513 --> 00:28:43,348
+- Nem por isso.
+- Certo, ótimo.
+
+318
+00:28:43,432 --> 00:28:48,520
+Basicamente, isto não se pode molhar
+e isso tem de ficar debaixo de água.
+
+319
+00:28:49,354 --> 00:28:50,814
+ALUNO DE DOUTORAMENTO, ZOOMUSICOLOGIA
+
+320
+00:28:50,898 --> 00:28:52,649
+Isto demora séculos a ligar
+em modo de poupança.
+
+321
+00:28:52,733 --> 00:28:53,734
+Sim, pois.
+
+322
+00:28:54,443 --> 00:28:56,069
+Consigo ouvir isso por ali.
+
+323
+00:28:58,989 --> 00:29:01,533
+Sim, está definitivamente a correr bem.
+
+324
+00:29:02,534 --> 00:29:07,080
+Portanto, a ideia é colocar
+um pedaço de fita
+
+325
+00:29:07,164 --> 00:29:10,626
+e enrolar, apertando, mas não demasiado.
+
+326
+00:29:10,709 --> 00:29:12,794
+- Certo.
+- Não queres estrangular o fio.
+
+327
+00:29:12,878 --> 00:29:14,087
+Está bem.
+
+328
+00:29:14,171 --> 00:29:16,965
+E a ideia disto é reduzir
+o ruído da frequência da água?
+
+329
+00:29:17,049 --> 00:29:19,009
+- Era isso que estava a dizer?
+- Sim…
+
+330
+00:29:19,092 --> 00:29:21,678
+… reduz as vibrações de baixa frequência.
+- Sim.
+
+331
+00:29:21,762 --> 00:29:25,557
+Portanto, sim, isto foi passado
+pelo supervisor do meu supervisor
+
+332
+00:29:25,641 --> 00:29:30,062
+para ele, depois, para mim
+e agora estou a passá-lo à nossa equipa.
+
+333
+00:29:30,145 --> 00:29:31,522
+Portanto é a…
+
+334
+00:29:31,605 --> 00:29:34,608
+É a técnica australiana, digamos.
+
+335
+00:29:34,691 --> 00:29:37,194
+- Sim. Não, está perfeito.
+- Está bem.
+
+336
+00:29:37,861 --> 00:29:39,363
+Agora só precisamos das baleias.
+
+337
+00:29:40,697 --> 00:29:41,907
+CAPITÃO DO BARCO
+
+338
+00:29:41,990 --> 00:29:43,659
+Sim, também estou feliz por te ver.
+
+339
+00:29:43,742 --> 00:29:46,286
+- Ainda bem que vamos contigo.
+- Há quanto tempo.
+
+340
+00:29:46,370 --> 00:29:48,413
+Eu sei. Passaram-se séculos.
+Sim, por isso…
+
+341
+00:29:48,497 --> 00:29:50,374
+Só tenho algumas semanas,
+
+342
+00:29:50,457 --> 00:29:53,961
+e preciso de obter gravações
+de alta qualidade de diferentes baleias
+
+343
+00:29:54,920 --> 00:29:56,338
+para saber o que está a ser cantado.
+
+344
+00:30:12,020 --> 00:30:13,730
+Desculpa lá isso. O que achas?
+
+345
+00:30:13,814 --> 00:30:17,276
+Talvez ali. Para o som, é melhor.
+
+346
+00:30:17,359 --> 00:30:19,570
+- Sim. Parece que…
+- E depois, vamos…
+
+347
+00:30:19,653 --> 00:30:20,946
+Sim. É a melhor ideia.
+
+348
+00:30:40,799 --> 00:30:43,093
+- Pronta para entrar?
+- Sim, pronta.
+
+349
+00:30:52,811 --> 00:30:56,815
+- Desenrola… Sim. Perfeito.
+- Cá estamos nós.
+
+350
+00:30:56,899 --> 00:30:59,359
+- Certo. Vamos começar a ouvir agora.
+- Está bem.
+
+351
+00:31:06,283 --> 00:31:08,327
+Estou a ouvir no nível 95.
+
+352
+00:31:21,298 --> 00:31:23,675
+Pode estar no limite da minha audição.
+
+353
+00:31:24,426 --> 00:31:25,928
+Pode estar, sim.
+
+354
+00:31:26,011 --> 00:31:28,305
+É um jogo de esconde-esconde acústico.
+
+355
+00:31:29,348 --> 00:31:32,893
+Vamos deixar todo o…
+Sim, todo o cabo fora.
+
+356
+00:31:32,976 --> 00:31:34,811
+Porque não está na vertical,
+
+357
+00:31:34,895 --> 00:31:38,023
+e queria chegar
+à maior profundidade que conseguirmos.
+
+358
+00:31:39,441 --> 00:31:41,902
+Abaixo da superfície,
+uma canção pode ser ouvida
+
+359
+00:31:41,985 --> 00:31:45,072
+por outras baleias
+ao longo de dezenas de quilómetros.
+
+360
+00:31:45,155 --> 00:31:49,743
+Mas o hidrofone tem dificuldade em captar
+claramente para além de um a três km.
+
+361
+00:31:56,041 --> 00:31:59,878
+Muito bem. Vou parar agora. Ficheiro 001.
+
+362
+00:32:00,963 --> 00:32:02,798
+- Acho que vem deste lado.
+- Sim.
+
+363
+00:32:08,303 --> 00:32:10,430
+As baleias cantam fora do recife,
+
+364
+00:32:10,514 --> 00:32:12,808
+mas as águas mais profundas
+podem ser tão agitadas,
+
+365
+00:32:12,891 --> 00:32:15,602
+que, se não tivermos cuidado,
+podem afundar o barco.
+
+366
+00:32:16,937 --> 00:32:19,481
+Vamos tentar… Ali.
+
+367
+00:32:20,774 --> 00:32:24,653
+A água é uma janela,
+mas é também uma parede.
+
+368
+00:32:34,079 --> 00:32:36,915
+Podemos confirmar, temos cantoria,
+
+369
+00:32:36,999 --> 00:32:39,877
+mas é de muito má qualidade.
+
+370
+00:32:39,960 --> 00:32:44,214
+O que significa que está muito longe.
+Infelizmente, não podemos ir para ali.
+
+371
+00:32:57,102 --> 00:33:04,109
+CINCO DE 30 REPRODUÇÕES CONCLUÍDAS
+FALTAM 24 DIAS
+
+372
+00:33:08,614 --> 00:33:12,868
+Em dez anos no Alasca,
+nunca vi tantas baleias.
+
+373
+00:33:13,702 --> 00:33:17,039
+Acho que não estamos
+a fazer justiça à reprodução se não…
+
+374
+00:33:17,831 --> 00:33:18,832
+… fizermos uma análise.
+
+375
+00:33:18,916 --> 00:33:21,126
+Tipo, estamos a seguir este animal
+
+376
+00:33:21,210 --> 00:33:24,046
+e a emitir uma reprodução
+para este animal,
+
+377
+00:33:24,129 --> 00:33:26,882
+mas ele não é o único animal
+que ouve a reprodução.
+
+378
+00:33:26,965 --> 00:33:29,760
+O que significa
+que o que o animal faz vai mudar.
+
+379
+00:33:29,843 --> 00:33:32,387
+Porque tu e eu
+a termos um diálogo sozinhas
+
+380
+00:33:32,471 --> 00:33:36,517
+versus tu e eu a termos um diálogo
+com um grupo de pessoas,
+
+381
+00:33:36,600 --> 00:33:38,560
+vai alterar o quanto contribuímos.
+
+382
+00:33:38,644 --> 00:33:40,312
+- Sim!
+- E o quanto prestamos atenção.
+
+383
+00:33:40,395 --> 00:33:42,481
+Acho que estamos
+com dificuldades em abandonar.
+
+384
+00:33:42,564 --> 00:33:45,734
+Claro. Passámos semanas…
+Passei meses… Passei anos…
+
+385
+00:33:45,817 --> 00:33:49,571
+- Muito tempo.
+- … a conceber estes acompanhamentos.
+
+386
+00:33:49,655 --> 00:33:52,491
+- Mas quando chegamos lá e o fazemos…
+- Muda.
+
+387
+00:33:52,574 --> 00:33:54,910
+… e vemos todas estas outras coisas…
+
+388
+00:33:54,993 --> 00:33:57,621
+Não importa quanto tempo
+passei a concebê-lo.
+
+389
+00:33:57,704 --> 00:34:00,415
+Então, qual é a forma mais elegante
+
+390
+00:34:00,499 --> 00:34:03,919
+de ter certezas
+acerca de algo que vemos na natureza
+
+391
+00:34:04,002 --> 00:34:08,257
+sem o exagerar, sem o desejar?
+
+392
+00:34:09,132 --> 00:34:12,678
+E sinto que, em relação a essa questão…
+
+393
+00:34:14,554 --> 00:34:21,270
+Uma análise é a forma mais simples
+de captar a resposta a uma reprodução.
+
+394
+00:34:22,563 --> 00:34:23,772
+É uma grande mudança.
+
+395
+00:34:24,898 --> 00:34:25,983
+Muito grande.
+
+396
+00:34:31,362 --> 00:34:32,989
+- Acho que estamos…
+- Ei, Maggie.
+
+397
+00:34:33,072 --> 00:34:35,284
+Vamos fazer alterações ao protocolo.
+
+398
+00:34:35,367 --> 00:34:37,369
+- Vão ser análises.
+- Só análises?
+
+399
+00:34:37,452 --> 00:34:38,704
+- Sim.
+- Só análises?
+
+400
+00:34:38,786 --> 00:34:40,163
+Só análises.
+
+401
+00:34:41,206 --> 00:34:44,001
+Pensei que só ia ter uma baleia,
+
+402
+00:34:44,083 --> 00:34:47,713
+por isso, fazia todo o sentido
+observar o que uma baleia fazia.
+
+403
+00:34:49,922 --> 00:34:54,678
+Em vez disso, tenho muitas baleias,
+o que foi uma surpresa inesperada.
+
+404
+00:34:56,889 --> 00:34:59,433
+Então, preciso de saber
+
+405
+00:34:59,516 --> 00:35:02,978
+se o número de cantos "whup"
+que cada baleia emite
+
+406
+00:35:03,061 --> 00:35:05,189
+aumenta quando eu reproduzo
+um canto "whup".
+
+407
+00:35:08,358 --> 00:35:11,486
+E a melhor forma de o fazer
+é começar a fazer análises.
+
+408
+00:35:13,197 --> 00:35:15,908
+Assinalo cada baleia
+que consigo ver à minha volta.
+
+409
+00:35:17,868 --> 00:35:20,954
+Se, em média, o número de cantos "whup"
+que cada baleia faz
+
+410
+00:35:21,038 --> 00:35:23,498
+subir quando eu reproduzir
+um canto "whup"…
+
+411
+00:35:25,000 --> 00:35:29,546
+… é uma prova muito forte de que usam
+o canto "whup" para estabelecer contacto.
+
+412
+00:35:56,949 --> 00:36:01,495
+PRIMEIRA REPRODUÇÃO PARA VÁRIAS BALEIAS
+
+413
+00:36:20,138 --> 00:36:21,723
+A iniciar a reprodução.
+
+414
+00:36:55,924 --> 00:36:56,925
+Muito bem.
+
+415
+00:37:01,221 --> 00:37:03,682
+Vamos naquela direção
+para dar algum espaço.
+
+416
+00:37:03,765 --> 00:37:07,644
+E depois damos a volta.
+Devagar, vamos devagar.
+
+417
+00:37:15,402 --> 00:37:18,780
+- Trinta segundos de reprodução.
+- Obrigada. Trinta segundos.
+
+418
+00:37:26,580 --> 00:37:31,126
+Tamanho do grupo, quatro.
+A 131º, 450 metros.
+
+419
+00:37:33,295 --> 00:37:38,717
+Tamanho do grupo, duas.
+A 154º, a 900 metros.
+
+420
+00:37:38,800 --> 00:37:41,386
+A 145º. Tamanho do grupo, duas.
+
+421
+00:37:41,470 --> 00:37:43,805
+- Podes abrandar um pouco?
+- Dificilmente.
+
+422
+00:37:45,015 --> 00:37:47,100
+Alcance, 180 metros.
+
+423
+00:37:47,184 --> 00:37:48,852
+Por favor, repete o azimute.
+
+424
+00:37:48,936 --> 00:37:50,229
+É 142º.
+
+425
+00:37:51,939 --> 00:37:53,565
+Tamanho do grupo, duas…
+
+426
+00:37:58,403 --> 00:38:00,531
+A 230 metros.
+
+427
+00:38:00,614 --> 00:38:03,909
+A 185º. Tamanho do grupo, uma.
+
+428
+00:38:05,202 --> 00:38:09,331
+- Por favor, repete. Desculpa.
+- A 185º. Tamanho do grupo, uma. A 230 m.
+
+429
+00:38:12,042 --> 00:38:15,379
+A 180 metros.
+Tamanho do grupo, uma. A 256º.
+
+430
+00:38:15,462 --> 00:38:18,382
+Estou com um grupo
+de tamanho quatro a 900 metros.
+
+431
+00:38:19,383 --> 00:38:21,635
+- Qual era o azimute?
+- Não sei.
+
+432
+00:38:23,762 --> 00:38:25,889
+Muito bem.
+Vamos parar e começar do início.
+
+433
+00:38:26,640 --> 00:38:31,562
+É muito, muito rápido,
+e não tive tempo de olhar para isto.
+
+434
+00:38:31,645 --> 00:38:33,188
+Eu sei. E é…
+
+435
+00:38:33,272 --> 00:38:35,482
+Vamos apagar tudo e recomeçar.
+
+436
+00:38:38,527 --> 00:38:41,655
+Por muito difícil que isto fosse,
+foi mais fácil.
+
+437
+00:38:43,740 --> 00:38:46,618
+Do que tentar seguir
+um animal no meio deles todos?
+
+438
+00:38:46,702 --> 00:38:48,912
+Sim. Olha para elas. Olha para aquilo.
+
+439
+00:39:00,591 --> 00:39:02,426
+Muito bem. Iniciar levantamento.
+
+440
+00:39:05,220 --> 00:39:08,348
+Muito bem. Tamanho do grupo, três. A 159º.
+
+441
+00:39:22,696 --> 00:39:24,239
+Eu quero ver-nos a nós.
+
+442
+00:39:24,907 --> 00:39:26,992
+- Quando começámos a reproduzir?
+- Às 11h32.
+
+443
+00:39:32,873 --> 00:39:35,667
+- Parece-me bem.
+- Acho que somos nós. É baixinho.
+
+444
+00:39:35,751 --> 00:39:37,669
+Mas encaixa perfeitamente.
+
+445
+00:39:37,753 --> 00:39:40,631
+Encaixa perfeitamente. Oh, sim.
+Parece muito, muito realista.
+
+446
+00:39:43,675 --> 00:39:44,801
+Sim.
+
+447
+00:39:51,225 --> 00:39:52,893
+- Não somos nós.
+- Não, não somos.
+
+448
+00:39:52,976 --> 00:39:55,020
+- Nós estamos aqui. Isto somos nós.
+- Sim.
+
+449
+00:40:01,443 --> 00:40:04,279
+Acho que o canto "whup"
+é uma espécie de cumprimento para elas.
+
+450
+00:40:05,364 --> 00:40:09,409
+Possivelmente: "Olá, eu sou…"
+
+451
+00:40:11,954 --> 00:40:13,330
+O que levanta a questão:
+
+452
+00:40:15,207 --> 00:40:17,209
+se cada baleia tem
+o seu próprio canto "whup"…
+
+453
+00:40:18,544 --> 00:40:20,546
+… será que o usam para se identificarem?
+
+454
+00:40:25,509 --> 00:40:28,637
+É por isso que reproduzo este som.
+
+455
+00:40:29,555 --> 00:40:31,598
+Antes de podermos conversar…
+
+456
+00:40:33,308 --> 00:40:34,977
+… convém apresentarmo-nos.
+
+457
+00:40:37,104 --> 00:40:40,232
+Então, que mais encontrámos aqui?
+
+458
+00:40:40,315 --> 00:40:43,819
+Queríamos ver se faziam o canto "whup"
+antes de começarmos, certo?
+
+459
+00:40:44,361 --> 00:40:46,363
+- Somos nós.
+- E isso somos nós.
+
+460
+00:40:46,446 --> 00:40:49,241
+Não há muitos "whups"
+antes de se ouvir o nosso.
+
+461
+00:40:54,329 --> 00:40:56,123
+Elas insistem em responder.
+
+462
+00:41:02,045 --> 00:41:03,881
+Pode ter sido só coincidência.
+
+463
+00:41:03,964 --> 00:41:05,465
+Aí está outra vez.
+
+464
+00:41:13,056 --> 00:41:14,224
+- Oh, Leanna.
+- O que foi?
+
+465
+00:41:14,308 --> 00:41:15,809
+- Anda cá.
+- Está bem.
+
+466
+00:41:15,893 --> 00:41:19,062
+- Maggie. Precisamos de um empurrão.
+- Oh, céus!
+
+467
+00:41:20,147 --> 00:41:21,690
+- Oh, céus.
+- Batemos no chão.
+
+468
+00:41:21,773 --> 00:41:23,108
+Está a ranger.
+
+469
+00:41:24,067 --> 00:41:26,486
+Não vou ajudar.
+Não vou participar nisso.
+
+470
+00:41:26,570 --> 00:41:28,488
+Não quero ser processada
+se algo correr mal.
+
+471
+00:41:28,572 --> 00:41:31,116
+Estamos no chão?
+Acho que batemos no chão.
+
+472
+00:41:31,200 --> 00:41:34,828
+Vou ficar aqui e julgar-vos.
+Não podemos balançar?
+
+473
+00:41:34,912 --> 00:41:37,998
+Bem, se formos para ali
+há menos chão, certo?
+
+474
+00:41:40,334 --> 00:41:42,544
+- Pronta?
+- Oh, meu Deus. Estou em lágrimas.
+
+475
+00:41:45,547 --> 00:41:47,758
+Oh, meu Deus. Vou fazer xixi nas calças.
+
+476
+00:41:47,841 --> 00:41:49,051
+Oh, sim. Oh, Maggie.
+
+477
+00:41:52,346 --> 00:41:54,973
+- Toma, tem cuidado.
+- Oh, isto parece mesmo má ideia.
+
+478
+00:41:55,057 --> 00:41:56,975
+- Consegues pôr os pés aí em cima?
+- Provavelmente.
+
+479
+00:41:57,059 --> 00:41:59,186
+Acho que sim,
+se agarrares mais acima… Sim.
+
+480
+00:41:59,269 --> 00:42:01,104
+Sim, só tens de saltar.
+
+481
+00:42:01,188 --> 00:42:02,481
+Salta e monta. Oh, céus.
+
+482
+00:42:04,233 --> 00:42:06,193
+Oh, céus. Não a deixes bater na árvore.
+
+483
+00:42:38,141 --> 00:42:40,644
+Pego nas coisas de que gosto
+quando estou aqui
+
+484
+00:42:40,727 --> 00:42:42,771
+e introduzo-as na minha casa.
+
+485
+00:42:42,855 --> 00:42:43,856
+Tipo o quê?
+
+486
+00:42:43,939 --> 00:42:45,399
+Tipo, não tenho internet.
+
+487
+00:42:45,482 --> 00:42:47,442
+Sim. Não tens internet em casa?
+
+488
+00:42:47,526 --> 00:42:49,987
+- Sim, não tenho internet em casa.
+- Sim.
+
+489
+00:42:50,070 --> 00:42:51,697
+Em minha casa é muito sossegado.
+
+490
+00:42:51,780 --> 00:42:53,532
+Estou longe do barulho,
+
+491
+00:42:53,615 --> 00:42:56,076
+por isso, quando saio, soa um bocadinho…
+
+492
+00:42:56,159 --> 00:42:57,160
+Sim.
+
+493
+00:42:57,244 --> 00:43:00,163
+Quando acordo de manhã,
+parece que acordo numa tenda.
+
+494
+00:43:00,247 --> 00:43:04,084
+Sim. A transição de sair daqui
+é exponencialmente mais difícil.
+
+495
+00:43:04,168 --> 00:43:08,172
+Demoramos dias a recalibrar-nos
+
+496
+00:43:08,255 --> 00:43:11,216
+à realidade e ao mundo real e é…
+
+497
+00:43:11,300 --> 00:43:14,553
+É aí que eu… O problema é esse.
+Eu não acho que isso seja realidade,
+
+498
+00:43:14,636 --> 00:43:15,929
+acho que a realidade é isto.
+
+499
+00:43:16,013 --> 00:43:18,599
+Isto é que é o mundo real.
+
+500
+00:43:18,682 --> 00:43:21,935
+Sim, mas não é o mundo real
+onde vivemos o tempo todo.
+
+501
+00:43:22,019 --> 00:43:24,855
+- Pois.
+- Por isso, temos de nos voltar a adaptar
+
+502
+00:43:24,938 --> 00:43:28,317
+à vida quotidiana
+que tínhamos antes disto.
+
+503
+00:43:28,400 --> 00:43:29,651
+E é difícil.
+
+504
+00:43:58,931 --> 00:44:01,183
+Algumas coisas que fazemos não são inatas.
+
+505
+00:44:05,354 --> 00:44:06,438
+São aprendidas.
+
+506
+00:44:10,275 --> 00:44:12,277
+Dizem-nos a quem estamos ligados.
+
+507
+00:44:14,738 --> 00:44:15,864
+E onde pertencemos.
+
+508
+00:44:18,867 --> 00:44:20,661
+Trabalhámos bem, hoje. Grande equipa.
+
+509
+00:44:20,744 --> 00:44:21,745
+Sim.
+
+510
+00:44:22,454 --> 00:44:24,164
+Tomámos bem conta umas das outras.
+
+511
+00:44:24,790 --> 00:44:25,958
+Rimos muito.
+
+512
+00:44:26,041 --> 00:44:27,584
+Rimo-nos muito, hoje.
+
+513
+00:44:30,546 --> 00:44:32,214
+Não queres que te corte o cabelo?
+
+514
+00:44:38,679 --> 00:44:41,431
+Chamamos a isto cultura.
+
+515
+00:44:50,232 --> 00:44:52,901
+As culturas mais antigas não são humanas.
+
+516
+00:44:56,405 --> 00:44:57,906
+Existem no oceano.
+
+517
+00:45:02,160 --> 00:45:06,164
+Durante gerações, os investigadores
+pensavam que eram solitárias
+
+518
+00:45:07,332 --> 00:45:09,001
+quando não as viam juntas.
+
+519
+00:45:14,882 --> 00:45:17,593
+Mas há eras que não estão sozinhas.
+
+520
+00:45:21,471 --> 00:45:26,852
+Há 40 milhões de anos, os seus cérebros
+explodiram em complexidade.
+
+521
+00:45:28,979 --> 00:45:31,064
+Antes de nós caminharmos eretos.
+
+522
+00:45:33,150 --> 00:45:34,902
+Antes de descobrirmos o fogo.
+
+523
+00:45:37,404 --> 00:45:40,782
+A consciência desenvolveu-se
+porque se tornaram sociais.
+
+524
+00:45:46,121 --> 00:45:49,666
+Regiões ligadas à identidade
+e à comunidade
+
+525
+00:45:49,750 --> 00:45:52,544
+desenvolveram-se mais
+do que em qualquer outro cérebro.
+
+526
+00:45:54,087 --> 00:45:55,464
+Incluindo o nosso.
+
+527
+00:45:57,341 --> 00:46:00,302
+Os sentidos da visão e do som fundiram-se.
+
+528
+00:46:02,387 --> 00:46:05,974
+Permitindo às baleias verem-se
+umas às outras através do som.
+
+529
+00:46:09,269 --> 00:46:13,023
+As baleias evoluíram de forma
+a construir relações no escuro.
+
+530
+00:46:24,117 --> 00:46:26,537
+- Cauda!
+- Onde… Cauda à esquerda!
+
+531
+00:46:26,620 --> 00:46:28,372
+Tenho uma ali e outra ali.
+
+532
+00:46:36,129 --> 00:46:38,298
+Muito bem. A gravar às 13h50.
+
+533
+00:46:57,109 --> 00:47:00,070
+Muito bem, temos uma cantora.
+
+534
+00:47:07,744 --> 00:47:09,204
+Os gemidos são mesmo…
+
+535
+00:47:09,288 --> 00:47:11,456
+Conseguimos ouvir todos os detalhes,
+é ótimo.
+
+536
+00:47:11,540 --> 00:47:15,085
+É exatamente o que queremos.
+É isto mesmo. É a tal!
+
+537
+00:47:15,169 --> 00:47:18,255
+É a tal.
+Vamos segurar o cabo durante uma hora.
+
+538
+00:47:18,338 --> 00:47:19,756
+Vamos… Este é o nosso ouro.
+
+539
+00:47:19,840 --> 00:47:21,842
+- Tipo, isto valida toda a época.
+- Sim.
+
+540
+00:47:41,028 --> 00:47:44,656
+A canção que gravámos
+é diferente da que tenho estado a seguir.
+
+541
+00:47:46,992 --> 00:47:49,703
+Uma nova canção, que nunca tinha ouvido.
+
+542
+00:47:51,330 --> 00:47:55,709
+Em 20 anos de gravações de canções
+através do Pacífico Sul,
+
+543
+00:47:55,792 --> 00:47:58,754
+é a primeira vez que vejo isto acontecer.
+
+544
+00:48:01,131 --> 00:48:02,841
+Mas não acho que seja uma anomalia.
+
+545
+00:48:05,802 --> 00:48:10,015
+A canção tem uma estrutura complexa
+e temas totalmente formados.
+
+546
+00:48:14,186 --> 00:48:17,439
+Talvez a Polinésia Francesa
+não seja o fim do mapa.
+
+547
+00:48:25,906 --> 00:48:30,619
+13 DE 30 REPRODUÇÕES CONCLUÍDAS
+PARA VÁRIAS BALEIAS
+
+548
+00:48:30,702 --> 00:48:35,832
+FALTAM 20 DIAS
+
+549
+00:48:35,916 --> 00:48:41,129
+Para a semana, perco a Leanna
+e a Maggie para os seus empregos diários.
+
+550
+00:48:42,464 --> 00:48:44,633
+Mas acho que, finalmente,
+estamos a compreender.
+
+551
+00:48:46,552 --> 00:48:50,097
+Desde que passámos a seguir
+dezenas de baleias em vez de uma,
+
+552
+00:48:50,180 --> 00:48:52,432
+o mais difícil é medir a distância a olho.
+
+553
+00:48:54,351 --> 00:48:57,145
+Por isso, todas as manhãs, praticamos.
+
+554
+00:48:57,229 --> 00:48:58,730
+- O meu palpite.
+- Sim.
+
+555
+00:48:58,814 --> 00:49:00,607
+- Eu…
+- Tu primeiro.
+
+556
+00:49:00,691 --> 00:49:02,526
+Eu diria 114 metros.
+
+557
+00:49:02,609 --> 00:49:05,153
+- Eu diria 135.
+- Aceito 135.
+
+558
+00:49:05,237 --> 00:49:06,613
+São 155.
+
+559
+00:49:06,697 --> 00:49:09,616
+Eu diria 135 a 180 metros,
+foi o meu palpite.
+
+560
+00:49:09,700 --> 00:49:11,368
+A sério? O meu foi 90 a 135 metros.
+
+561
+00:49:11,451 --> 00:49:13,203
+- Pronto. Muito bem.
+- Errei.
+
+562
+00:49:15,998 --> 00:49:18,709
+- São 135 a 180 metros.
+- Eu diria 135 a 180 metros.
+
+563
+00:49:18,792 --> 00:49:20,752
+Muito bem, varia de…
+Oh, céus, não te mexas.
+
+564
+00:49:24,256 --> 00:49:25,465
+São 120 metros.
+
+565
+00:49:26,300 --> 00:49:28,010
+- Ficámos um pouco longe.
+- Sim.
+
+566
+00:49:28,093 --> 00:49:29,761
+Estamos a sobrestimar a distância.
+
+567
+00:49:31,471 --> 00:49:32,598
+- Pronta?
+- Sim.
+
+568
+00:49:33,974 --> 00:49:36,310
+- Setenta metros.
+- Eu diria 70 metros.
+
+569
+00:49:36,393 --> 00:49:37,853
+- Mais perto do que 90.
+- A 65.
+
+570
+00:49:38,604 --> 00:49:40,939
+- Estou a sentir-me melhor.
+- Estamos… Sim.
+
+571
+00:49:44,318 --> 00:49:47,154
+- Hoje está calor.
+- Estou tão desconfortável!
+
+572
+00:49:49,865 --> 00:49:52,451
+Também pareces muito, tipo,
+
+573
+00:49:52,534 --> 00:49:55,037
+miúda-francesa-vai-ao-campo-hoje.
+- A sério?
+
+574
+00:49:55,120 --> 00:49:56,955
+Com o puxo e toda de preto.
+
+575
+00:49:57,039 --> 00:50:00,876
+Bem, é para não se verem
+as manchas de suor com o preto
+
+576
+00:50:00,959 --> 00:50:03,587
+e para poder usar um chapéu.
+
+577
+00:50:04,838 --> 00:50:05,923
+Moda funcional.
+
+578
+00:50:06,006 --> 00:50:08,133
+- Moda funcional.
+- Sim.
+
+579
+00:50:10,594 --> 00:50:13,013
+Não mudo de camisola há uns seis dias.
+
+580
+00:50:16,892 --> 00:50:19,144
+São tão espetaculares. Há tantas baleias.
+
+581
+00:50:19,978 --> 00:50:26,318
+Ali, ali e ali… e ali e ali e…
+
+582
+00:50:56,014 --> 00:50:57,140
+A sério?
+
+583
+00:51:00,811 --> 00:51:03,480
+Leanna. Temos combustível a verter
+da parte de trás.
+
+584
+00:51:03,564 --> 00:51:04,815
+- Certo, vamos embora.
+- Sim.
+
+585
+00:51:09,444 --> 00:51:11,154
+Está a funcionar.
+
+586
+00:51:29,923 --> 00:51:31,175
+Sim.
+
+587
+00:52:06,960 --> 00:52:10,172
+Não sei exatamente onde é a fuga,
+
+588
+00:52:10,255 --> 00:52:12,090
+por isso, preciso de descobrir.
+
+589
+00:52:12,174 --> 00:52:15,636
+Mas sei que, quando injeto combustível,
+a admissão está bem,
+
+590
+00:52:15,719 --> 00:52:17,679
+mas passa-se alguma coisa. Eu acho…
+
+591
+00:52:19,306 --> 00:52:22,059
+Nem vou especular agora.
+Mas vou tratar disso.
+
+592
+00:52:22,142 --> 00:52:23,227
+Está bem.
+
+593
+00:52:25,312 --> 00:52:27,648
+Saibam que, provavelmente,
+durante as próximas horas,
+
+594
+00:52:27,731 --> 00:52:29,608
+não terei largura de banda extra,
+
+595
+00:52:29,691 --> 00:52:33,362
+estarei em modo de resolução
+de problemas até resolver o problema.
+
+596
+00:52:33,445 --> 00:52:34,905
+- Entendido.
+- Certo.
+
+597
+00:52:53,841 --> 00:52:57,427
+NOS RESTANTES DIAS
+DE LEANNA E MAGGIE NO TERRENO,
+
+598
+00:52:57,511 --> 00:52:59,888
+A EQUIPA NÃO CONSEGUE
+EMITIR AS REPRODUÇÕES
+
+599
+00:52:59,972 --> 00:53:02,057
+POR CAUSA DO MOTOR AVARIADO.
+
+600
+00:53:36,675 --> 00:53:39,303
+SEMANA 2
+
+601
+00:53:52,274 --> 00:53:54,234
+Sim, estamos a chegar aos 20 minutos.
+
+602
+00:54:08,207 --> 00:54:09,374
+Borrifo.
+
+603
+00:54:09,458 --> 00:54:11,126
+Movimento.
+
+604
+00:54:16,840 --> 00:54:18,967
+Oh, sim. E outra vez.
+
+605
+00:54:25,140 --> 00:54:27,434
+Borrifo.
+
+606
+00:54:27,518 --> 00:54:30,145
+- Onde? Borrifo?
+- Borrifo?
+
+607
+00:54:34,775 --> 00:54:36,151
+Sim. Sim.
+
+608
+00:54:37,528 --> 00:54:40,072
+A começar a captar agora.
+
+609
+00:54:59,258 --> 00:55:01,134
+Não é cantora.
+
+610
+00:55:01,218 --> 00:55:03,929
+Não é cantora. Eu sei.
+
+611
+00:55:04,012 --> 00:55:06,974
+Ela está, tipo, ali mesmo, mas… Eu sei.
+
+612
+00:55:08,892 --> 00:55:11,395
+- É uma agulha num palheiro.
+- Sim.
+
+613
+00:55:11,478 --> 00:55:12,729
+E só temos de…
+
+614
+00:55:12,813 --> 00:55:15,399
+Ou vão estar ali e a cantar ou não.
+
+615
+00:55:41,341 --> 00:55:42,885
+ECOLOGISTA MARINHO
+
+616
+00:55:42,968 --> 00:55:45,888
+Então, ele está a dizer,
+4 horas, 4h30 na Marina de Vaiare.
+
+617
+00:55:45,971 --> 00:55:47,139
+- Amanhã?
+- Sim.
+
+618
+00:55:47,222 --> 00:55:49,474
+Vamos a isso. Eu alinho. Ótimo.
+
+619
+00:56:07,701 --> 00:56:09,286
+Quatro, duas…
+
+620
+00:56:11,371 --> 00:56:14,458
+Só disse que não tínhamos
+nenhuma boa canção,
+
+621
+00:56:14,541 --> 00:56:17,002
+mas foi bom termos saído
+e foi um bom treino.
+
+622
+00:56:28,222 --> 00:56:31,099
+E esta ponta é a parte mais importante.
+É o hidrofone.
+
+623
+00:56:31,183 --> 00:56:34,144
+Sim, isto é o hidrofone. Quando o fixamos,
+
+624
+00:56:34,228 --> 00:56:37,105
+colocamos o hidrofone para cima
+e a cauda para baixo.
+
+625
+00:56:37,189 --> 00:56:39,983
+Portanto, há um peso no chão
+e uma boia ou… Sim.
+
+626
+00:56:40,067 --> 00:56:44,446
+Sim. Colocamo-lo no recife
+e, por isso, há muitos peixes à volta.
+
+627
+00:56:44,530 --> 00:56:46,281
+- Apanhamos barulhos muito fixes.
+- Certo.
+
+628
+00:56:46,365 --> 00:56:48,742
+Tipo, ouvimos muito disso e…
+
+629
+00:56:48,825 --> 00:56:50,911
+- Ouvem-se camarões-de-estalo, mas…
+- Sim.
+
+630
+00:56:50,994 --> 00:56:54,873
+Se houver uma cantora próxima,
+sobrepõe-se a tudo o resto.
+
+631
+00:56:59,294 --> 00:57:00,963
+Faço tudo o que posso
+
+632
+00:57:01,046 --> 00:57:04,174
+para registar se algo diferente
+está a acontecer aqui.
+
+633
+00:57:12,140 --> 00:57:13,183
+Muito bem.
+
+634
+00:57:13,267 --> 00:57:14,685
+Sim.
+
+635
+00:57:16,436 --> 00:57:19,481
+Estamos a 10 de setembro
+
+636
+00:57:19,565 --> 00:57:23,777
+e estamos atualmente
+ao largo do recife em Mo'orea.
+
+637
+00:57:23,861 --> 00:57:27,030
+Se encontrada, esta banda sonora
+pertence à Dra. Ellen Garland
+
+638
+00:57:27,114 --> 00:57:29,616
+da Universidade de St. Andrews.
+
+639
+00:57:35,831 --> 00:57:38,375
+Estamos a colocar hidrofones
+no fundo do mar,
+
+640
+00:57:38,458 --> 00:57:40,669
+esperando que uma cantora se aproxime.
+
+641
+00:57:46,592 --> 00:57:50,387
+Muito bem. Vou mergulhá-lo. Sim. Certo.
+
+642
+00:57:55,517 --> 00:57:58,437
+Chamamos à nossa comunicação "linguagem".
+
+643
+00:57:59,646 --> 00:58:02,774
+Achamos que o que as baleias fazem
+é diferente.
+
+644
+00:58:11,033 --> 00:58:16,997
+Debaixo de água, os sons podem ouvir-se
+meia hora depois, além do horizonte.
+
+645
+00:58:18,165 --> 00:58:22,920
+Ou podem desvanecer
+em poucos segundos e/ou metros.
+
+646
+00:58:25,130 --> 00:58:27,216
+Chegam sons constantemente…
+
+647
+00:58:28,842 --> 00:58:32,387
+… de diferentes locais e momentos.
+
+648
+00:58:39,436 --> 00:58:43,899
+E, de alguma forma, as corcundas
+decifram um mundo acústico
+
+649
+00:58:43,982 --> 00:58:48,403
+onde o passado e o presente
+chegam ao mesmo tempo.
+
+650
+00:58:56,495 --> 00:58:59,790
+É como saber a idade de cada estrela…
+
+651
+00:59:01,875 --> 00:59:03,502
+… apenas com os ouvidos.
+
+652
+00:59:20,060 --> 00:59:22,396
+ENQUANTO AGUARDA
+UM MOTOR DE SUBSTITUIÇÃO,
+
+653
+00:59:22,479 --> 00:59:24,898
+UMA AMIGA E COLEGA DE MICHELLE
+JUNTA-SE A ELA
+
+654
+00:59:24,982 --> 00:59:27,401
+PARA AJUDAR A TERMINAR A ÉPOCA.
+
+655
+00:59:28,861 --> 00:59:33,198
+ALUNA DE DOUTORAMENTO, ECOLOGIA MARINHA
+
+656
+00:59:49,840 --> 00:59:52,176
+- Quantas baleias marquei?
+- Seis.
+
+657
+00:59:52,259 --> 00:59:55,721
+Um total de seis. Baleias, baleias…
+
+658
+00:59:55,804 --> 00:59:58,724
+Um grupo de duas, um grupo de três
+e uma sozinha ali. Certo?
+
+659
+00:59:58,807 --> 00:59:59,850
+Sim.
+
+660
+00:59:59,933 --> 01:00:01,310
+- Acontece muito.
+- Sim.
+
+661
+01:00:02,186 --> 01:00:03,270
+Muito bem.
+
+662
+01:00:03,353 --> 01:00:05,189
+- Muito bem.
+- Hora da minha pausa?
+
+663
+01:00:06,565 --> 01:00:07,649
+Sim.
+
+664
+01:00:07,733 --> 01:00:08,984
+Baleia a aparecer!
+
+665
+01:00:09,067 --> 01:00:12,321
+- Bem, já acabou o trabalho.
+- Sim, mas podemos observar.
+
+666
+01:00:12,404 --> 01:00:15,032
+Está na hora do lanche.
+Vai buscar o lanche.
+
+667
+01:00:15,115 --> 01:00:17,242
+- Toma, queijinho.
+- Perfeito. Obrigada.
+
+668
+01:00:17,326 --> 01:00:18,493
+Sim.
+
+669
+01:00:18,577 --> 01:00:21,079
+Depois, a que distância
+fazemos outro levantamento?
+
+670
+01:00:21,163 --> 01:00:23,123
+- Uma hora ou seis km.
+- Seis quilómetros.
+
+671
+01:00:23,207 --> 01:00:24,499
+Excelente.
+
+672
+01:00:25,459 --> 01:00:27,586
+Quantos levantamentos
+tentamos fazer num dia?
+
+673
+01:00:27,669 --> 01:00:29,046
+- Quatro.
+- Quatro.
+
+674
+01:00:29,129 --> 01:00:31,089
+Quão esfomeadas vamos estar
+ao chegar a casa?
+
+675
+01:00:31,173 --> 01:00:32,966
+- Muito.
+- Muito esfomeadas.
+
+676
+01:00:39,473 --> 01:00:41,308
+Há muito a acontecer neste ficheiro.
+
+677
+01:00:41,975 --> 01:00:44,311
+Não me surpreende.
+Há muitas baleias por perto.
+
+678
+01:00:44,978 --> 01:00:46,813
+Aqui está um pequeno canto de alimento.
+
+679
+01:00:51,985 --> 01:00:54,154
+Chama-se a isto arcos, e este é uma gota.
+
+680
+01:00:55,155 --> 01:00:57,241
+"Whup", alimento, gota.
+
+681
+01:00:57,324 --> 01:01:01,787
+Gota, gota, gota.
+
+682
+01:01:01,870 --> 01:01:06,416
+Alimento, gota, gota, gota.
+
+683
+01:01:06,500 --> 01:01:08,043
+A quantos deste um nome?
+
+684
+01:01:09,378 --> 01:01:10,504
+Dei um nome a todos.
+
+685
+01:01:16,343 --> 01:01:17,928
+Sabes o que chamamos a este canto?
+
+686
+01:01:20,597 --> 01:01:21,598
+Elefante.
+
+687
+01:01:21,682 --> 01:01:25,102
+Não, quase. Pensa noutro animal
+que faça este som. Pode estar extinto.
+
+688
+01:01:25,185 --> 01:01:27,563
+- Mamute.
+- Quase.
+
+689
+01:01:27,646 --> 01:01:28,856
+Mamute-lanoso.
+
+690
+01:01:33,610 --> 01:01:35,529
+Não, chama-se "brontossauro".
+
+691
+01:01:35,612 --> 01:01:37,531
+"Pode" estar extinto?
+
+692
+01:01:38,824 --> 01:01:40,409
+Está certamente extinto.
+
+693
+01:01:41,201 --> 01:01:42,494
+Enganaste-me.
+
+694
+01:01:43,328 --> 01:01:45,414
+Faz-me lembrar os brontossauros.
+
+695
+01:01:45,497 --> 01:01:46,790
+- Brontosauri.
+- Concordo.
+
+696
+01:01:49,376 --> 01:01:51,628
+- Parece um brontossauro.
+- Pois parece.
+
+697
+01:02:39,259 --> 01:02:42,471
+Mais três dias até chegar o motor novo.
+
+698
+01:02:52,523 --> 01:02:57,277
+Estamos a tentar responder à pergunta:
+"O 'whup' é um canto de contacto?"
+
+699
+01:03:01,073 --> 01:03:02,741
+E estamos a ficar sem tempo.
+
+700
+01:03:06,578 --> 01:03:07,746
+Registamos tudo.
+
+701
+01:03:09,414 --> 01:03:11,834
+Para que possamos, pelo menos,
+demonstrar ao mundo
+
+702
+01:03:11,917 --> 01:03:13,460
+e às gerações vindouras
+
+703
+01:03:13,544 --> 01:03:15,087
+que algo belo esteve aqui.
+
+704
+01:03:32,396 --> 01:03:37,109
+Para responder a estas perguntas,
+tenho de me afastar da sociedade.
+
+705
+01:03:39,987 --> 01:03:43,156
+E viver num mundo
+que é dominado por animais.
+
+706
+01:03:47,244 --> 01:03:50,247
+E não o vejo como um sacrifício.
+
+707
+01:03:52,791 --> 01:03:54,209
+É mais um alívio.
+
+708
+01:04:13,937 --> 01:04:16,523
+Sei que volto para casa
+uma pessoa diferente.
+
+709
+01:04:16,607 --> 01:04:18,942
+E não sei se essa pessoa se vai encaixar…
+
+710
+01:04:20,110 --> 01:04:21,612
+… no papel que eu tinha antes.
+
+711
+01:04:25,574 --> 01:04:28,702
+Tipo, fui à Antártida durante um mês
+
+712
+01:04:28,785 --> 01:04:32,789
+e voltei para casa,
+para um cão e um parceiro
+
+713
+01:04:33,790 --> 01:04:35,792
+que já não se encaixavam.
+
+714
+01:04:36,960 --> 01:04:38,170
+E tive de os deixar.
+
+715
+01:04:40,589 --> 01:04:43,300
+E tenho muito medo
+que isso aconteça outra vez.
+
+716
+01:04:43,383 --> 01:04:44,510
+- Sabes?
+- Sim.
+
+717
+01:04:44,593 --> 01:04:47,930
+Tenho medo de não encaixar
+nesse papel que eu tinha quando parti.
+
+718
+01:04:49,264 --> 01:04:50,265
+Tens de partir.
+
+719
+01:04:50,349 --> 01:04:53,101
+Não apenas fisicamente,
+mas também mentalmente.
+
+720
+01:04:54,061 --> 01:04:56,396
+Vieste para o terreno durante sete épocas.
+
+721
+01:04:58,732 --> 01:05:01,902
+Encontraste forma de voltar para casa?
+
+722
+01:05:01,985 --> 01:05:03,195
+Não.
+
+723
+01:05:04,071 --> 01:05:05,656
+Não.
+
+724
+01:05:05,739 --> 01:05:07,032
+Em vez disso…
+
+725
+01:05:08,033 --> 01:05:11,787
+… faço o oposto e pego nas coisas
+que são preciosas para mim em casa,
+
+726
+01:05:11,870 --> 01:05:14,248
+como tu, e trago-as para aqui.
+
+727
+01:05:16,500 --> 01:05:18,961
+O que parece fazer mais sentido.
+
+728
+01:05:20,379 --> 01:05:23,006
+Porque este é um lugar muito mais seguro
+para se ser humano.
+
+729
+01:05:31,974 --> 01:05:34,977
+SEMANA 3
+
+730
+01:05:38,939 --> 01:05:42,025
+Nunca vi tão poucas baleias
+a esta altura da época.
+
+731
+01:05:43,569 --> 01:05:45,737
+E só conseguimos captar
+uma gravação clara.
+
+732
+01:05:57,708 --> 01:06:00,043
+Certo. Hidrofone a descer.
+
+733
+01:06:03,547 --> 01:06:05,549
+- Está a ir bem.
+- Excelente.
+
+734
+01:06:06,425 --> 01:06:07,759
+Vou anotar a informação
+
+735
+01:06:07,843 --> 01:06:11,805
+porque não queremos estar aqui
+mais tempo do que o necessário.
+
+736
+01:06:23,817 --> 01:06:25,819
+Podem dizer-me a hora? Estou a captar.
+
+737
+01:06:25,903 --> 01:06:27,654
+São 8h29.
+
+738
+01:06:27,738 --> 01:06:30,115
+- Muito bem, a gravar.
+- Porreiro.
+
+739
+01:07:08,862 --> 01:07:10,072
+Isto é frustrante.
+
+740
+01:07:12,032 --> 01:07:15,869
+Temos tanto barulho de água.
+E tantos salpicos.
+
+741
+01:07:15,953 --> 01:07:19,998
+Acho que vamos ter de parar aos 25.
+Eu só… Isto está a ficar…
+
+742
+01:07:21,750 --> 01:07:23,293
+Isto está a ficar complicado.
+
+743
+01:07:27,005 --> 01:07:31,134
+Estou cansada de tudo.
+
+744
+01:07:35,347 --> 01:07:38,725
+Dizer que é difícil, que é complicado,
+
+745
+01:07:38,809 --> 01:07:40,894
+pode, às vezes, ser um sinal de fraqueza.
+
+746
+01:07:48,861 --> 01:07:53,532
+Particularmente, por ser uma mulher,
+não quero mostrar nenhuma fraqueza.
+
+747
+01:08:28,483 --> 01:08:32,069
+Este ano, prometi que só faria
+trabalho de campo durante duas semanas.
+
+748
+01:08:37,242 --> 01:08:38,410
+Tenho saudades do Matt.
+
+749
+01:08:40,703 --> 01:08:44,416
+Parece que foi noutra vida
+que vimos o rosto um do outro.
+
+750
+01:09:31,921 --> 01:09:34,716
+19 DE 30 REPRODUÇÕES CONCLUÍDAS
+FALTAM SEIS DIAS
+
+751
+01:09:34,800 --> 01:09:37,051
+É terça-feira, 27 de agosto.
+
+752
+01:09:37,135 --> 01:09:38,804
+Fala a Dra. Michelle Fournet,
+
+753
+01:09:38,886 --> 01:09:42,599
+aqui com a quase-mas-ainda-não-doutora
+Natalie Mastick.
+
+754
+01:09:48,145 --> 01:09:50,314
+Pronto. Muito bem.
+
+755
+01:09:51,899 --> 01:09:55,112
+Está… mais próxima das outras?
+
+756
+01:09:55,195 --> 01:09:58,240
+Muitas, muitas baleias.
+Ui, tantas baleias.
+
+757
+01:10:00,492 --> 01:10:02,786
+- Muito bem.
+- É o meu problema favorito.
+
+758
+01:10:03,829 --> 01:10:05,914
+É um bom problema. Olha para elas.
+
+759
+01:10:05,998 --> 01:10:07,708
+Olha!
+
+760
+01:10:20,637 --> 01:10:21,847
+Perfeito.
+
+761
+01:10:21,930 --> 01:10:25,893
+Muito bem, o azul está seguro na âncora.
+
+762
+01:10:25,976 --> 01:10:28,645
+O azul está agora na água.
+
+763
+01:10:28,729 --> 01:10:30,272
+O azul está na água.
+
+764
+01:10:38,947 --> 01:10:41,742
+O volume está no máximo, no iPad?
+
+765
+01:10:43,243 --> 01:10:44,870
+- Sim.
+- Está?
+
+766
+01:10:46,914 --> 01:10:49,875
+- Põe a reproduzir outra vez.
+- Já está.
+
+767
+01:10:52,336 --> 01:10:54,129
+- Não o pusemos na água!
+- Bolas.
+
+768
+01:10:55,297 --> 01:10:57,174
+- Muito bem, para.
+- Oh, não.
+
+769
+01:11:01,136 --> 01:11:02,513
+Muito bem. Estás pronta?
+
+770
+01:11:03,931 --> 01:11:05,641
+Não sei. Foi muito stressante.
+
+771
+01:11:05,724 --> 01:11:07,518
+- Sim, estou pronta.
+- Está bem. Começa.
+
+772
+01:11:12,064 --> 01:11:16,235
+Uma. Duas. Três, quatro, cinco.
+
+773
+01:11:16,860 --> 01:11:20,531
+Seis, sete, oito, nove, dez, onze.
+
+774
+01:11:22,908 --> 01:11:25,827
+Pronta? E começa.
+
+775
+01:11:26,995 --> 01:11:28,956
+Temos um grupo de duas.
+
+776
+01:11:29,581 --> 01:11:32,835
+Três sozinhas. Um grupo de quatro. E duas.
+
+777
+01:11:33,418 --> 01:11:36,213
+Aqui mesmo. Acho que há uma aqui.
+
+778
+01:11:36,296 --> 01:11:38,048
+Levantamento número 26.
+
+779
+01:11:39,508 --> 01:11:40,843
+Está na hora.
+
+780
+01:11:41,885 --> 01:11:45,472
+Grupo de três. A 145,6º.
+
+781
+01:11:46,348 --> 01:11:49,768
+Grupo de duas. A 356,1º.
+
+782
+01:11:51,144 --> 01:11:52,396
+Grupo de uma.
+
+783
+01:11:54,731 --> 01:11:56,608
+A 129,6º.
+
+784
+01:11:58,235 --> 01:12:00,112
+De 180 a 450 metros.
+
+785
+01:12:08,912 --> 01:12:11,123
+Sinto a minha idade pela primeira vez.
+
+786
+01:12:12,165 --> 01:12:13,375
+E quero ter um filho.
+
+787
+01:12:14,710 --> 01:12:17,504
+Onde ficará o teu filho
+quando estiveres no terreno?
+
+788
+01:12:18,672 --> 01:12:20,007
+Vais trazê-lo.
+
+789
+01:12:22,217 --> 01:12:23,302
+É uma pergunta difícil.
+
+790
+01:12:23,385 --> 01:12:25,345
+Depende do tipo de trabalho de campo.
+
+791
+01:12:25,429 --> 01:12:28,307
+Depende do tipo de parceiro que tiver
+quando fizer esse trabalho.
+
+792
+01:12:28,390 --> 01:12:31,393
+Se tiver um parceiro
+que se possa juntar a mim, sim.
+
+793
+01:12:31,476 --> 01:12:34,188
+Se tiver um grupo de apoio.
+
+794
+01:12:35,439 --> 01:12:36,982
+Tipo, estou a falar a sério.
+
+795
+01:12:37,065 --> 01:12:38,817
+- Vamos para o terreno um mês.
+- Sim.
+
+796
+01:12:38,901 --> 01:12:40,944
+E alguém apanha mirtilos com os miúdos,
+
+797
+01:12:41,028 --> 01:12:42,905
+e faz panquecas, trata da roupa,
+
+798
+01:12:42,988 --> 01:12:45,991
+cozinha as refeições todas
+e põe a mesa para o pequeno-almoço.
+
+799
+01:12:46,074 --> 01:12:48,368
+E depois, nós chegamos
+dos nossos levantamentos
+
+800
+01:12:48,452 --> 01:12:50,746
+e, no dia seguinte,
+é a minha vez com os miúdos.
+
+801
+01:12:50,829 --> 01:12:52,998
+Tipo, põe-se um aqui
+e segura-se com as duas mãos
+
+802
+01:12:53,081 --> 01:12:55,626
+e, se caírem, caíram,
+levantamo-los outra vez.
+
+803
+01:12:55,709 --> 01:12:56,710
+Sim.
+
+804
+01:12:56,793 --> 01:12:59,755
+E depois voltamos a trocar
+e é a tua vez de ficar em casa.
+
+805
+01:13:00,714 --> 01:13:03,509
+- Sim. Parece maravilhoso.
+- Sim.
+
+806
+01:13:03,592 --> 01:13:06,929
+Estás a pensar no quão exausta vais estar?
+
+807
+01:13:08,472 --> 01:13:09,723
+É só um mês.
+
+808
+01:13:09,806 --> 01:13:12,643
+Um mês a trabalhar
+nove horas por dia no barco,
+
+809
+01:13:12,726 --> 01:13:15,187
+voltar para casa, não dormir.
+
+810
+01:13:16,730 --> 01:13:19,942
+Acho que não há assim tantos
+bons exemplos disso na nossa área.
+
+811
+01:13:20,025 --> 01:13:21,443
+Não precisamos de exemplos.
+
+812
+01:13:42,506 --> 01:13:45,092
+Pronto. Muito bem.
+
+813
+01:13:45,968 --> 01:13:46,969
+Está bem.
+
+814
+01:13:52,641 --> 01:13:54,935
+- Ele disse que é por ali.
+- Uma cantora?
+
+815
+01:13:55,018 --> 01:13:56,770
+- Sim?
+- Ela está a cantar.
+
+816
+01:13:56,854 --> 01:13:58,438
+- Quando chegamos…
+- Está bem. Sim.
+
+817
+01:13:58,522 --> 01:14:00,148
+… elas param de cantar…
+
+818
+01:14:00,232 --> 01:14:02,901
+- Muito bem. Então vamos… Sim.
+- Sim, está bem.
+
+819
+01:14:02,985 --> 01:14:05,195
+- Da última vez, ela recomeçou.
+- Sim, certo.
+
+820
+01:14:05,279 --> 01:14:08,240
+Muito bem. Acho que… Sim.
+Isso explica tudo, porque ouvimos,
+
+821
+01:14:08,323 --> 01:14:11,159
+ouvimos boas canções,
+portanto se ela está ali, eu… sim.
+
+822
+01:14:12,035 --> 01:14:13,036
+Muito bem.
+
+823
+01:14:25,674 --> 01:14:26,800
+A entrar.
+
+824
+01:14:31,722 --> 01:14:33,974
+Acho que estamos a ir na direção certa.
+
+825
+01:14:34,057 --> 01:14:35,309
+Acho que é mais barulhenta.
+
+826
+01:14:41,106 --> 01:14:44,234
+Sim, vamos definitivamente
+na direção certa, agora.
+
+827
+01:14:44,318 --> 01:14:45,485
+Sim.
+
+828
+01:15:06,924 --> 01:15:08,008
+Muito bem.
+
+829
+01:16:34,887 --> 01:16:37,723
+É a mesma canção que ouvimos na Austrália.
+
+830
+01:16:38,599 --> 01:16:41,518
+A que temos vindo a seguir toda a época.
+
+831
+01:16:44,396 --> 01:16:47,482
+O que significa que existem
+pelo menos duas canções diferentes aqui.
+
+832
+01:16:53,030 --> 01:16:55,073
+Um cruzamento de culturas.
+
+833
+01:16:58,410 --> 01:17:01,288
+Esta baleia está a cantar
+a canção do oeste.
+
+834
+01:17:06,877 --> 01:17:09,505
+Mas a outra canção
+tem de vir de outro lugar.
+
+835
+01:17:17,179 --> 01:17:20,474
+E a população mais próxima
+vive perto do Equador.
+
+836
+01:17:21,183 --> 01:17:23,143
+A oito mil quilómetros a leste.
+
+837
+01:17:26,563 --> 01:17:31,652
+O que pensava ser uma partilha de canções
+sem precedentes em todo o Pacífico Sul,
+
+838
+01:17:31,735 --> 01:17:35,989
+poderia ser apenas uma peça
+de uma rede cultural global.
+
+839
+01:17:41,453 --> 01:17:44,498
+Milhares de cérebros
+a aprender e a partilhar
+
+840
+01:17:44,581 --> 01:17:48,085
+alguns dos padrões acústicos
+mais complexos do planeta.
+
+841
+01:17:56,176 --> 01:18:00,931
+O resultado de uma evolução
+milhões de anos mais longa que a nossa.
+
+842
+01:18:07,145 --> 01:18:12,609
+Estudar a cultura das baleias pode vir
+a dar-nos um vislumbre de algo em nós.
+
+843
+01:18:17,990 --> 01:18:19,825
+Como nos podemos relacionar
+de forma diferente
+
+844
+01:18:21,368 --> 01:18:22,953
+daqui a um milhão de anos.
+
+845
+01:20:14,356 --> 01:20:15,899
+Estamos prestes a descobrir…
+
+846
+01:20:16,984 --> 01:20:18,193
+… se resultou neste.
+
+847
+01:20:19,987 --> 01:20:21,488
+Aquele começa ali. Muito bem.
+
+848
+01:20:23,323 --> 01:20:25,951
+Então, no primeiro período anterior,
+há um, dois…
+
+849
+01:20:27,077 --> 01:20:28,328
+… três rugidos.
+
+850
+01:20:28,829 --> 01:20:29,830
+Sem cantos "whup".
+
+851
+01:20:29,913 --> 01:20:33,417
+No segundo período anterior,
+há um, dois, três cantos "whup".
+
+852
+01:20:33,500 --> 01:20:36,712
+Durante o período, há um, dois,
+
+853
+01:20:37,546 --> 01:20:41,925
+três, quatro, cinco, seis, sete…
+
+854
+01:20:43,302 --> 01:20:45,721
+… oito, nove, dez, onze…
+
+855
+01:20:47,389 --> 01:20:48,724
+… doze, treze.
+
+856
+01:20:51,435 --> 01:20:52,811
+Há 13.
+
+857
+01:20:58,525 --> 01:21:00,986
+- É bastante impressionante. Não?
+- É muito fixe.
+
+858
+01:21:01,904 --> 01:21:03,280
+Estão a responder-te.
+
+859
+01:21:05,866 --> 01:21:07,576
+Estou sempre a pensar que não resulta.
+
+860
+01:21:17,711 --> 01:21:20,589
+Estou satisfeita. Muito satisfeita.
+
+861
+01:21:29,890 --> 01:21:33,602
+É tão difícil interpretar
+a linguagem do mundo natural.
+
+862
+01:21:35,062 --> 01:21:40,359
+Ouvir e compreender
+o que diz a si próprio.
+
+863
+01:21:43,028 --> 01:21:48,534
+É equivalente a apontar
+todos os nossos satélites para o céu
+
+864
+01:21:48,617 --> 01:21:51,203
+e tentar captar um sinal
+do espaço sideral.
+
+865
+01:21:54,373 --> 01:21:56,124
+AS PRIMEIRAS ANÁLISES
+DA DRA. FOURNET MOSTRAM
+
+866
+01:21:56,208 --> 01:21:58,418
+QUE AS CORCUNDAS
+USAM O "WHUP" PARA INICIAR O CONTACTO
+
+867
+01:21:58,502 --> 01:21:59,795
+E REVELAR QUEM SÃO.
+
+868
+01:21:59,878 --> 01:22:04,299
+O SEU AVANÇO ABRE UMA JANELA
+
+869
+01:22:04,383 --> 01:22:09,096
+PARA A CAPACIDADE DAS BALEIAS
+DE MANTER RELAÇÕES DURADOURAS.
+
+870
+01:22:12,558 --> 01:22:15,936
+A DRA. GARLAND ESTÁ A TRABALHAR
+COM CIENTISTAS INTERNACIONAIS
+
+871
+01:22:16,019 --> 01:22:17,521
+QUE ESTUDAM O CANTO DAS CORCUNDAS.
+
+872
+01:22:17,604 --> 01:22:20,607
+JUNTOS, ESTÃO A CRIAR UM MAPA
+
+873
+01:22:20,691 --> 01:22:25,237
+DE COMO OS CANTOS DAS BALEIAS
+PODEM SER PARTILHADOS POR TODO O PLANETA.
+
+874
+01:22:26,905 --> 01:22:29,533
+A DRA. FOURNET E A DRA. GARLAND
+CONTINUAM A DESCODIFICAR
+
+875
+01:22:29,616 --> 01:22:31,827
+O QUE PARECE SER
+O SISTEMA GLOBAL MAIS ANTIGO
+
+876
+01:22:31,910 --> 01:22:35,247
+DE CULTURA E COMUNICAÇÃO DA TERRA.
+
+877
+01:26:38,657 --> 01:26:40,659
+Legendas: Teresa Moreira
+
